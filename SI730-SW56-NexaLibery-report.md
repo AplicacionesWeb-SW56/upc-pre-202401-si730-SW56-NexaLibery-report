@@ -4,27 +4,27 @@
 ---
 # UPC
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN SW53
- Profesor: Ellio Jefferrson Navarrete Vilca
+## CURSO: SI730 Aplicacioes Web | SECCIÓN SW56
+ Profesor: Efrain Ricardo Bautista Ubillus
 # Informe de TB1
 "Startup"
-OfficeTech
+NexLibery
 ### Integrantes:
 - xxx - U202xx
-- Herrera Aguirre, Fabia Alejandra - U202219422
-- Rodriguez Vargas, Arian Martin - U202212096
+- xxx - U202xxx
+- xxx - U202xxx
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
-- Ramirez Conteras, Zaid Valentino - U202218472 
+- xxa - U202xxx
 - xxa - U2022xxx 
 
 ---
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 24/03/2024 |Grupo 3 |Se crea el documento |
+| 0.0 | 24/03/2024 |Grupo 8 |Se crea el documento |
 
 # Project Report Collaboration Insights
-[URL del repositorio](https://github.com/OpenSourceSW53/-upc-pre-202401-si729-SW53-officetech-report.git)
+[URL del repositorio](xxx)
 
 (Imagenes de los commits cada entrega)
 
@@ -37,11 +37,10 @@ OfficeTech
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
-#### TechConnect Solutions
-Somos un equipo de desarrolladores de plataformas web con experiencia en servicio técnico, cuyo objetivo es brindar soporte y soluciones a los clientes para satisfacer sus requerimientos y necesidades así como asegurar su completa satisfacción.
-Además, utilizamos una variedad de métodos innovadores para resolver los problemas que enfrentan nuestros clientes.
-- **Misión:** Nuestra misión es garantizar una experiencia óptima y agradable al usar la aplicación, garantizando la seguridad, confianza y preferencia del cliente.
-- **Visión:** Nos esforzamos por penetrar, establecernos y diferenciarnos en el mercado de soporte tecnológico dedicado, ganarnos la confianza del cliente y asegurar una posición sólida en el sector.
+#### NexaLibery
+
+- **Misión:** 
+- **Visión:** 
 #### 1.1.2. Perfiles de integrantes del equipo
 |Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
 |-|-|-|-| 
@@ -54,23 +53,21 @@ Además, utilizamos una variedad de métodos innovadores para resolver los probl
 <!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
-Nuestra plataforma ofrecerá un servicio de suscripción dirigido a empresas que comercializan productos electrónicos. A través de esta suscripción, las empresas tendrán acceso a un plan que incluye una cantidad específica de garantías mediante servicios técnicos. El objetivo es proporcionar un acceso confiable y seguro a estos servicios para empresas, tiendas o profesionales independientes que los requieran.
 
-Además, esta iniciativa creará oportunidades laborales para técnicos especializados en dispositivos electrónicos. Al mismo tiempo, las empresas podrán reducir costos al optar por suscribirse a **OfficeTech** en lugar de mantener su propio equipo de soporte técnico, ya que solo pagarán por el plan seleccionado y los servicios utilizados.
 - **¿Qué?**
-La problematica se presenta cuando los técnicos especializados en dispositivos electrónicos y tecnología enfrentan dificultades para encontrar empleo debido a la falta de medios para promocionarse en el mercado, lo que resulta en una falta de desarrollo económico sostenible.
+
 - **¿Quién?**
-Los técnicos que enfrentan desafíos al no tener una presencia efectiva en las redes sociales para atraer nuevos clientes. Además, algunos técnicos carecen de contactos que puedan recomendar su trabajo, lo que puede llevar a la pérdida de clientes potenciales.
+
 - **¿Por qué?**
-La falta de publicidad o recomendaciones por parte de los técnicos limita su capacidad para obtener más trabajo. Además, los clientes a menudo intentan resolver sus problemas técnicos por sí mismos, consultando a amigos o buscando información en redes sociales.
+
 - **¿Dónde?**
-En sus hogares, esperando una respuesta o contacto telefónico a través de llamadas o mensajes de WhatsApp. El problema radica en que la espera puede ser prolongada.
+
 - **¿Cuándo?**
-Este problema suele manifestarse principalmente por la mañana y por la tarde, momentos en los que los técnicos reciben pocas llamadas.
+
 - **¿Cómo?**
-La calidad del servicio y el tiempo de respuesta son los aspectos más importantes para los clientes a la hora de evaluar un trabajo. La frecuencia del problema sigue un patrón en el que los clientes prefieren a técnicos o empresas que les brinden mayor seguridad y confianza, lo que puede demostrarse mediante un historial de proyectos o referencias positivas.
+
 - **¿Cuánto?**
-Los problemas surgen en días en los que no hay o hay poco contacto con los clientes, lo que afecta los ingresos y el tiempo perdido. Los ingresos de los técnicos varían según las circunstancias de cada cliente, pudiendo limitarse a una simple revisión técnica.
+
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 ##### **Empresa:**

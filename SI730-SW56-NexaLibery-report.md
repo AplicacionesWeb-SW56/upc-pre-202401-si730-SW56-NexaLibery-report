@@ -12,7 +12,7 @@ NexLibery
 ### Integrantes:
 - xxx - U202xx
 - xxx - U202xxx
-- xxx - U202xxx
+- Quispe Erasmo, Raúl Ronaldo - U20211B682
 - Ramirez Ramirez,Marcelo Sebastian - U202210582
 - xxa - U202xxx
 - xxa - U2022xxx 

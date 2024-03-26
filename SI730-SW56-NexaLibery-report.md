@@ -270,6 +270,8 @@ Texto ubiquo: Definicion de este
 
 ![Impact Mapping](../assets/Impact map aplicaciones web.png)
 <img src="../assets/Impact map aplicaciones web.png" alt="Imagen del compañero" style="width:60%;">
+![Impact Mapping](assets/imagen.png)
+
 
 ## 3.4. Product Backlog.
 

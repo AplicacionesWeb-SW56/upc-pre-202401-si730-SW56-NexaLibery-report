@@ -159,14 +159,10 @@ Ocupación: _____
 **Segmento 2:**
 {texto}
 ## 2.3. Needfinding.
-### 2.3.1. User Personas.
-**Segmento 1:** Clientes que requieren de un plan para soporte técnico que brinde garantía y soluciones a sus productos electrónicos vendidos.  
-![Imagen User Persona 1](/assets/User_Persona_1.png)
-<img src="assets/User_Persona_1.png" alt="Mapa de impacto" style="width:100%;">
+### 2.3.1. User Personas. 
+<img src="assets/User Persona 1.png" alt="Mapa de impacto" style="width:100%;">
 
-**Segmento 2:** Técnicos especializados en reparación, mantenimiento y soporte técnico de productos electrónicos.
-![Imagen User Persona 1](/assets/User_Persona_2.png)
-<img src="assets/User_Persona_2.png" alt="Mapa de impacto" style="width:100%;">
+<img src="assets/User Persona 2.png" alt="Mapa de impacto" style="width:100%;">
 
 ### 2.3.2. User Task Matrix.
 **Segmento 1:** 

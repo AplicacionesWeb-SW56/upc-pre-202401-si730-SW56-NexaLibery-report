@@ -15,7 +15,7 @@ NexLibery
 - Quispe Erasmo, Raúl Ronaldo - U20211B682
 - Ramirez Ramirez, Marcelo Sebastian - U202210582
 - Javier Murillo, Mathias - U202022211
-- xxa - U2022xxx 
+- Leon Rioja Carlos Andres - U202111451
 
 ---
 # Registro de Versiones del Informe

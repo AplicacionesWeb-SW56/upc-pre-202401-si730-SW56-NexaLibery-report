@@ -267,7 +267,11 @@ Texto ubiquo: Definicion de este
 
 
 ## 3.3. Impact Mapping.
+
 <img src="../assets/Impact map aplicaciones web.png" alt="Mapa de impacto" style="width:60%;">
+![Mapa de impacto](./assets/Impact map aplicaciones web.png)
+![Mapa de impacto](/assets/Impact map aplicaciones web.png)
+
 
 ## 3.4. Product Backlog.
 

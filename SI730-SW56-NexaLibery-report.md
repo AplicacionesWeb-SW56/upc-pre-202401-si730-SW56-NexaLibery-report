@@ -238,20 +238,12 @@ Texto ubiquo: Definicion de este
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
-Segmento 1:
+| Fases    | Descubrimiento  | Evaluación    | Suscripción    |  Uso Intensivo   | Participación Comunitaria |
+|----------|--------------------------|-----------------------|------------------------|-------------------------|-----------------------------------|
+| Doing    | Los usuarios exploran la oferta inicial de contenidos y las funcionalidades básicas de la plataforma. | Los usuarios comparan las opciones de suscripción y evalúan los beneficios. | Los usuarios se suscriben al nivel que mejor se ajusta a sus necesidades, completando el registro y la configuración de preferencias. | Los usuarios consumen contenido, crean listas de reproducción y utilizan herramientas de estudio. | Los usuarios participan en comunidades, eventos en vivo, y crean grupos de estudio o discusión. |
+| Thinking | "¿Qué tipo de contenido puedo encontrar aquí?" | "¿Qué plan de suscripción ofrece el mejor valor para mí?" | "Espero que el proceso de suscripción sea sencillo." | "Hay tanto contenido interesante; ¿por dónde empiezo?" | "Quiero compartir mis ideas y obtener nuevas perspectivas de otros usuarios." |
+| Feeling  | Curiosidad por la nueva plataforma y sus ofertas. | Consideración cuidadosa y tal vez algo de indecisión sobre las opciones. | Satisfacción al unirse fácilmente y anticipación por explorar el contenido. | Entusiasmo y placer al descubrir y consumir contenido que les gusta. | Sentido de comunidad y conexión al interactuar con otros usuarios con intereses similares. |
 
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
-
-Segmento 2:
-| Fases    |  fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing    | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling  | | texto| texto | texto| texto|
 
 ## 3.2. User Stories.
 

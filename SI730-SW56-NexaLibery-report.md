@@ -218,11 +218,11 @@ Why would they invite others?
 - Participa en discusiones o grupos comunitarios
 
 ### 2.3.4. Empathy Mapping.
-**Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+**Estudiante Universitario:**
+<img src="assets/Empathy Map Estudiante.png" alt="Mapa de empatia" style="width:100%;">
 
-**Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+**Egresado Universitario:**
+<img src="assets/Empathy Map Estudiante.png" alt="Mapa de empatia" style="width:100%;">
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  

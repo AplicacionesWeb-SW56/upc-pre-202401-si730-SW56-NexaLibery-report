@@ -46,7 +46,7 @@ NexLibery
 |-|-|-|-| 
 |Rodriguez Vargas, Arian Martin <img src="/assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Ramirez Ramirez, Marcelo Sebastian <img src="/assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, HTML5,JavaScript,SQL|
-|Leon Rioja, Carlos Andres <img src="/assets/members-profile/perfil.jpeg" alt="Imagen del compañero" style="width:60%">|U202111451|Ingenieria de software|C++, python, HTML5, CSS3, Javascript, SQL, Java|
+|Quispe Erasmo, Raúl Ronaldo <img src="/assets/members-profile/QuispeErasmo.jpeg" alt="Imagen del compañero" style="width:60%">|U20211B682|Ingenieria de software|C++, python, HTML5, CSS3, Javascript|
 |Javier Murillo, Mathias <img src="/assets/members-profile/pelufoto.png" alt="Imagen del compañero" style="width:60%">|U202022211|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Rodriguez Vargas, Arian Martin <img src="/assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
 |Rodriguez Vargas, Arian Martin <img src="/assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|

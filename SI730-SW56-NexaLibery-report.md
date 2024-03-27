@@ -78,10 +78,10 @@ Por lo tanto, Nos hacemos una pregunta de cómo podríamos mejorar la experienci
 |Business Assumptions|User Assumptions|
 |-|-|
 |1. - Creemos que los usuarios desean una plataforma que les permita acceder de manera eficiente a una amplia gama de contenido digital, incluyendo libros electrónicos, audiolibros, música y podcasts. |1. - ¿Quién es el usuario? Los usuarios principales son aquellos que buscan acceder y disfrutar de contenido digital variado, como lectores ávidos, amantes de la música y los podcasts, y ávidos consumidores de contenido multimedia en general.|
-|2. - 12. |2. - 6.|
-|3. - 12. |3. - 6.|
-|4. - 12. |4. - 6.|
-|5. - 12. |5. - 6.|
+|2. - Suponemos que los usuarios valoran la capacidad de personalizar su experiencia, creando listas de reproducción adaptadas a sus gustos y preferencias específicas. |2. - ¿Qué problemas tiene nuestro producto? Nuestro principal problema radica en la falta de personalización y recomendaciones precisas, lo que puede llevar a una experiencia de usuario menos satisfactoria y a una menor retención de clientes.|
+|3. - Asumimos que la recomendación de contenido basada en el historial de consumo del usuario aumentará la satisfacción del usuario y fomentará la exploración de nuevo contenido. |3. - ¿Qué características son importantes? Las características clave incluyen la capacidad de personalizar la experiencia del usuario, recomendaciones precisas y relevantes, y opciones de suscripción flexibles para adaptarse a las necesidades y preferencias de los usuarios.|
+|4. - Creemos que la interacción social, como la participación en comunidades o grupos de discusión, mejorará la experiencia del usuario al proporcionar un sentido de comunidad y pertenencia. |4. - ¿Dónde encaja nuestro producto en su trabajo o vida? Nuestro producto encaja en la vida diaria de los usuarios al proporcionarles una plataforma conveniente y accesible para acceder y disfrutar de contenido digital de alta calidad en cualquier momento y lugar.|
+|5. - Suponemos que la suscripción premium, con beneficios exclusivos como lanzamientos anticipados y eventos en vivo, será atractiva para los usuarios que buscan una experiencia más completa y exclusiva. |5. - ¿Cuándo y cómo es nuestro producto usado? Nuestro producto es utilizado cuando los usuarios desean acceder y disfrutar de contenido digital, ya sea para entretenimiento, aprendizaje o simplemente para relajarse y disfrutar.|
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 Texto
 #### 1.2.2.4. Lean UX Canvas.

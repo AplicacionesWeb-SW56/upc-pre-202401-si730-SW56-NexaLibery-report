@@ -70,6 +70,7 @@ NexLibery
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+##### Problem Statement:
 
 #### 1.2.2.2. Lean UX Assumptions.
 |Business Assumptions|User Assumptions|

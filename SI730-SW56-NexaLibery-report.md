@@ -78,6 +78,10 @@ Por lo tanto, Nos hacemos una pregunta de cómo podríamos mejorar la experienci
 |Business Assumptions|User Assumptions|
 |-|-|
 |1. - 12. |1. - 6.|
+|2. - 12. |2. - 6.|
+|3. - 12. |3. - 6.|
+|4. - 12. |4. - 6.|
+|5. - 12. |5. - 6.|
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 Texto
 #### 1.2.2.4. Lean UX Canvas.

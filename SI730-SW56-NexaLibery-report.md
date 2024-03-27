@@ -96,7 +96,9 @@ Sabremos que hemos tenido éxito cuando observemos un aumento del 40% en la frec
 Creemos que mejorar las opciones de personalización y promover la interacción social en la suscripción básica reducirá la tasa de abandono de usuarios y aumentará la satisfacción del cliente.
 Sabremos que hemos tenido éxito cuando veamos una disminución del 15% en la tasa de cancelación de suscripciones básicas dentro del primer trimestre después de implementar mejoras en la personalización y la interacción social.
 #### 1.2.2.4. Lean UX Canvas.
-(imagen con texto)
+El Lean UX Canvas es usado como un diseño para el usuario y de acuerdo a la medotología "Lean" sería para crear, desarrollar y generar elaboraciones de manera ordenada, eficiente y efectiva. Acá dejamos una visualización directa del Lean UX Canvas trabajad por el equipo con la herramienta Mural:
+(imagen)
+Si quieres ver más a detalle, acceder a Canvas (convertir a link).
 ## 1.3. Segmentos objetivo.
 | | Segmento 1 | Segmento 2  |
 | - | - |-|

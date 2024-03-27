@@ -77,7 +77,7 @@ Por lo tanto, Nos hacemos una pregunta de cómo podríamos mejorar la experienci
 #### 1.2.2.2. Lean UX Assumptions.
 |Business Assumptions|User Assumptions|
 |-|-|
-|1. - 12. |1. - 6.|
+|1. - Creemos que los usuarios desean una plataforma que les permita acceder de manera eficiente a una amplia gama de contenido digital, incluyendo libros electrónicos, audiolibros, música y podcasts. |1. - ¿Quién es el usuario? Los usuarios principales son aquellos que buscan acceder y disfrutar de contenido digital variado, como lectores ávidos, amantes de la música y los podcasts, y ávidos consumidores de contenido multimedia en general.|
 |2. - 12. |2. - 6.|
 |3. - 12. |3. - 6.|
 |4. - 12. |4. - 6.|

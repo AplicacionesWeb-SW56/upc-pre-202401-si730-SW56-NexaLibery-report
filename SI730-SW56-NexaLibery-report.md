@@ -83,10 +83,12 @@ Por lo tanto, Nos hacemos una pregunta de cómo podríamos mejorar la experienci
 |4. - Creemos que la interacción social, como la participación en comunidades o grupos de discusión, mejorará la experiencia del usuario al proporcionar un sentido de comunidad y pertenencia. |4. - ¿Dónde encaja nuestro producto en su trabajo o vida? Nuestro producto encaja en la vida diaria de los usuarios al proporcionarles una plataforma conveniente y accesible para acceder y disfrutar de contenido digital de alta calidad en cualquier momento y lugar.|
 |5. - Suponemos que la suscripción premium, con beneficios exclusivos como lanzamientos anticipados y eventos en vivo, será atractiva para los usuarios que buscan una experiencia más completa y exclusiva. |5. - ¿Cuándo y cómo es nuestro producto usado? Nuestro producto es utilizado cuando los usuarios desean acceder y disfrutar de contenido digital, ya sea para entretenimiento, aprendizaje o simplemente para relajarse y disfrutar.|
 #### 1.2.2.3. Lean UX Hypothesis Statements.
-- **Hypothesis Statement 01:
+- Hypothesis Statement 01:
 Creemos que los usuarios de la suscripción básica estarán dispuestos a adoptar la función de creación de listas de reproducción personalizadas para organizar su contenido multimedia.
-
-Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios de la suscripción básica utilicen activamente la función de creación de listas de reproducción personalizadas dentro del primer mes de lanzamiento.**
+Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios de la suscripción básica utilicen activamente la función de creación de listas de reproducción personalizadas dentro del primer mes de lanzamiento.
+- Hypothesis Statement 02:
+- Hypothesis Statement 03:
+- Hypothesis Statement 04:
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.

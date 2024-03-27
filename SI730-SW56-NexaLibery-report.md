@@ -84,7 +84,8 @@ Por lo tanto, Nos hacemos una pregunta de cómo podríamos mejorar la experienci
 |5. - Suponemos que la suscripción premium, con beneficios exclusivos como lanzamientos anticipados y eventos en vivo, será atractiva para los usuarios que buscan una experiencia más completa y exclusiva. |5. - ¿Cuándo y cómo es nuestro producto usado? Nuestro producto es utilizado cuando los usuarios desean acceder y disfrutar de contenido digital, ya sea para entretenimiento, aprendizaje o simplemente para relajarse y disfrutar.|
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 Hypothesis Statement 01:
-
+- **Creemos que los usuarios de la suscripción básica estarán dispuestos a adoptar la función de creación de listas de reproducción personalizadas para organizar su contenido multimedia.
+Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios de la suscripción básica utilicen activamente la función de creación de listas de reproducción personalizadas dentro del primer mes de lanzamiento.**
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.

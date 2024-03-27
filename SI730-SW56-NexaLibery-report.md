@@ -90,7 +90,11 @@ Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios de la su
  Creemos que la implementación de un sistema de recomendaciones personalizadas basadas en el historial de consumo del usuario aumentará la exploración de nuevo contenido y la participación del usuario en la plataforma.
  Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en la cantidad de contenido consumido por usuario en la suscripción estándar después de la implementación del sistema de recomendaciones personalizadas.
 - **Hypothesis Statement 03**:
+Creemos que la integración de comunidades o grupos de discusión en la plataforma fomentará la interacción social entre los usuarios y aumentará la retención de clientes.
+Sabremos que hemos tenido éxito cuando observemos un aumento del 40% en la frecuencia de interacciones sociales entre los usuarios de la plataforma dentro de los primeros tres meses de implementación de las comunidades o grupos de discusión.
 - **Hypothesis Statement 04**:
+Creemos que mejorar las opciones de personalización y promover la interacción social en la suscripción básica reducirá la tasa de abandono de usuarios y aumentará la satisfacción del cliente.
+Sabremos que hemos tenido éxito cuando veamos una disminución del 15% en la tasa de cancelación de suscripciones básicas dentro del primer trimestre después de implementar mejoras en la personalización y la interacción social.
 #### 1.2.2.4. Lean UX Canvas.
 (imagen con texto)
 ## 1.3. Segmentos objetivo.

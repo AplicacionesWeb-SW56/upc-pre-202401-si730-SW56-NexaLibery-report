@@ -246,7 +246,13 @@ As Is:
 | Feeling  | Curiosidad por explorar las caracteristicas de la app | Frustracion por la limitacion de crear listas | Confusion sobre como organizar mi contenido | Esperando que sus comentarios mejoren la aplicacion |
 ## 2.4. Ubiquitous Language.
 ```
-Texto ubiquo: Definicion de este
+Estudiante colegial, universitario y/o tecnico:
+
+Persona la cual busca nuestra aplicacion por medio de la suscripcion para estudiantes, la cual les genera un descuento especial sobre la suscripcion estandar o premium, todo esto mediante una verificacion de que sea estudiante. En el cual tendra acceso a material educativo y contenido especifico para apoyar su aprendizaje.
+
+Egresado universitario y/o tecnico:
+
+Persona la cual nos busca por medio de cualquiera de nuestras suscripciones, en las cuales les proporcionará diferentes beneficios dependiendo de que suscripcion haya elegido. 
 ```
 
 ---

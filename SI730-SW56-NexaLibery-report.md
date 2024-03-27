@@ -201,21 +201,21 @@ Ocupación: _____
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?
-- s
-- s
-- s
+- Investiga sobre la reputacion y confiabilidad de la plataforma
+- Lee reseñas o testimonios
+- Revisa politicas de privacidad y medidas de seguridad de la plataforma
   
 **Onboarding and first use:**
 How can they feel successful?
-- s
-- s
-- s  
+- Completa el proceso de registro sin problemas
+- Navega por la plataforma facilmente y encuentra contenido de manera facil y eficiente
+- Recibe orientacion sobre como usar diferentes caracteristicas
   
 **Sharing:**
 Why would they invite others?
-- s
-- s
-- s
+- Encuentra valor sobre las caracteristicas que ofrecemos y el contenido publicado
+- Recibe incentivos o recompensas por invitar a otros
+- Participa en discusiones o grupos comunitarios
 
 ### 2.3.4. Empathy Mapping.
 **Segmento 1:**

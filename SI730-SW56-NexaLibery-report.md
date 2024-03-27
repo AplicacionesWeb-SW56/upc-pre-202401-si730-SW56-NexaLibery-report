@@ -87,6 +87,8 @@ Por lo tanto, Nos hacemos una pregunta de cómo podríamos mejorar la experienci
 Creemos que los usuarios de la suscripción básica estarán dispuestos a adoptar la función de creación de listas de reproducción personalizadas para organizar su contenido multimedia.
 Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios de la suscripción básica utilicen activamente la función de creación de listas de reproducción personalizadas dentro del primer mes de lanzamiento.
 - **Hypothesis Statement 02**:
+ Creemos que la implementación de un sistema de recomendaciones personalizadas basadas en el historial de consumo del usuario aumentará la exploración de nuevo contenido y la participación del usuario en la plataforma.
+ Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en la cantidad de contenido consumido por usuario en la suscripción estándar después de la implementación del sistema de recomendaciones personalizadas.
 - **Hypothesis Statement 03**:
 - **Hypothesis Statement 04**:
 #### 1.2.2.4. Lean UX Canvas.

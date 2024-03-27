@@ -10,8 +10,6 @@
 "Startup"
 NexLibery
 ### Integrantes:
-- xxx - U202xx
-- xxx - U202xxx
 - Quispe Erasmo, Raúl Ronaldo - U20211B682
 - Ramirez Ramirez, Marcelo Sebastian - U202210582
 - Javier Murillo, Mathias - U202022211

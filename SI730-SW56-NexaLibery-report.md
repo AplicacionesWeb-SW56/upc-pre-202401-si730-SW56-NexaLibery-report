@@ -54,19 +54,7 @@ NexLibery
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 
-- **¿Qué?**
-
-- **¿Quién?**
-
-- **¿Por qué?**
-
-- **¿Dónde?**
-
-- **¿Cuándo?**
-
-- **¿Cómo?**
-
-- **¿Cuánto?**
+- 
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.

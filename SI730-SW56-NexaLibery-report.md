@@ -72,17 +72,16 @@ Por lo tanto, nos enfrentamos a la pregunta de cómo podemos mejorar la experien
 | 5. Asumimos que los clientes también valorarán la capacidad de participar en comunidades o grupos de discusión en la plataforma, lo que les permitirá conectarse con otros usuarios con intereses similares y compartir recomendaciones y opiniones sobre el contenido.| 5. ¿Cuándo y cómo es NexaLibrary? ¿Usado? NexaLibrary se utiliza cuando los usuarios buscan acceder a contenido digital, ya sea para su entretenimiento personal, estudio o investigación, en cualquier momento y lugar a través de dispositivos conectados a Internet.|
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 - **Hypothesis Statement 01**:
-Creemos que los usuarios de la suscripción básica estarán dispuestos a adoptar la función de creación de listas de reproducción personalizadas para organizar su contenido multimedia.
-Sabremos que hemos tenido éxito cuando al menos el 70% de los usuarios de la suscripción básica utilicen activamente la función de creación de listas de reproducción personalizadas dentro del primer mes de lanzamiento.
+Creemos que los usuarios de la suscripción básica estarán más dispuestos a actualizar a una suscripción premium si se les ofrece acceso exclusivo a lanzamientos anticipados de contenido multimedia y eventos en vivo. Sabremos que hemos tenido éxito cuando veamos un aumento del 20% en las conversiones de la suscripción básica a la suscripción premium en los primeros seis meses de implementación de esta característica.
 - **Hypothesis Statement 02**:
- Creemos que la implementación de un sistema de recomendaciones personalizadas basadas en el historial de consumo del usuario aumentará la exploración de nuevo contenido y la participación del usuario en la plataforma.
- Sabremos que hemos tenido éxito cuando observemos un aumento del 20% en la cantidad de contenido consumido por usuario en la suscripción estándar después de la implementación del sistema de recomendaciones personalizadas.
+Creemos que la integración de herramientas de estudio y la capacidad de formar grupos de estudio virtuales aumentará el compromiso de los usuarios de la suscripción para estudiantes con la plataforma.
+Sabremos que hemos tenido éxito cuando veamos un aumento del 30% en el tiempo dedicado al estudio y la interacción en grupos de estudio dentro de la plataforma por parte de los usuarios de la suscripción para estudiantes en los primeros tres meses después de la implementación de estas características.
 - **Hypothesis Statement 03**:
-Creemos que la integración de comunidades o grupos de discusión en la plataforma fomentará la interacción social entre los usuarios y aumentará la retención de clientes.
-Sabremos que hemos tenido éxito cuando observemos un aumento del 40% en la frecuencia de interacciones sociales entre los usuarios de la plataforma dentro de los primeros tres meses de implementación de las comunidades o grupos de discusión.
+Creemos que la personalización de recomendaciones de contenido basadas en el historial de consumo del usuario aumentará la satisfacción y retención de los usuarios en la plataforma.
+Sabremos que hemos tenido éxito cuando veamos una disminución del 15% en la tasa de abandono de la plataforma entre los usuarios de la suscripción básica después de implementar esta funcionalidad y realizar una encuesta de satisfacción del usuario seis meses después.
 - **Hypothesis Statement 04**:
-Creemos que mejorar las opciones de personalización y promover la interacción social en la suscripción básica reducirá la tasa de abandono de usuarios y aumentará la satisfacción del cliente.
-Sabremos que hemos tenido éxito cuando veamos una disminución del 15% en la tasa de cancelación de suscripciones básicas dentro del primer trimestre después de implementar mejoras en la personalización y la interacción social.
+Creemos que la introducción de comunidades y grupos de discusión en la plataforma aumentará la interacción social entre los usuarios y promoverá un sentido de comunidad en torno a temas específicos.
+Sabremos que hemos tenido éxito cuando veamos un aumento del 25% en la participación activa en grupos de discusión y una mayor retención de usuarios en la plataforma después de seis meses de implementar estas funciones.
 #### 1.2.2.4. Lean UX Canvas.
 El Lean UX Canvas es usado como un diseño para el usuario y de acuerdo a la medotología "Lean" sería para crear, desarrollar y generar elaboraciones de manera ordenada, eficiente y efectiva. Acá dejamos una visualización directa del Lean UX Canvas trabajad por el equipo con la herramienta Mural:
 (imagen)

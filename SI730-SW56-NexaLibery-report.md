@@ -89,8 +89,8 @@ Si quieres ver más a detalle, acceder a [Canvas](https://app.mural.co/t/nexalib
 ## 1.3. Segmentos objetivo.
 Nos dimos cuenta que el estrés académico según Universidad de Chile (2023), es ocasionado por las pruebas, trabajos, exámenes, presentaciones, etc. Pueden ser subsanados por la música que según dice Campus Home (2020) puede ayudar a muchos estudiantes a superar el estrés y la ansiedad mientras estudian.
 ### 1.3.1. Stakeholders:
-- **Stakelholder Internos**:
-- **Stakelholder Externos**:
+- **Stakelholder Internos**: Equipo de desarrollo y tecnología, equipo de contenido y curación, equipo de Marketing y ventas y equipo de soporte y atención al cliente.
+- **Stakelholder Externos**: Usuarios Finales, sroveedores de contenido, socios comerciales, reguladores y autoridades.
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.

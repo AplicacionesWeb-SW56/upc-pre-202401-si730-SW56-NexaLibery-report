@@ -92,54 +92,286 @@ Nos dimos cuenta que el estrés académico según Universidad de Chile (2023), e
 - **Stakelholder Internos**: Equipo de desarrollo y tecnología, equipo de contenido y curación, equipo de Marketing y ventas y equipo de soporte y atención al cliente.
 - **Stakelholder Externos**: Usuarios Finales, sroveedores de contenido, socios comerciales, reguladores y autoridades.
 
-# Capítulo II: Requirements Elicitation & Analysis
-## 2.1. Competidores.
-### 2.1.1. Análisis competitivo.
+### Capitulo II: Requirements Elicitation & Analysis
 
-| Competitive Analysis Landscape                          |  |
-| ------------------------------------------------------- | -|
-| ¿Por qué llevar a cabo este análisis?                   | -- |
+#### 2.1. Competidores
+
+##### 2.1.1. Analisis Competitivo
+
+<style>
+    table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+    td, th { vertical-align:top; font-size:10pt;}
+    h1, h2, h3, h4, h5, h6 { clear:both;}
+    p { white-space: nowrap; }
+    ol, ul { margin:0; padding:0;}
+    li { list-style: none; margin:0; padding:0;}
+    span.footnodeNumber { padding-right:1em; }
+    span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
+    span.heading_numbering { margin-right: 0.8rem; }* { margin:0;}
+    .table-ta1{ writing-mode:horizontal-tb; direction:ltr; }
+    .cell-Default{ font-size:10pt; font-family:'Liberation Sans'; }
+    .cell-ce1{ font-size:10pt; font-family:'Liberation Serif'; border-top-width:NaNcm; border-top-style:solid; border-top-color:#000000; border-left-width:NaNcm; border-left-style:solid; border-left-color:#000000; border-bottom-width:NaNcm; border-bottom-style:solid; border-bottom-color:#000000; border-right-width:NaNcm; border-right-style:solid; border-right-color:#000000; vertical-align:middle; text-align:center ! important; margin-left:0cm; font-style:normal; text-shadow:none; text-decoration:none ! important; font-weight:bold; }
+    .cell-ce2{ font-size:10pt; font-family:'Liberation Serif'; border-top-width:NaNcm; border-top-style:solid; border-top-color:#000000; border-left-width:NaNcm; border-left-style:solid; border-left-color:#000000; border-bottom-width:NaNcm; border-bottom-style:solid; border-bottom-color:#000000; border-right-width:NaNcm; border-right-style:solid; border-right-color:#000000; vertical-align:middle; text-align:center ! important; margin-left:0cm; font-style:normal; text-shadow:none; text-decoration:none ! important; font-weight:normal; }
+    .cell-ce3{ font-size:10pt; font-family:'Liberation Sans'; border-top-width:NaNcm; border-top-style:solid; border-top-color:#000000; border-left-width:NaNcm; border-left-style:solid; border-left-color:#000000; border-bottom-width:NaNcm; border-bottom-style:solid; border-bottom-color:#000000; border-right-width:NaNcm; border-right-style:solid; border-right-color:#000000; vertical-align:middle; text-align:center ! important; margin-left:0cm; }
+    .cell-ce4{ font-size:10pt; font-family:'Liberation Sans'; text-decoration:underline; }
+    /* ODF styles with no properties representable as CSS:
+    .T1  { } */
+</style>
+</head>
+
+<body dir="ltr">
 
 
-| |  | (Nosotros) | Competidor  | Comptdor |
-|-|-|-|-|-|
-| PERFIL| Overview | lorem | ipsum | lorem |
-|| Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu | impuz |
-|| Mercado Objetivo                                        | Jeda | asa | asa2 |
-| Perfil de marketing                                     | Estrategia de Marketing | Redes Sociales | Redes Sociales | Televisión, Redes Sociales |
-| Perfil del producto                                     | Productos y servicios | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|| Precios y costos                                        | Freemium (Cuenta Premium permite personalizar los juegos) Gratis | Gratuito | Gratuito |
-|| Canales de distribución (Web y/o Móvil)                 | Web y Móvil Web | Móvil Web | Web y móvil Web |
-### 2.1.2. Estrategias y tácticas frente a competidores.
+<table border="0" cellspacing="0" cellpadding="0" class="table-ta1"><colgroup><col width="99"/><col width="99"/><col width="99"/><col width="200"/><col width="199"/><col width="196"/><col width="195"/></colgroup><tr class="row-ro1"><td colspan="6" style="text-align:left;width:2.258cm; " class="cell-ce1">
+<p>Competitive Analysis Landscape</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro2"><td colspan="2" rowspan="2" style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>¿Por qué llevar a cabo este análisis?</p>
+</td><td colspan="4" style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>¿Como nuestros competidores impulsaron el rubro del multimedia dentro de sus productos/servicios? y ¿Como nos diferenciamos con ellos?</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro2"><td colspan="4" style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Nos diferenciamos en cuanto a calidad, <span class="text-T1">personalización</span>, ofertas y crecimiento constante <span class="text-T1">según</span> las <span class="text-T1">estadísticas.</span> Nos enfocaremos principalmente en cada cliente.</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td colspan="2" style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Competidores</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>NexaLibery</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>Amazon Kindle</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>Google Play</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>Spotify</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro3"><td rowspan="2" style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Perfil</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Overview</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Plataforma de almacenamiento/<span class="text-T1">clasificación</span> de archivos multimedia</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>Dispositivo/<span class="text-T1">aplicación</span> con un catalogo amplio de libros distribuido por amazon.</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>Catalogo de aplicaciones, <span class="text-T1">música</span>, libros, podcasts etc con una vasta cantidad de variedad.</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>Plataforma de <span class="text-T1">reproducción</span> de <span class="text-T1">música</span> por streaming. Dispone de otros servicios como los podcast y <span class="text-T1">membresías.</span></p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro4"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Ventaja competitiva ¿Qué valor ofrece al cliente?</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Ofrecemos “<span class="text-T1">PERSONALIZACIÓN</span>” adecuada a  cada uno de nuestros clientes y <span class="text-T1">membresías</span> accesibles según tu frecuencia de uso. </p>
+</td><td colspan="2" style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>Disponibilidad 24/7 y una interfaz <span class="text-T1">dinámica</span> para la <span class="text-T1">búsqueda</span> y descarga de medios digitales. Vasta cantidad de <span class="text-T1">música</span>, libros, podcast de talla mundial.</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce3">
+<p>Amplia gama de canciones reconocidas mundialmente, disponibilidad 24/7 y modo offline. Ademas, de <span class="text-T1">personalización</span> y <span class="text-T1">compartimentar</span> de listas, y recomendaciones musicales personalizadas.</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro5"><td rowspan="2" style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Perfil de marketing</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Mercado objetivo</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p><span class="text-T1">Jóvenes</span> y estudiantes entre 16 y 45 años</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>Desde <span class="text-T1">jóvenes</span> de 18 años hasta adultos de 60 años.</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce3">
+<p>Desde niños de 7 años por las apps de juegos que abundan mucho hasta adultos de hasta 50 años por las apps de streaming/<span class="text-T1">música</span>/libros.</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce3">
+<p>Actualmente se <span class="text-T1">podría</span> decir que entre <span class="text-T1">jóvenes</span> y adultos entre 16 y 45 años . Esto depende mucho de las tendencias y gustos, las cuales, en estos años no han cambiado demasiado</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro6"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Estrategias de marketing</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Brindar un extenso catalogo, servicio freemium, disponibilidad total según <span class="text-T1">suscripción</span>, <span class="text-T1">personalización</span> de playlist y recomendación según tendencias</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>Brindar un dispositivo y plataforma <span class="text-T1">económico</span>, duradero y de uso intuitivo con un catalogo atractivo preciso para sus clientes.</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>* Seguridad a sus clientes por medio de sus filtros y <span class="text-T1">análisis</span> de virus.</p>
+
+<p>* Amplia cantidad de temas a abordar: Juegos, Apps, Libros, Podcast</p>
+
+<p>* Reconocimiento en la <span class="text-T1">mayoría</span> de dispositivos celulares (viene por defecto)</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>Uso de “freemium” el cual brinda servicios <span class="text-T1">básicos</span> gratuitos hasta que se haga una <span class="text-T1">incorporación</span> de un servicio avanzado de pago con planes adaptables. Ademas, de <span class="text-T1">personalización</span> y trends para recomendaciones.</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro7"><td rowspan="4" style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Perfil del producto</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Productos y servicios</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>App web y mobile con un diseño interactivo y moderno, ademas de inclusivo</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>App multiplataforma, Dispositivo de lectura, Catalogo de libros</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>Catalogo de aplicaciones, <span class="text-T1">música</span>, libros, podcasts etc.</p>
+
+<p>App compatible con android.</p>
+
+<p>Cuenta para guardado de estados de juegos/apps/<span class="text-T1">música</span> etc</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>Catalogo de canciones.</p>
+
+<p>Playlist recomendadas y  compartibles</p>
+
+<p>Freemium</p>
+
+<p>Podcasts</p>
+
+<p><span class="text-T1">Membresías</span> <span class="text-T1">económicas</span></p>
+
+<p>Soporte web</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro3"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Precios y costos</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>* <span class="text-T1">Básico</span>: 10 soles</p>
+
+<p>* Estudiantil: 8 soles</p>
+
+<p>* Premium: 20 soles</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>$9.99 al mes</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce3">
+<p>Playstore maneja la <span class="text-T1">suscripción</span> de las apps como tal no tiene <span class="text-T1">membresías</span>, aunque si para juegos, lo <span class="text-T1">demás</span> es pagar por libros por ejemplo</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce3">
+<p>* Individual: 21 soles al mes</p>
+
+<p>* Estudiantes: 12 soles al mes</p>
+
+<p>* Duo: 27 soles al mes</p>
+
+<p>* Familiar: 33 soles al mes</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro2"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Canales de distribución</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Web</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>Kindle, Kindle App</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>Mobile, Web</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>Mobile, Web</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro8"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Tecnologías usadas</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p><span class="text-T1">C</span>#, .NET </p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>Propio hardware de amazon. Posiblemente con sistemas basados en linux.</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>Java, Android</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>Python, Javascript, React</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro9"><td rowspan="4" style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Análisis SWOT</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Fortalezas</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>* Capacidad de aprender <span class="text-T1">rápidamente</span></p>
+
+<p>* Personal capacitado</p>
+
+<p>* organización y responsabilidad</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>* Personal con experiencia de renombre</p>
+
+<p>* Constantes capacitaciones</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>* Personal capacitada a nivel de seguridad</p>
+<p> </p></td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>* Personal joven </p>
+
+<p>* conocimiento en trends y actualidad</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro10"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Debilidades</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>* Falta de experiencia en ciertas <span class="text-T1">áreas</span></p>
+
+<p>* Poco conocimiento entre los miembros del grupo</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>* Idea imitable</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>* Apps maliciosas aceptadas a pesar de estar infectadas</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>* Necesario uso de internet</p>
+
+<p>* Publicidad molesta en servicio gratuito</p>
+<p> </p></td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro11"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Oportunidades</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>* <span class="text-T1">Únicos</span>, según reconocimientos de otras apps, en el mercado que tengan variedad (<span class="text-T1">música</span>, libros, podcasts)</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>* <span class="text-T1">Internacionalización</span> </p>
+
+<p>* Confianza del publico</p>
+
+<p>* <span class="text-T1">Fácil</span> apertura de tiendas <span class="text-T1">físicas</span> internacionales</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>* Multiplataforma</p>
+
+<p>* Ser una de las apps por defecto mas usadas y escuchadas en el mundo</p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>* Estamos en una <span class="text-T1">época</span> de los trends </p>
+
+<p>* <span class="text-T1">Aceptación</span> de los artistas</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro12"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>Amenazas</p>
+</td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
+<p>* Regulaciones con los artistas/autores</p>
+</td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
+<p>* Alta competitividad nacional e internacional</p>
+
+<p>* Ciberdelincuencia</p>
+</td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
+<p>* Competencia con otras tiendas de apps</p>
+
+<p>* Restricciones de los <span class="text-T1">países</span></p>
+</td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
+<p>* Contradicciones y quejas con artistas </p>
+
+<p>* Alta competencia</p>
+</td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro13"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro14"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro15"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-Default"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro1"><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:2.258cm; " class="cell-Default"> </td><td style="text-align:left;width:4.579cm; " class="cell-ce4"> </td><td style="text-align:left;width:4.554cm; " class="cell-Default"> </td><td style="text-align:left;width:4.48cm; " class="cell-Default"> </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr></table>
 
 
-|Competidores ->|  | Nosotros | Competidor2| Competidor3|
-|-|-|-|-|-|
-| Análisis SWOT | Fortalezas | lorem | Lorem | lorem |
-|| Debilidades   | lorem | lorem | lorem | lorem | 
-|| Oportunidades | lorem | lorem | lorem | lorem | 
-|| Amenazas      | lorem | lorem | lorem | lorem |
+##### 2.1.2. Estrategias y tacticas frente a competidores
 
-## 2.2. Entrevistas.
-### 2.2.1. Diseño de entrevistas.
-**Preguntas generales:**
+**Estrategias**:    
+**Posicionamiento en el mercado**: Buscamos meternos en un rubro demasiado competitivo. Esto nos lleva a enfocarnos en las tendencias del dia a dia; ya que, estas estan en constante cambio. Darle prioridad al cliente, sus gustos e intereses nos brindara un poscionamiento tanto en usuarios como en marcas y artistas.    
+**Impulso de la inclusividad**: Las personas con una discapasidad visual y auditiva tambien son un publico a tener en cuenta. Se impulsara el uso de audiolibros y una guia para movilisarse dentro de la aplicacion.
 
-1. ¿Cuál es su nombre? 
-2. ¿Qué edad tiene? 
-3. ¿A qué se dedica? 
-4. ¿[Opinion de idea de propuesta]? 
+**Tácticas**:  
+**Listas Personalizadas**: Los usuarios podran disponer de listas creadas segun sus gustos y añadirlas a sus playlist. No solo listas tambien canciones/libros/podcast. Todo para ofrecer variedad.    
+**Vita Support**: Sera un guia para las personas con alguna discapacidad que se personaliza automaticamente segun lo que quieras leer,buscar, oir o comprar.  
 
-**Entrevistas usuario segmento 2**
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?  
-   
-**Entrevistas usuario segmento 2**
-1. ¿Lorem? 
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem? 
+#### 2.2. Entrevistas
+
+##### 2.2.1. Diseño de entrevistas
+
+**Estructura de la entrevista**:  
+
+- Presentacion de la tematica y entrevistado  
+- Preguntas sobre el rubro de la persona  
+- Preguntas previas introduciendo la necesidad a solucionar al entrevistado.  
+- Preguntas sobre la idea a evaluar  
+- Preguntas de retroalimentacion y seguimiento de agrado del entrevistado  
+
+**Lista de preguntas:**  
+
+*Preguntas introductorias:* 
+
+- ¿Cuál es su nombre?
+- ¿Que edad tiene?
+- ¿Cuál es su ocupación? ¿Estudia o trabaja?
+- Si estudia, ¿Que carrera esta cursando?
+- Si trabaja, ¿Que ambito laboral sigue?
+
+- ¿Tiene un dispositivo movil o una computadora/laptop?
+- ¿Con qué regularidad hace compras por internet?
+- ¿Cuál es el tipo de artículos que suele comprar?
+- ¿Alguna vez ha comprado musica o libros a través de internet? ¿Le fue util o prefiere tenerlos en fisico?
+- ¿Alguna vez se ha frustrado por no encontrar un recurso (cancion/libro) que deseaba?
+
+------ Aqui le hablamos un poco de la solucion. -------
+
+- ¿Cree que esta aplicacion seria util o solo una mas de las que pudo haber probado?
+- ¿Como se siente al tener que usar diferentes apps para basicamente el mismo proposito, el cual, es tener sus recursos digitales en un solo lugar, ordenados y a su disposicion todo el dia?
+- ¿Cree que sería práctico el uso de esta o es muy complejo para su propósito? 
+
+------ Explicamos los beneficios segun la membresia -------
+- ¿Que opina de estos beneficios?
+- ¿Pagaría usted por el uso de la aplicación? ¿Cuánto?  
+- ¿Tiene familiares que hagan uso de herramientas parecidas? 
+
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
 Nombre: _____

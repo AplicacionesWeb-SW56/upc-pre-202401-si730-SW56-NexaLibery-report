@@ -98,6 +98,7 @@ Nos dimos cuenta que el estrés académico según Universidad de Chile (2023), e
 
 ##### 2.1.1. Analisis Competitivo
 
+
 <style>
     table { border-collapse:collapse; border-spacing:0; empty-cells:show }
     td, th { vertical-align:top; font-size:10pt;}

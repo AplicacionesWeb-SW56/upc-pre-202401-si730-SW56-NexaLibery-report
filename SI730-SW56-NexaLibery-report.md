@@ -658,7 +658,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | TipoDeSuscripcionID| INT (PK)     | Identificador único para cada tipo de suscripción.   |
 | Nombre             | VARCHAR      | Nombre del tipo de suscripción (ej. Básica, Premium).|
 | PrecioMensual      | DECIMAL      | Costo mensual de la suscripción.                     |
-| Descripción        | TEXT         | Descripción breve de lo que incluye la suscripción.  |
+| Descripción        | VARCHAR      | Descripción breve de lo que incluye la suscripción.  |
 
 ## 4. ContenidosMultimedia
 **Descripción**: Gestiona el contenido multimedia disponible en la plataforma, categorizado por tipo y accesibilidad.
@@ -668,7 +668,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | ContenidoID        | INT (PK)     | Identificador único de cada contenido multimedia.    |
 | Título             | VARCHAR      | Título del contenido.                                |
 | Tipo               | VARCHAR      | Categoría del contenido (ej. Libro electrónico).     |
-| Descripción        | TEXT         | Breve descripción del contenido.                     |
+| Descripción        | VARCHAR      | Breve descripción del contenido.                     |
 | FechaDeLanzamiento | DATE         | Fecha en que el contenido fue lanzado o publicado.   |
 | Premium            | BOOLEAN      | Indica si el contenido es exclusivo para suscriptores premium. |
 | URL                | VARCHAR      | Dirección URL donde se encuentra alojado el contenido. |
@@ -699,7 +699,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | ListaID            | INT (PK)     | Identificador único de cada lista de reproducción. |
 | UserID             | INT (FK)     | Clave foránea que enlaza al usuario creador.       |
 | Nombre             | VARCHAR      | Nombre de la lista de reproducción.                |
-| Descripción        | TEXT         | Descripción breve de la lista.                     |
+| Descripción        | VARCHAR      | Descripción breve de la lista.                     |
 | FechaCreación      | DATETIME     | Fecha en que la lista fue creada.                  |
 
 ## 8. ContenidoLista
@@ -718,7 +718,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 |--------------------|--------------|---------------------------------------------|
 | ComunidadID        | INT (PK)     | Identificador único de cada comunidad.      |
 | Nombre             | VARCHAR      | Nombre de la comunidad.                     |
-| Descripción        | TEXT         | Descripción breve de la comunidad.          |
+| Descripción        | VARCHAR      | Descripción breve de la comunidad.          |
 | FechaCreación      | DATETIME     | Fecha en que la comunidad fue creada.       |
 
 ## 10. MiembrosComunidad
@@ -759,7 +759,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | ContenidoID     | INT (FK)     | Clave foránea que enlaza al contenido valorado.                 |
 | UserID          | INT (FK)     | Clave foránea que enlaza al usuario que realiza la valoración. |
 | Puntuación      | INT          | Puntuación otorgada al contenido.                               |
-| Comentario      | TEXT         | Comentario sobre el contenido.                                  |
+| Comentario      | VARCHAR      | Comentario sobre el contenido.                                  |
 | FechaValoracion | DATE         | Fecha en que se realizó la valoración.                          |
 
 ## 14. EventosEspeciales
@@ -769,7 +769,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 |----------------|--------------|-------------------------------------------------------|
 | EventoID       | INT (PK)     | Identificador único de cada evento especial.         |
 | Nombre         | VARCHAR      | Nombre del evento.                                    |
-| Descripción    | TEXT         | Descripción breve del evento.                         |
+| Descripción    | VARCHAR      | Descripción breve del evento.                         |
 | FechaInicio    | DATE         | Fecha de inicio del evento.                           |
 | FechaFin       | DATE         | Fecha de fin del evento.                              |
 | Premium        | BOOLEAN      | Indica si el evento es exclusivo para suscriptores premium. |

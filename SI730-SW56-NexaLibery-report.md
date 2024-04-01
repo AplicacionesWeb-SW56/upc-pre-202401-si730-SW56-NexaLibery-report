@@ -1,14 +1,14 @@
----
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
+    <strong> SI730 - Aplicacioes Web SW56</strong><br>
+    <strong>Profesor: Efrain Ricardo Bautista Ubillus </strong><br>
+    <br>INFORME <br>
+    "xxxx" | "NexaLibery"
+</p>
 
----
----
-# Universidad Peruana de Ciencias Aplicadas
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
-## CURSO: SI730 Aplicacioes Web | SECCIÓN SW56
- Profesor: Efrain Ricardo Bautista Ubillus
-# Informe de TB1
-"Startup"
-NexLibery
+
 ### Integrantes:
 - Quispe Erasmo, Raúl Ronaldo - U20211B682
 - Ramirez Ramirez, Marcelo Sebastian - U202210582
@@ -36,6 +36,7 @@ NexLibery
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 #### NexaLibery
+En NexaLibery, somos un equipo de desarrolladores enfocados en revolucionar la experiencia multimedia digital. Nuestra plataforma está diseñada para ofrecer una colección diversa de libros electrónicos, audiolibros, música y podcasts, enriqueciendo cada interacción con listas de reproducción a medida y recomendaciones basadas en tus intereses. Además, te brindamos el espacio para conectar y compartir en comunidades y grupos de discusión especializados. Con NexaLibery, explorar, descubrir y disfrutar de contenidos digitales nunca ha sido tan personalizado ni interactivo.
 
 - **Misión:**
  Dar acceco a las personas que neseciten o quieran contenido multimedia esto incluye libros electrónicos, audiolibros, música, podcasts, etc.
@@ -626,10 +627,164 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 Esta yaselasaben (diagrama de clases)
 Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
 ### 4.7.2. Class Dictionary.
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en Private y Public )
+## 1. Usuarios
+**Descripción**: Representa a cada persona que se registra y utiliza la plataforma. Incluye información personal básica, así como detalles de su cuenta como el email y contraseña.
+
+| Atributo           | Tipo de Dato | Descripción                                          |
+|--------------------|--------------|------------------------------------------------------|
+| UserID             | INT (PK)     | Identificador único para cada usuario.               |
+| Nombre             | VARCHAR      | Nombre completo del usuario.                         |
+| Email              | VARCHAR      | Dirección de correo electrónico del usuario.         |
+| Contraseña         | VARCHAR      | Contraseña de acceso del usuario.                    |
+| FechaDeNacimiento  | DATE         | Fecha de nacimiento del usuario.                     |
+| FechaDeRegistro    | DATETIME     | Fecha en la que el usuario se registró en la plataforma. |
+
+## 2. Suscripciones
+**Descripción**: Gestiona las suscripciones de los usuarios a la plataforma. Cada suscripción está vinculada a un usuario y un tipo de suscripción, y tiene un período de validez.
+
+| Atributo           | Tipo de Dato  | Descripción                                             |
+|--------------------|---------------|---------------------------------------------------------|
+| SuscripcionID      | INT (PK)      | Identificador único de cada suscripción.                |
+| TipoDeSuscripcionID| INT (FK)      | Clave foránea que enlaza al tipo de suscripción elegido.|
+| UserID             | INT (FK)      | Clave foránea que enlaza al usuario suscrito.           |
+| FechaInicio        | DATE          | Fecha de inicio de la suscripción.                      |
+| FechaFin           | DATE          | Fecha de fin de la suscripción.                         |
+
+## 3. TipoDeSuscripcion
+**Descripción**: Define los diferentes planes o tipos de suscripción que los usuarios pueden adquirir. Esto puede incluir diferentes niveles de acceso a contenidos, precios, y beneficios.
+
+| Atributo           | Tipo de Dato | Descripción                                          |
+|--------------------|--------------|------------------------------------------------------|
+| TipoDeSuscripcionID| INT (PK)     | Identificador único para cada tipo de suscripción.   |
+| Nombre             | VARCHAR      | Nombre del tipo de suscripción (ej. Básica, Premium).|
+| PrecioMensual      | DECIMAL      | Costo mensual de la suscripción.                     |
+| Descripción        | TEXT         | Descripción breve de lo que incluye la suscripción.  |
+
+## 4. ContenidosMultimedia
+**Descripción**: Gestiona el contenido multimedia disponible en la plataforma, categorizado por tipo y accesibilidad.
+
+| Atributo           | Tipo de Dato | Descripción                                          |
+|--------------------|--------------|------------------------------------------------------|
+| ContenidoID        | INT (PK)     | Identificador único de cada contenido multimedia.    |
+| Título             | VARCHAR      | Título del contenido.                                |
+| Tipo               | VARCHAR      | Categoría del contenido (ej. Libro electrónico).     |
+| Descripción        | TEXT         | Breve descripción del contenido.                     |
+| FechaDeLanzamiento | DATE         | Fecha en que el contenido fue lanzado o publicado.   |
+| Premium            | BOOLEAN      | Indica si el contenido es exclusivo para suscriptores premium. |
+| URL                | VARCHAR      | Dirección URL donde se encuentra alojado el contenido. |
+
+## 5. Autores
+**Descripción**: Contiene información sobre los autores de los contenidos disponibles en la plataforma.
+
+| Atributo           | Tipo de Dato | Descripción                                   |
+|--------------------|--------------|-----------------------------------------------|
+| AutorID            | INT (PK)     | Identificador único de cada autor.            |
+| Nombre             | VARCHAR      | Nombre completo del autor.                    |
+| Biografía          | TEXT         | Breve biografía del autor.                    |
+
+## 6. ContenidoAutor
+**Descripción**: Representa la relación entre los contenidos y sus autores, permitiendo asociaciones múltiples.
+
+| Atributo           | Tipo de Dato | Descripción                                           |
+|--------------------|--------------|-------------------------------------------------------|
+| ContenidoAutorID   | INT (PK)     | Identificador único de la relación entre contenido y autor. |
+| ContenidoID        | INT (FK)     | Clave foránea que enlaza al contenido.                |
+| AutorID            | INT (FK)     | Clave foránea que enlaza al autor del contenido.      |
+
+## 7. ListasDeReproduccion
+**Descripción**: Permite a los usuarios crear y gestionar listas personalizadas de contenidos multimedia.
+
+| Atributo           | Tipo de Dato | Descripción                                        |
+|--------------------|--------------|----------------------------------------------------|
+| ListaID            | INT (PK)     | Identificador único de cada lista de reproducción. |
+| UserID             | INT (FK)     | Clave foránea que enlaza al usuario creador.       |
+| Nombre             | VARCHAR      | Nombre de la lista de reproducción.                |
+| Descripción        | TEXT         | Descripción breve de la lista.                     |
+| FechaCreación      | DATETIME     | Fecha en que la lista fue creada.                  |
+
+## 8. ContenidoLista
+**Descripción**: Define la pertenencia de contenidos a listas de reproducción específicas.
+
+| Atributo           | Tipo de Dato | Descripción                                          |
+|--------------------|--------------|------------------------------------------------------|
+| ContenidoListaID   | INT (PK)     | Identificador único de la relación entre contenido y lista. |
+| ListaID            | INT (FK)     | Clave foránea que enlaza a la lista de reproducción. |
+| ContenidoID        | INT (FK)     | Clave foránea que enlaza al contenido en la lista.   |
+
+## 9. Comunidades
+**Descripción**: Facilita la creación y gestión de comunidades dentro de la plataforma para fomentar la interacción entre usuarios.
+
+| Atributo           | Tipo de Dato | Descripción                                 |
+|--------------------|--------------|---------------------------------------------|
+| ComunidadID        | INT (PK)     | Identificador único de cada comunidad.      |
+| Nombre             | VARCHAR      | Nombre de la comunidad.                     |
+| Descripción        | TEXT         | Descripción breve de la comunidad.          |
+| FechaCreación      | DATETIME     | Fecha en que la comunidad fue creada.       |
+
+## 10. MiembrosComunidad
+**Descripción**: Gestiona la membresía de usuarios en las comunidades, incluyendo la cantidad de usuarios por comunidad.
+
+| Atributo           | Tipo de Dato | Descripción                                       |
+|--------------------|--------------|---------------------------------------------------|
+| MiembroID          | INT (PK)     | Identificador único de cada miembro de comunidad. |
+| ComunidadID        | INT (FK)     | Clave foránea que enlaza a la comunidad.          |
+| UserID             | INT (FK)     | Clave foránea que enlaza al usuario miembro.      |
+| Cant               | INT          | Cantidad de usuarios de comunidades.   |
+
+## 11. PerfilEstudiante
+**Descripción**: Asocia a los usuarios con sus respectivas instituciones educativas, posibilitando ofertas o contenidos exclusivos para estudiantes.
+
+| Atributo              | Tipo de Dato | Descripción                                            |
+|-----------------------|--------------|--------------------------------------------------------|
+| PerfilEstudianteID    | INT (PK)     | Identificador único del perfil de estudiante.         |
+| UserID                | INT (FK)     | Clave foránea que enlaza al usuario con estatus de estudiante. |
+| InstituciónEducativa  | VARCHAR      | Nombre de la institución educativa del estudiante.    |
+
+## 12. HistorialDeAccesos
+**Descripción**: Registra cada vez que un usuario accede a un contenido, permitiendo seguimiento de lo que los usuarios ven o escuchan en la plataforma.
+
+| Atributo       | Tipo de Dato | Descripción                                                    |
+|----------------|--------------|----------------------------------------------------------------|
+| HistorialID    | INT (PK)     | Identificador único del historial de acceso a contenidos.     |
+| UserID         | INT (FK)     | Clave foránea que enlaza al usuario.                           |
+| ContenidoID    | INT (FK)     | Clave foránea que enlaza al contenido accedido.                |
+| FechaDeAcceso  | DATETIME     | Fecha y hora en que el contenido fue accedido.                 |
+
+## 13. Valoraciones
+**Descripción**: Permite a los usuarios valorar y comentar sobre los contenidos que consumen, ofreciendo feedback y recomendaciones a otros usuarios.
+
+| Atributo        | Tipo de Dato | Descripción                                                     |
+|-----------------|--------------|-----------------------------------------------------------------|
+| ValoracionID    | INT (PK)     | Identificador único de cada valoración.                        |
+| ContenidoID     | INT (FK)     | Clave foránea que enlaza al contenido valorado.                 |
+| UserID          | INT (FK)     | Clave foránea que enlaza al usuario que realiza la valoración. |
+| Puntuación      | INT          | Puntuación otorgada al contenido.                               |
+| Comentario      | TEXT         | Comentario sobre el contenido.                                  |
+| FechaValoracion | DATE         | Fecha en que se realizó la valoración.                          |
+
+## 14. EventosEspeciales
+**Descripción**: Administra eventos especiales o promociones en la plataforma, los cuales pueden ser accesibles para todos los usuarios o exclusivos para suscriptores premium.
+
+| Atributo       | Tipo de Dato | Descripción                                           |
+|----------------|--------------|-------------------------------------------------------|
+| EventoID       | INT (PK)     | Identificador único de cada evento especial.         |
+| Nombre         | VARCHAR      | Nombre del evento.                                    |
+| Descripción    | TEXT         | Descripción breve del evento.                         |
+| FechaInicio    | DATE         | Fecha de inicio del evento.                           |
+| FechaFin       | DATE         | Fecha de fin del evento.                              |
+| Premium        | BOOLEAN      | Indica si el evento es exclusivo para suscriptores premium. |
+
+## 15. AsistenciaEventos
+**Descripción**: Registra la asistencia de usuarios a eventos especiales, lo que podría ser usado para ofrecer contenidos exclusivos o beneficios a los asistentes.
+
+| Atributo         | Tipo de Dato | Descripción                                           |
+|------------------|--------------|-------------------------------------------------------|
+| AsistenciaID     | INT (PK)     | Identificador único de la asistencia a eventos.      |
+| EventoID         | INT (FK)     | Clave foránea que enlaza al evento.                   |
+| UserID           | INT (FK)     | Clave foránea que enlaza al usuario asistente.        |
+| FechaAsistencia  | DATE         | Fecha en que el usuario asistió al evento.            |
+
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 <img src="/assets/NexaLibery-Database.png" alt="Base de datos" style="width:80%;">

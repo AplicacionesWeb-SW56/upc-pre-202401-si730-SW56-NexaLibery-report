@@ -536,7 +536,7 @@ Persona la cual nos busca por medio de cualquiera de nuestras suscripciones, en 
 ### 4.1.1. General Style Guidelines.
 Descripcion del porque estos elementos seran importantes
 Elegimos esos elementos por el hecho que nuestra plataforma es muy necesario tanto como usos repetivos y obligatorio para el manejo de los usuarios a la plataforma. 
-<img src="/assets/Imgs/logo_NexaLibery.png" alt="Imagen del logo">
+<img src="/assets/Imgs/logo_NexaLibery.png" alt="Imagen del logo" style="width:60%;">
 **Color:** Los colores toman un papel muy importante para la plataforma al momento de hablar sobre captar la atención y dar comodidad a los usuarios, es alli lo que buscábamos un color específico en el que transmita paz y calma para combinar con nuestros contenidos, el azul, que es bien indicado por los expertos para enfrentar al insomnio o estrés de los estudiantes.
 
 **Branding** (Describir logotipo y porque)

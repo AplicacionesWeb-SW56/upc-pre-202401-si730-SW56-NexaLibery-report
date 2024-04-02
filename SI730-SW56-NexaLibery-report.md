@@ -537,21 +537,21 @@ Persona la cual nos busca por medio de cualquiera de nuestras suscripciones, en 
 Descripcion del porque estos elementos seran importantes
 Elegimos esos elementos por el hecho que nuestra plataforma es muy necesario tanto como usos repetivos y obligatorio para el manejo de los usuarios a la plataforma. 
 **Branding**:
-**Brand Name**: a
+**Brand Name**: El nombre que elegimos para esta solución es NexaLibery. Se nos ocurrió a través de una combinación de palabras en inglés que tiene valores y misiones de nuestra plataforma. "Nexa" vendría ser de "nexus" que significa conexión en latín refiriendo a la conexión de los usuarios con diversos contenidos de nuestra plataforma y el "Libery" es una combinación de "Liberty" y "Library" que significan libertad y biblioteca respectivamente, dando entender que tienes la libertad de elegir lo que más te gusta y necesitas para relajarte y aprender.
 <img src="/assets/Imgs/logo_NexaLibery.png" alt="Imagen del logo" style="width:60%;">
 
 **Colores:** Los colores toman un papel muy importante para la plataforma al momento de hablar sobre captar la atención y dar comodidad a los usuarios, es alli lo que buscábamos un color específico en el que transmita paz y calma para combinar con nuestros contenidos, el azul, que es bien indicado por los expertos para enfrentar al insomnio o estrés de los estudiantes.
-- Primary Colors
+- Primary Colors: 
     <img src="/assets/Colors/Primary_blue.png" alt="azul" style="width:40%;">
     <img src="/assets/Colors/Primary_sky.png" alt="celeste" style="width:40%;">
     <img src="/assets/Colors/Primary_white.png" alt="blanco" style="width:40%;">
-- Secondary Colors
+- Secondary Colors: 
 
   
-- Wireframe Colors
+- Wireframe Colors: 
 
   
-- Text Colors
+- Text Colors: 
 
   
 ### 4.1.2. Web Style Guidelines.

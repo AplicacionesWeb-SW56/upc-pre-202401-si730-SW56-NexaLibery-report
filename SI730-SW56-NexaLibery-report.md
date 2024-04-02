@@ -536,11 +536,24 @@ Persona la cual nos busca por medio de cualquiera de nuestras suscripciones, en 
 ### 4.1.1. General Style Guidelines.
 Descripcion del porque estos elementos seran importantes
 Elegimos esos elementos por el hecho que nuestra plataforma es muy necesario tanto como usos repetivos y obligatorio para el manejo de los usuarios a la plataforma. 
+**Branding**:
+**Brand Name**: a
 <img src="/assets/Imgs/logo_NexaLibery.png" alt="Imagen del logo" style="width:60%;">
-**Color:** Los colores toman un papel muy importante para la plataforma al momento de hablar sobre captar la atención y dar comodidad a los usuarios, es alli lo que buscábamos un color específico en el que transmita paz y calma para combinar con nuestros contenidos, el azul, que es bien indicado por los expertos para enfrentar al insomnio o estrés de los estudiantes.
 
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+**Colores:** Los colores toman un papel muy importante para la plataforma al momento de hablar sobre captar la atención y dar comodidad a los usuarios, es alli lo que buscábamos un color específico en el que transmita paz y calma para combinar con nuestros contenidos, el azul, que es bien indicado por los expertos para enfrentar al insomnio o estrés de los estudiantes.
+- Primary Colors
+    <img src="/assets/Colors/Primary_blue.png" style="width:60%;">
+    <img src="/assets/Colors/Primary_sky.png" style="width:60%;">
+    <img src="/assets/Colors/Primary_white.png" style="width:60%;">
+- Secondary Colors
+
+  
+- Wireframe Colors
+
+  
+- Text Colors
+
+  
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 

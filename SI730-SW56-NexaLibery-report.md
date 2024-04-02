@@ -542,9 +542,9 @@ Elegimos esos elementos por el hecho que nuestra plataforma es muy necesario tan
 
 **Colores:** Los colores toman un papel muy importante para la plataforma al momento de hablar sobre captar la atención y dar comodidad a los usuarios, es alli lo que buscábamos un color específico en el que transmita paz y calma para combinar con nuestros contenidos, el azul, que es bien indicado por los expertos para enfrentar al insomnio o estrés de los estudiantes.
 - Primary Colors
-    <img src="/assets/Colors/Primary_blue.png" style="width:60%;">
-    <img src="/assets/Colors/Primary_sky.png" style="width:60%;">
-    <img src="/assets/Colors/Primary_white.png" style="width:60%;">
+    <img src="/assets/Colors/Primary_blue.png" alt="azul" style="width:40%;">
+    <img src="/assets/Colors/Primary_sky.png" alt="celeste" style="width:40%;">
+    <img src="/assets/Colors/Primary_white.png" alt="blanco" style="width:40%;">
 - Secondary Colors
 
   

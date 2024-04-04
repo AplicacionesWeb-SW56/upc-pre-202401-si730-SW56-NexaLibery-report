@@ -555,7 +555,7 @@ Conectar a las personas con el contenido que aman, promoviendo la educación, el
 - Secondary Colors:                                                             
 
   
-- Wireframe Colors: 
+- Wireframe Colors:                                                                             
     <img src="/assets/Colors/Wireframe_colors/wireframe_000000.png" alt="negro" style="width:20%;">
     <img src="/assets/Colors/Wireframe_colors/wireframe_bebebe.png" alt="gris (oscuro 100%)" style="width:20%;">
     <img src="/assets/Colors/Wireframe_colors/wireframe_d0d0d0.png" alt="gris (oscuro 80%)" style="width:20%;">

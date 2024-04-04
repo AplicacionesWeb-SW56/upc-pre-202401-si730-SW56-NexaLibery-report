@@ -556,7 +556,13 @@ Conectar a las personas con el contenido que aman, promoviendo la educación, el
 
   
 - Wireframe Colors: 
-
+    <img src="/assets/Colors/Wireframe_colors/wireframe_000000.png" alt="negro" style="width:20%;">
+    <img src="/assets/Colors/Wireframe_colors/wireframe_bebebe.png" alt="gris (oscuro 100%)" style="width:20%;">
+    <img src="/assets/Colors/Wireframe_colors/wireframe_d0d0d0.png" alt="gris (oscuro 80%)" style="width:20%;">
+    <img src="/assets/Colors/Wireframe_colors/wireframe_d9d9d9.png" alt="gris (oscuro 60%)" style="width:20%;">
+    <img src="/assets/Colors/Wireframe_colors/wireframe_e4e4e4.png" alt="gris (oscuro 40%)" style="width:20%;">
+    <img src="/assets/Colors/Wireframe_colors/wireframe_e5e5e5.png" alt="gris (oscuro 20%)" style="width:20%;">
+    <img src="/assets/Colors/Wireframe_colors/wireframe_ffffff.png" alt="blanco" style="width:20%;">
   
 - Text Colors: 
 

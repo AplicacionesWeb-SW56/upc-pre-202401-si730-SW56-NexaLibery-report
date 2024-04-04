@@ -536,18 +536,18 @@ Persona la cual nos busca por medio de cualquiera de nuestras suscripciones, en 
 ### 4.1.1. General Style Guidelines.
 Un "Style Guideline" es un conjunto de reglas para escribir y diseñar cosas como documentos, páginas web y más. Incluye cosas como gramática, cómo se ven las palabras y las imágenes, y cómo se organizan las cosas.
 **Branding**:
-**Brand Overview**:
+- **Brand Overview**:
 NexaLibrary es una plataforma líder en la industria de bibliotecas digitales, comprometida en proporcionar acceso fácil y conveniente a una amplia gama de contenido multimedia de alta calidad. Con una interfaz intuitiva y funciones innovadoras, NexaLibrary se esfuerza por ofrecer una experiencia de usuario excepcional que satisfaga las necesidades y expectativas de sus usuarios.
 Con una extensa colección de libros electrónicos, audiolibros, música y podcasts, NexaLibrary se posiciona como la elección preferida para aquellos que buscan explorar, descubrir y disfrutar de contenido multimedia en línea. Además, NexaLibrary se distingue por su enfoque en la personalización y la comunidad, ofreciendo características como recomendaciones personalizadas, listas de reproducción curadas y comunidades de usuarios para fomentar la interacción y el compromiso.
-**Misión**:
+- **Misión**:
 Conectar a las personas con el contenido que aman, promoviendo la educación, el aprendizaje continuo, el enriquecimiento personal y la reducción del estrés.
-**Visión**: MediaVerse se desea convertirse en la plataforma líder en la entrega de contenido multimedia personalizado, transformando la manera en que las personas exploran, descubren y se conectan con el contenido digital y entre sí. MediaVerse aspira a ser el puente entre el vasto mundo del contenido digital y las preferencias únicas de cada usuario, ofreciendo una experiencia inmersiva y enriquecedora que va más allá de la simple consumición de contenido.
+- **Visión**: MediaVerse se desea convertirse en la plataforma líder en la entrega de contenido multimedia personalizado, transformando la manera en que las personas exploran, descubren y se conectan con el contenido digital y entre sí. MediaVerse aspira a ser el puente entre el vasto mundo del contenido digital y las preferencias únicas de cada usuario, ofreciendo una experiencia inmersiva y enriquecedora que va más allá de la simple consumición de contenido.
 <img src="/assets/Imgs/logo_NexaLibery.png" alt="Imagen del logo" style="width:60%;">
-**Brand Name**:
+- **Brand Name**:
 El nombre que elegimos para esta solución es NexaLibery. Se nos ocurrió a través de una combinación de palabras en inglés que tiene valores y misiones de nuestra plataforma. "Nexa" vendría ser de "nexus" que significa conexión en latín refiriendo a la conexión de los usuarios con diversos contenidos de nuestra plataforma y el "Libery" es una combinación de "Liberty" y "Library" que significan libertad y biblioteca respectivamente, dando entender que tienes la libertad de elegir lo que más te gusta y necesitas para relajarte y aprender.
 
 
-**Colores:** Los colores toman un papel muy importante para la plataforma al momento de hablar sobre captar la atención y dar comodidad a los usuarios, es alli lo que buscábamos un color específico en el que transmita paz y calma para combinar con nuestros contenidos, el azul, que es bien indicado por los expertos para enfrentar al insomnio o estrés de los estudiantes.
+- **Colores:** Los colores toman un papel muy importante para la plataforma al momento de hablar sobre captar la atención y dar comodidad a los usuarios, es alli lo que buscábamos un color específico en el que transmita paz y calma para combinar con nuestros contenidos, el azul, que es bien indicado por los expertos para enfrentar al insomnio o estrés de los estudiantes.
 - Primary Colors: 
     <img src="/assets/Colors/Primary_blue.png" alt="azul" style="width:40%;">
     <img src="/assets/Colors/Primary_sky.png" alt="celeste" style="width:40%;">

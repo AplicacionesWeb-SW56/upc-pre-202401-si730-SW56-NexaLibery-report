@@ -565,10 +565,11 @@ Conectar a las personas con el contenido que aman, promoviendo la educación, el
     <img src="/assets/Colors/Wireframe_colors/wireframe_e4e4e4.png" alt="gris (oscuro 40%)" style="width:20%;">
     <img src="/assets/Colors/Wireframe_colors/wireframe_e5e5e5.png" alt="gris (oscuro 20%)" style="width:20%;">
     <img src="/assets/Colors/Wireframe_colors/wireframe_ffffff.png" alt="blanco" style="width:20%;">
-  
-- Text Colors: 
-
-  
+- Text Colors:                                                         
+    <img src="/assets/Colors/Wireframe_colors/wireframe_000000.png" alt="negro" style="width:20%;">
+    <img src="/assets/Colors/Wireframe_colors/wireframe_ffffff.png" alt="blanco" style="width:20%;">
+- Tipografía:
+  La tipografía representa el orden y jerarquía. Toma un cumplimiento muy importante para la perspectiva de los usuarios al navegar por la interfaz. El tipo de letra de nuestro proyecto es "Andada Pro"
 ### 4.1.2. Web Style Guidelines.
 Descripcion de los elementos que se utilizaran en el web app
 

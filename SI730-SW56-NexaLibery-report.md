@@ -553,8 +553,10 @@ Conectar a las personas con el contenido que aman, promoviendo la educación, el
     <img src="/assets/Colors/Primary_sky.png" alt="celeste" style="width:40%;">
     <img src="/assets/Colors/Primary_white.png" alt="blanco" style="width:40%;">
 - Secondary Colors:                                                             
-
-  
+    <img src="/assets/Colors/Primary_blue.png" alt="azul" style="width:30%;">
+    <img src="/assets/Colors/Primary_sky.png" alt="celeste" style="width:30%;">
+    <img src="/assets/Colors/Wireframe_colors/wireframe_d9d9d9.png" alt="gris (oscuro 60%)" style="width:30%;">
+    <img src="/assets/Colors/Primary_white.png" alt="blanco" style="width:30%;">
 - Wireframe Colors:                                                                             
     <img src="/assets/Colors/Wireframe_colors/wireframe_000000.png" alt="negro" style="width:20%;">
     <img src="/assets/Colors/Wireframe_colors/wireframe_bebebe.png" alt="gris (oscuro 100%)" style="width:20%;">

@@ -572,17 +572,20 @@ Conectar a las personas con el contenido que aman, promoviendo la educación, el
   La tipografía representa el orden y jerarquía. Toma un cumplimiento muy importante para la perspectiva de los usuarios al navegar por la interfaz. El tipo de letra de nuestro proyecto es "Andada Pro"
 ### 4.1.2. Web Style Guidelines.
 El panorama de "MediaVerse" en la perspectiva de la aplicación web es de sencillez, facilidad y comodidad para los ususarios realizar sus navegaciones. Para llenar los procedimientos, procesos y las planillas, están siendo mostrado como formularios que se visualiza en la perspectiva del ususario.
+**Tarjetas:** 
+**Imágenes:** 
+**Botones:** 
+**Tablas:** 
+**Pantallas Emergentes:** 
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
-**Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
-**Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
-**Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+### 4.1.2. Mobile Style Guidelines.
+detalles
+**Tarjetas:** 
+**Imágenes:** 
+**Botones:** 
+**Tablas:** 
+**Pantallas Emergentes:** 
+
 ## 4.2. Information Architecture.
 ### 4.2.1. Organization Systems.
 Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)

@@ -664,8 +664,14 @@ El sistema de navegacion de nuestro sitio web consta de menus de navegacion, en 
 <img src="assets/Imgs/Web Applications - Muck-ups.png" alt="Landing Page Mock-ups" style="width:100%;">
 
 ### 4.4.3. Web Applications User Flow Diagrams.
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
-![Web Aplication User Flow Diagram](image.jpg)
+
+<img src="assets/Imgs/Inicio de sesion.png" alt="Landing Page Mock-ups" style="width:100%;">
+
+<img src="assets/Imgs/Cuenta.png" alt="Landing Page Mock-ups" style="width:100%;">
+
+<img src="assets/Imgs/Plan.png" alt="Landing Page Mock-ups" style="width:100%;">
+
+<img src="assets/Imgs/Caja.png" alt="Landing Page Mock-ups" style="width:100%;">
 
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)

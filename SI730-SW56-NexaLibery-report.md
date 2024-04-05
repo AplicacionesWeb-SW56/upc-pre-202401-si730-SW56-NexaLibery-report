@@ -660,12 +660,16 @@ El sistema de navegacion de nuestro sitio web consta de menus de navegacion, en 
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
 ### 4.4.2. Web Applications Mock-ups.
+
 <img src="assets/Imgs/Web Applications - Muck-ups.png" alt="Landing Page Mock-ups" style="width:100%;">
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]** 
 ![Web Aplication User Flow Diagram](image.jpg)
+
 ## 4.5. Web Applications Prototyping.
 [URL del Prototipo (Hecho en figma)](https://www.example.com)
+
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios

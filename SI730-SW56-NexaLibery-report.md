@@ -377,11 +377,11 @@ Nos dimos cuenta que el estrés académico según Universidad de Chile (2023), e
 
 ### 2.2.2. Registro de entrevistas.
 **Segmento 1**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+Nombre: Maria Teresa Ramirez
+Edad: 52 años 
+Ocupación: Administradora de emrpesas 
+<img src="assets/Entrevistas-IMG/Entrevista-MT.PNG" alt="Mapa de impacto" style="width:100%;">
+Maria Teresa Ramirez, de 52 años, trabaja en ventas y estudia Administración de Empresas. Prefiere las compras presenciales a las online debido a la complejidad de estas últimas, especialmente cuando se trata de adquirir libros, los cuales prefiere en formato físico tras una experiencia complicada con un libro digital. La dificultad para encontrar ciertos recursos en línea le resulta frustrante y le hace valorar las soluciones prácticas que simplifican este proceso. La introducción a una nueva aplicación que promete ser una solución integral para sus necesidades digitales le parece útil e interesante, destacándose de otras opciones por su practicidad y novedad. Ramirez expresa frustración con la necesidad de usar múltiples aplicaciones para un mismo fin, indicando una preferencia por soluciones más unificadas y eficientes.
 
 **Segmento 2**  
 Nombre: _____
@@ -392,7 +392,30 @@ Ocupación: _____
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
-{texto}
+### Preferencia por lo Tangible
+
+- **Libros:** Ramirez muestra una preferencia notable por los libros físicos, influenciada por experiencias negativas previas con el contenido digital.
+
+### Retos con la Tecnología
+
+- **Compras en línea y gestión de contenido:** Encuentra desafiantes tanto las compras en línea como la gestión de contenido digital, lo que sugiere barreras tecnológicas que afectan su experiencia.
+
+### Frustración por Múltiples Aplicaciones
+
+- **Búsqueda de contenido:** La necesidad de utilizar diversas plataformas para acceder a contenido específico resulta en una experiencia de usuario ineficiente y frustrante.
+
+### Interés en Soluciones Innovadoras
+
+- **Aplicaciones prometedoras:** Hay una disposición abierta hacia la adopción de nuevas aplicaciones que ofrezcan una experiencia de usuario simplificada y mejorada.
+
+### Necesidad de Diseño Centrado en el Usuario
+
+- **Usabilidad:** Es crucial que las aplicaciones sean intuitivas y fáciles de navegar, especialmente para satisfacer las necesidades de usuarios no nativos digitales como Ramirez.
+
+### Oportunidades para Educación Digital
+
+- **Capacitación y adaptación:** Existe un espacio significativo para facilitar la transición de Ramirez hacia una mayor familiaridad y eficiencia con las tecnologías digitales, a través de la educación y el soporte.
+
 **Segmento 2:**
 {texto}
 ## 2.3. Needfinding.

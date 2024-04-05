@@ -572,19 +572,19 @@ Conectar a las personas con el contenido que aman, promoviendo la educación, el
   La tipografía representa el orden y jerarquía. Toma un cumplimiento muy importante para la perspectiva de los usuarios al navegar por la interfaz. El tipo de letra de nuestro proyecto es "Andada Pro"
 ### 4.1.2. Web Style Guidelines.
 El panorama de "MediaVerse" en la perspectiva de la aplicación web es de sencillez, facilidad y comodidad para los ususarios realizar sus navegaciones. Para llenar los procedimientos, procesos y las planillas, están siendo mostrado como formularios que se visualiza en la perspectiva del ususario.
-**Tarjetas:** 
-**Imágenes:** 
-**Botones:** 
-**Tablas:** 
-**Pantallas Emergentes:** 
+* **Tarjetas:** 
+* **Imágenes:** 
+* **Botones:** 
+* **Tablas:** 
+* **Pantallas Emergentes:** 
 
 ### 4.1.2. Mobile Style Guidelines.
 detalles
-**Tarjetas:** 
-**Imágenes:** 
-**Botones:** 
-**Tablas:** 
-**Pantallas Emergentes:** 
+* **Tarjetas:** 
+* **Imágenes:** 
+* **Botones:** 
+* **Tablas:** 
+* **Pantallas Emergentes:** 
 
 ## 4.2. Information Architecture.
 La estructura de MediaVerse está diseñada para ofrecer una experiencia fluida y enriquecedora a los usuarios, permitiéndoles explorar y descubrir contenido multimedia de manera intuitiva y personalizada. Desde la página de inicio, los usuarios pueden sumergirse en un vasto universo de medios digitales, navegando a través de diversas categorías como libros electrónicos, audiolibros, música, podcasts y videos.
@@ -597,11 +597,15 @@ Las partes de arriba (los encabezados) siempre se va a encontrar en las pantalla
 ### 4.2.3. SEO Tags and Meta Tags
 Las metas etiquetas nos facilitan en el análisis de los archivos HTML. Es decir, posiciona nuestro página web en los navegadores webs y muestra de manera llamativa con información breve de la plataforma a los usuarios que aún no entraron.
 Las metas etiquetas que usaremos son:
-* Titulo: Esa etiqueta es la cabeza principal técnicamente ya que se pone primero antes dque cualquier metaetiqueta, es decir, sería leida por todos los motores de búsqueda (SERP) como encabezado. ```<title> Register your processes with MediaVerse </title> ```
+* Titulo: Esa etiqueta es la cabeza principal técnicamente ya que se pone primero antes dque cualquier metaetiqueta, es decir, sería leida por todos los motores de búsqueda (SERP) como encabezado.
+* ```<title> Register your processes with MediaVerse </title> ```
 * Codificación de carácteres: Esta etiqueta básicamente solo mostrará de manera correcta los carácteres especiales en la plataforma ```<meta charset="utf-8"> ```
-* Descripcion: En esa meta etiqueta sirve para llamar la atención a los usuarios con u resumen de lo que se trata la página web. Solamente un pequeño información sobre cómo sería la perspectiva dentro de la plataforma. ```<meta name = "description" content = "MediaVerse is a web application focused so that users can browse and have the multimedia they want to reduce their stress."/> ```
-* Palabras Clave: En esa etiqueta solamente se pone palabras claves con el que tiene que ver con la página web. ```<meta name = "keyword" content = "Music, Library, songs, media, video, stress"/> ```
-* Autor y Derechos de Autor: Básicamente se usa para registrar y mostrar información del autor original y sus derechos de autor. ```<meta name="author" content="NexaLibery"/> <meta name="copyright" content="Copyright NexaLibery team" />```
+* Descripcion: En esa meta etiqueta sirve para llamar la atención a los usuarios con u resumen de lo que se trata la página web. Solamente un pequeño información sobre cómo sería la perspectiva dentro de la plataforma.
+* ```<meta name = "description" content = "MediaVerse is a web application focused so that users can browse and have the multimedia they want to reduce their stress."/> ```
+* Palabras Clave: En esa etiqueta solamente se pone palabras claves con el que tiene que ver con la página web.
+* ```<meta name = "keyword" content = "Music, Library, songs, media, video, stress"/> ```
+* Autor y Derechos de Autor: Básicamente se usa para registrar y mostrar información del autor original y sus derechos de autor.
+* ```<meta name="author" content="NexaLibery"/> <meta name="copyright" content="Copyright NexaLibery team" />```
 
 ### 4.2.4. Searching Systems.
 

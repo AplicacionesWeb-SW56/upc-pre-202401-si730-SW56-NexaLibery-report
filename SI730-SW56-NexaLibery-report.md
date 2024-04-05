@@ -606,7 +606,7 @@ Las metas etiquetas que usaremos son:
 * Palabras Clave: En esa etiqueta solamente se pone palabras claves con el que tiene que ver con la página web.                    
   ```<meta name = "keyword" content = "Music, Library, songs, media, video, stress"/> ```
 * Autor y Derechos de Autor: Básicamente se usa para registrar y mostrar información del autor original y sus derechos de autor.                
-  ```<meta name="author" content="NexaLibery"/> <meta name="copyright" content="Copyright NexaLibery team" />```
+  ```<meta name="author" content="NexaLibery"/>``` ```<meta name="copyright" content="Copyright NexaLibery team" />```
 
 ### 4.2.4. Searching Systems.
 

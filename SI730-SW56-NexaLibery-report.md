@@ -859,8 +859,6 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
 ### 5.1.2. Source Code Management.
 El gitjab donde tengamos el proyecto
 ### 5.1.3. Source Code Style Guide & Conventions.

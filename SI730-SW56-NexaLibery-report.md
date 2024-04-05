@@ -587,23 +587,21 @@ detalles
 **Pantallas Emergentes:** 
 
 ## 4.2. Information Architecture.
+La estructura de MediaVerse está diseñada para ofrecer una experiencia fluida y enriquecedora a los usuarios, permitiéndoles explorar y descubrir contenido multimedia de manera intuitiva y personalizada. Desde la página de inicio, los usuarios pueden sumergirse en un vasto universo de medios digitales, navegando a través de diversas categorías como libros electrónicos, audiolibros, música, podcasts y videos.
+Cada categoría presenta una amplia gama de opciones, organizadas de manera clara y accesible para facilitar la búsqueda y selección de contenido. Los detalles de cada elemento, incluyendo descripciones, reseñas y opciones de reproducción, se presentan de manera concisa y fácil de entender, brindando a los usuarios la información necesaria para tomar decisiones informadas sobre lo que desean consumir.
 ### 4.2.1. Organization Systems.
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making use of physical differences, such as size, colour, contrast, alignment etc.
-
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the current step. 
-
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical, Chronological, by topic."
+La organización visual de nuestro contenido consta de 4 formas distintas
 ### 4.2.2. Labeling Systems.
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in few words. 
+Las partes de arriba (los encabezados) siempre se va a encontrar en las pantallas, se mantiene el "Services", "Pricing", "About us", "iniciar sesión" y "registrarse" para los ususarios. Además de imágenes, los paneles de controles que están asociadas con labels que informan al usuario del contenido que puede visualizar si llegan a acceder a los mencionados. También mencionar que todas las tarjetas que se ve en esa presentación cuentan con sus respectivos títulos. En "about us" se muestra más detallado en todos mencionados.
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
 ### 4.2.3. SEO Tags and Meta Tags
-
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que sale al encontrar la pagina en el buscador (se ponen en el <"head">)
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+Las metas etiquetas nos facilitan en el análisis de los archivos HTML. Es decir, posiciona nuestro página web en los navegadores webs y muestra de manera llamativa con información breve de la plataforma a los usuarios que aún no entraron.
+Las metas etiquetas que usaremos son:
+* Titulo: Esa etiqueta es la cabeza principal técnicamente ya que se pone primero antes dque cualquier metaetiqueta, es decir, sería leida por todos los motores de búsqueda (SERP) como encabezado. ```<title> Register your processes with MediaVerse </title> ```
+* Codificación de carácteres: Esta etiqueta básicamente solo mostrará de manera correcta los carácteres especiales en la plataforma ```<meta charset="utf-8"> ```
+* Descripcion: En esa meta etiqueta sirve para llamar la atención a los usuarios con u resumen de lo que se trata la página web. Solamente un pequeño información sobre cómo sería la perspectiva dentro de la plataforma. ```<meta name = "description" content = "MediaVerse is a web application focused so that users can browse and have the multimedia they want to reduce their stress."/> ```
+* Palabras Clave: En esa etiqueta solamente se pone palabras claves con el que tiene que ver con la página web. ```<meta name = "keyword" content = "Music, Library, songs, media, video, stress"/> ```
+* Autor y Derechos de Autor: Básicamente se usa para registrar y mostrar información del autor original y sus derechos de autor. ```<meta name="author" content="NexaLibery"/> <meta name="copyright" content="Copyright NexaLibery team" />```
 
 ### 4.2.4. Searching Systems.
 

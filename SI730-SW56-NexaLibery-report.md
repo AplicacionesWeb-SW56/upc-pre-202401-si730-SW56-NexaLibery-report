@@ -621,7 +621,7 @@ El sistema de navegacion de nuestro sitio web consta de menus de navegacion, en 
 <https://www.figma.com/file/jnpsfeSHPNGP0YjRKdvbLH/NexaLibery?type=design&node-id=0%3A1&mode=design&t=XxmpBXkzUHrLgWYU-1>
 ### 4.3.2. Landing Page Mock-up.
 
-<img src="assets/Imgs/Landing Page Mockups.jpg" alt="Landing Page Mock-ups" style="width:100%;">
+<img src="assets/Imgs/Landing Page Mock-ups.jpg" alt="Landing Page Mock-ups" style="width:100%;">
 
 <https://www.figma.com/file/jnpsfeSHPNGP0YjRKdvbLH/NexaLibery?type=design&node-id=0%3A1&mode=design&t=XxmpBXkzUHrLgWYU-1>
 ## 4.4. Web Applications UX/UI Design.

@@ -595,19 +595,19 @@ Conectar a las personas con el contenido que aman, promoviendo la educación, el
   La tipografía representa el orden y jerarquía. Toma un cumplimiento muy importante para la perspectiva de los usuarios al navegar por la interfaz. El tipo de letra de nuestro proyecto es "Andada Pro"
 ### 4.1.2. Web Style Guidelines.
 El panorama de "MediaVerse" en la perspectiva de la aplicación web es de sencillez, facilidad y comodidad para los ususarios realizar sus navegaciones. Para llenar los procedimientos, procesos y las planillas, están siendo mostrado como formularios que se visualiza en la perspectiva del ususario.
-* **Tarjetas:** 
-* **Imágenes:** 
-* **Botones:** 
-* **Tablas:** 
-* **Pantallas Emergentes:** 
+* **Tarjetas:** Solamente usamos el "card" para incluir titulos, subtitulos, información y vinculación para más información.
+* **Imágenes:** Aqui se incluyen imágenes decorativas, descriptivas con sus respectivo objetivo de significado. Incluso las imagenes como las fotos personales de los usuarios que se mostrarían despies de ingresar sesión en la parte superior y derecha.
+* **Botones:** Solamente se utilizan los botones de acuerdo al General Style Guidelines. Para aplicaciones web, muchas veces se encuentran en la parte inferior de la sección principal de la pantalla. Los botones es importante para los usuarios, ya que al seleccionar esos botones, genera nuevos procesos que toma nuevamente para registrar, términos y políticas.
+* **Tablas:** Las tablas toman los colores diferentes de la aplicación, celeste y azul oscuro.
+* **Pantallas Emergentes:** Estos avisos están diseñadas para confirmar acciones críticas para el negocio y con un gran impacto en su funcionamiento. Se destacan por colores más vibrantes que el resto de la aplicación web y oscurecen la pantalla para generar contraste. Este efecto busca resaltar la importancia de abordar el asunto antes de continuar navegando en la aplicación.
 
 ### 4.1.2. Mobile Style Guidelines.
-detalles
-* **Tarjetas:** 
-* **Imágenes:** 
-* **Botones:** 
-* **Tablas:** 
-* **Pantallas Emergentes:** 
+La experiencia de "MediaVerse" en dispositivos móviles se enfoca en la simplicidad, la facilidad y la comodidad para que los usuarios realicen sus navegaciones. Los procedimientos, procesos y formularios se presentan de manera clara y accesible en la pantalla del celular.
+* **Tarjetas:** En las tarjetas se organizan utilizando el componente "card". Estas tarjetas presentan un título, un subtítulo, un párrafo descriptivo y proporcionan un enlace para acceder a más información.
+* **Imágenes:** Aqui se incluyen imágenes decorativas, descriptivas con sus respectivo objetivo de significado. Incluso las imagenes como las fotos personales de los usuarios que se mostrarían despies de ingresar sesión en la parte superior y derecha.
+* **Botones:** Solamente se utilizan los botones de acuerdo al General Style Guidelines. Para aplicaciones web, muchas veces se encuentran en la parte inferior de la sección principal de la pantalla. Los botones es importante para los usuarios, ya que al seleccionar esos botones, genera nuevos procesos que toma nuevamente para registrar, términos y políticas.
+* **Tablas:** Las tablas toman los colores diferentes de la aplicación, celeste y azul oscuro.
+* **Pantallas Emergentes:** Estos avisos están diseñadas para confirmar acciones críticas para el negocio y con un gran impacto en su funcionamiento. Se destacan por colores más vibrantes que el resto de la aplicación web y oscurecen la pantalla para generar contraste. Este efecto busca resaltar la importancia de abordar el asunto antes de continuar navegando en la aplicación.
 
 ## 4.2. Information Architecture.
 La estructura de MediaVerse está diseñada para ofrecer una experiencia fluida y enriquecedora a los usuarios, permitiéndoles explorar y descubrir contenido multimedia de manera intuitiva y personalizada. Desde la página de inicio, los usuarios pueden sumergirse en un vasto universo de medios digitales, navegando a través de diversas categorías como libros electrónicos, audiolibros, música, podcasts y videos.

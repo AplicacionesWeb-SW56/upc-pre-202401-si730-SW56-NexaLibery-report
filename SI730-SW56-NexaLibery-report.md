@@ -659,7 +659,7 @@ El sistema de navegacion de nuestro sitio web consta de menus de navegacion, en 
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+<img src="assets/Imgs/Web Applications Wireflow.png" alt="Landing Page Mock-ups" style="width:100%;">
 
 ### 4.4.2. Web Applications Mock-ups.
 <img src="assets/Imgs/Web Applications - Muck-ups.png" alt="Landing Page Mock-ups" style="width:100%;">

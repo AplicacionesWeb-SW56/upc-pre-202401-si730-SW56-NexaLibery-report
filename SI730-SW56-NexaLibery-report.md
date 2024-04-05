@@ -658,7 +658,6 @@ El sistema de navegacion de nuestro sitio web consta de menus de navegacion, en 
 <https://www.figma.com/file/jnpsfeSHPNGP0YjRKdvbLH/NexaLibery?type=design&node-id=0%3A1&mode=design&t=XxmpBXkzUHrLgWYU-1>
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 <img src="assets/Imgs/Web Applications Wireflow.png" alt="Landing Page Mock-ups" style="width:100%;">
 
 ### 4.4.2. Web Applications Mock-ups.

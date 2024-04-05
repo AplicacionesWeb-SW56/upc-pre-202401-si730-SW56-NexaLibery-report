@@ -599,7 +599,8 @@ Las metas etiquetas nos facilitan en el análisis de los archivos HTML. Es decir
 Las metas etiquetas que usaremos son:
 * Titulo: Esa etiqueta es la cabeza principal técnicamente ya que se pone primero antes dque cualquier metaetiqueta, es decir, sería leida por todos los motores de búsqueda (SERP) como encabezado.                                                                                
   ```<title> Register your processes with MediaVerse </title> ```
-* Codificación de carácteres: Esta etiqueta básicamente solo mostrará de manera correcta los carácteres especiales en la plataforma ```<meta charset="utf-8"> ```
+* Codificación de carácteres: Esta etiqueta básicamente solo mostrará de manera correcta los carácteres especiales en la plataforma.                    
+  ```<meta charset="utf-8"> ```
 * Descripcion: En esa meta etiqueta sirve para llamar la atención a los usuarios con u resumen de lo que se trata la página web. Solamente un pequeño información sobre cómo sería la perspectiva dentro de la plataforma.                                    
   ```<meta name = "description" content = "MediaVerse is a web application focused so that users can browse and have the multimedia they want to reduce their stress."/> ```
 * Palabras Clave: En esa etiqueta solamente se pone palabras claves con el que tiene que ver con la página web.                    

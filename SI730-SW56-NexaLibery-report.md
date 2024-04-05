@@ -571,7 +571,7 @@ Conectar a las personas con el contenido que aman, promoviendo la educación, el
 - Tipografía:
   La tipografía representa el orden y jerarquía. Toma un cumplimiento muy importante para la perspectiva de los usuarios al navegar por la interfaz. El tipo de letra de nuestro proyecto es "Andada Pro"
 ### 4.1.2. Web Style Guidelines.
-Descripcion de los elementos que se utilizaran en el web app
+El panorama de "MediaVerse" en la perspectiva de la aplicación web es de sencillez, facilidad y comodidad para los ususarios realizar sus navegaciones. Para llenar los procedimientos, procesos y las planillas, están siendo mostrado como formularios que se visualiza en la perspectiva del ususario.
 
 **Background:** (primary, secondary, terniary)  
 ![Background Preview web](image.jpg)

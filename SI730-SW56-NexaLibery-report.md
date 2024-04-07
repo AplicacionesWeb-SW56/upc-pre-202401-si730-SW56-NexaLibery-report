@@ -1,13 +1,19 @@
-<p align="center">
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
-    <strong> SI730 - Aplicacioes Web SW56</strong><br>
-    <strong>Profesor: Efrain Ricardo Bautista Ubillus </strong><br>
-    <br>INFORME <br>
-    "MediaVerse" | "NexaLibery"
-</p>
+# Universidad Peruana de Ciencias Aplicadas
 
+![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+
+## INGENIERÍA DE SISTEMAS DE SOFTWARE
+
+### SI730 - Aplicaciones Web SW56
+
+#### Profesor: Efrain Ricardo Bautista Ubillus
+
+---
+
+#### INFORME
+#### "MediaVerse" | "NexaLibery"
+
+---
 
 ### Integrantes:
 - Loli Ruiz, Renzo Javier - U20161C993
@@ -33,10 +39,10 @@
 
 
 # Student Outcome
-|Criterio Especifico|Acciones Realizadas|Conclusiones|
-|-|-|-|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.|Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc.. |Su texto de conclusion|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. |Su texto de conclusion|
+| Criterio Específico                                          | Acciones Realizadas | Conclusiones          |
+|--------------------------------------------------------------|---------------------|-----------------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Marcelo Ramirez:<br> *TB1:* Su texto<br>*TB2:* texto etc.. | Su texto de conclusión |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software           | Marcelo Ramirez:<br> *TB1:* Su texto<br>*TB2:* texto etc.. | Su texto de conclusión |
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -48,14 +54,14 @@ En NexaLibery, somos un equipo de desarrolladores enfocados en revolucionar la e
 - **Visión:**
  Diseñar una plataforma que da acceso a los usuarios a una gran biblioteca de contenido multimedia, ademas de la opcion de tener un perfil para personalizar el contenido que deseas y poder elegir los planes de membresia para poder desbloquear mas beneficios, contenido y funciones.
 #### 1.1.2. Perfiles de integrantes del equipo
-|Miembros del equipo | Codigo Estudiante | Carrera | Conocimientos / Habilidades |
-|-|-|-|-| 
-|Rodriguez Vargas, Arian Martin <img src="/assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%;">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-|Ramirez Ramirez, Marcelo Sebastian <img src="/assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, HTML5,JavaScript,SQL|
-|Quispe Erasmo, Raúl Ronaldo <img src="/assets/members-profile/QuispeErasmo.jpeg" alt="Imagen del compañero" style="width:60%">|U20211B682|Ingenieria de software|C++, python, HTML5, CSS3, Javascript|
-|Javier Murillo, Mathias <img src="/assets/members-profile/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|U202022211|Ingenieria de software|C++, SQL, React, Python, Javascript|
-|Leon Rioja, Carlos Andres <img src="/assets/members-profile/carlos.jpg" alt="Imagen del compañero" style="width:60%">|U202111451|Ingenieria de software|C++, Python, HTML, CSS|
-|Rodriguez Vargas, Arian Martin <img src="/assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
+| Miembros del equipo | Código Estudiante | Carrera | Conocimientos / Habilidades |
+|---------------------|-------------------|---------|-----------------------------|
+| Rodriguez Vargas, Arian Martin ![Arian Martin](/assets/members-profile/arigeimpleis.jpg) | U202212096 | Ingeniería de software | C++, Python, persistente y amigable |
+| Ramirez Ramirez, Marcelo Sebastian ![Marcelo Sebastian](/assets/members-profile/ramirez.jpeg) | U202210582 | Ingeniería de software | C++, HTML5, JavaScript, SQL |
+| Quispe Erasmo, Raúl Ronaldo ![Raúl Ronaldo](/assets/members-profile/QuispeErasmo.jpeg) | U20211B682 | Ingeniería de software | C++, python, HTML5, CSS3, JavaScript |
+| Javier Murillo, Mathias ![Mathias](/assets/members-profile/MathiasJavierMurillo.jpg) | U202022211 | Ingeniería de software | C++, SQL, React, Python, JavaScript |
+| Leon Rioja, Carlos Andres ![Carlos Andres](/assets/members-profile/carlos.jpg) | U202111451 | Ingeniería de software | C++, Python, HTML, CSS |
+
 
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
@@ -329,7 +335,6 @@ Nos dimos cuenta que el estrés académico según Universidad de Chile (2023), e
 
 <p>* Alta competencia</p>
 </td></table>
-
 
 ##### 2.1.2. Estrategias y tacticas frente a competidores
 

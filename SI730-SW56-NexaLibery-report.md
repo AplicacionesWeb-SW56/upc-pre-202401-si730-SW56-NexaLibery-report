@@ -5,11 +5,12 @@
     <strong> SI730 - Aplicacioes Web SW56</strong><br>
     <strong>Profesor: Efrain Ricardo Bautista Ubillus </strong><br>
     <br>INFORME <br>
-    "xxxx" | "NexaLibery"
+    "MediaVerse" | "NexaLibery"
 </p>
 
 
 ### Integrantes:
+- Loli Ruiz, Renzo Javier - U20161C993
 - Quispe Erasmo, Raúl Ronaldo - U20211B682
 - Ramirez Ramirez, Marcelo Sebastian - U202210582
 - Javier Murillo, Mathias - U202022211
@@ -19,7 +20,7 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 24/03/2024 |Grupo 8 |Se crea el documento |
+| 0.0 | 24/03/2024 |Grupo 4 |Se crea el documento |
 
 # Project Report Collaboration Insights
 [URL del repositorio](xxx)
@@ -51,7 +52,7 @@ En NexaLibery, somos un equipo de desarrolladores enfocados en revolucionar la e
 |Javier Murillo, Mathias <img src="/assets/members-profile/Mathias Javier Murillo.jpg" alt="Imagen del compañero" style="width:60%">|U202022211|Ingenieria de software|C++, SQL, React, Python, Javascript|
 |Leon Rioja, Carlos Andres <img src="/assets/members-profile/carlos.jpg" alt="Imagen del compañero" style="width:60%">|U202111451|Ingenieria de software|C++, Python, HTML, CSS|
 |Rodriguez Vargas, Arian Martin <img src="/assets/members-profile/arigeimpleis.jpg" alt="Imagen del compañero" style="width:60%">|U202212096|Ingenieria de software|C++, Python, persistente y amigable|
-<!--cambien la url e info, se agrego estilos para evitar errores en las dimensiones -->
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 

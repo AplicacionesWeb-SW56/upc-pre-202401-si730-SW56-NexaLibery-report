@@ -20,8 +20,12 @@
 # Registro de Versiones del Informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 24/03/2024 |Grupo 4 |Se crea el documento |
-
+| 0.0 | 24/03/2024 | Grupo 4 |Se crea el documento |
+| 1.0 | 24/03/2024 | Grupo 4 | Se crean las ramas correspondientes |
+| 1.1 | 25/03/2024 | Grupo 4 | Capitulo I |
+| 1.1 | 25/03/2024 | Grupo 4 | Capitulo II |
+| 1.1 | 27/03/2024 | Grupo 4 | Capitulo III |
+| 1.1 | 29/03/2024 | Grupo 4 | Capitulo IV |
 # Project Report Collaboration Insights
 [URL del repositorio](xxx)
 

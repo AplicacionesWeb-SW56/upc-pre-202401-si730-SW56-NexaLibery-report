@@ -436,20 +436,33 @@ Ocupación: _____
 
 ### 2.3.2. User Task Matrix.
 **Estudiantes colegiales, universitarios o tecnicos:** 
-|  |  User 1  | User 2 | User 3  | User 4 |
-| --- | ----------- | ------------ | ----------- | ---------- |
-| Es un estudiante universitario  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#FFC700; font-weight:bold">NO</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
-| Conoce alguna plataforma en la cual pueda tener acceso a multimedia sobre temas variados | <span style="color:#FFC700; font-weight:bold">NO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">SI</span>         | <span style="color:#E72929; font-weight:bold">NO</span>       |
-| Esta interesado en descargar libros, podcasts, etc | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
-| Le interesan temas variados fuera de su campo de estudio | <span style="color:#FFC700; font-weight:bold">SI</span> | <span style="color:#FFC700; font-weight:bold">POCO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">SI</span>       |
+| Task Matrix                            | Frecuencia | Importancia |
+|----------------------------------------|------------|-------------|
+| Registrarse                            | Siempre    | Alta        |
+| Completar perfil                       | Siempre    | Alta        |
+| Descargar libros electrónicos          | Frecuente  | Alta        |
+| Escuchar audiolibros                   | Frecuente  | Alta        |
+| Escuchar música                        | Muy frecuente | Alta    |
+| Escuchar podcasts                      | Frecuente  | Alta        |
+| Crear y personalizar listas de reproducción | Frecuente | Alta    |
+| Recibir recomendaciones personalizadas | Siempre    | Alta        |
+| Participar en comunidades y grupos de discusión | Ocasional | Media   |
+| Seleccionar y cambiar planes de membresía | Ocasional | Media     |
+
 
 **Egresados de carreras universitarias y/o tecnicas:** 
-|  |  User 1  | User 2 | User 3  | User 4 |
-| --- | ----------- | ------------ | ----------- | ---------- |
-| Ha culminado alguna carrera universitaria y/o tecnica  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span>| <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span> |
-| Le interesa expandir su conocimiento sobre su campo | <span style="color:#E72929; font-weight:bold">SI</span> | <span style="color:#E72929; font-weight:bold">NO</span>        | <span style="color:#FFC700; font-weight:bold">POCO</span>         | <span style="color:#E72929; font-weight:bold">SI</span>       |
-| Conoce alguna plataforma para tener acceso a multimedia sobre temas variados | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#FFC700; font-weight:bold">NO</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       | 
-| Esta interesado en descargar libros, podcasts, etc | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        | <span style="color:#90D26D; font-weight:bold">SI</span>         | <span style="color:#90D26D; font-weight:bold">SI</span>       |
+| Task Matrix                                  | Frecuencia    | Importancia |
+|----------------------------------------------|---------------|-------------|
+| Registrarse en la plataforma                 | Siempre       | Alta        |
+| Completar y actualizar perfil profesional    | Siempre       | Alta        |
+| Buscar libros electrónicos especializados    | Muy frecuente | Alta        |
+| Escuchar y descargar podcasts educativos     | Frecuente     | Alta        |
+| Acceder a audiolibros de desarrollo profesional | Frecuente   | Alta        |
+| Crear listas de reproducción para clases     | Ocasional     | Media       |
+| Participar en foros de discusión académica   | Frecuente     | Alta        |
+| Recomendar contenidos a estudiantes          | Frecuente     | Alta        |
+| Descargar material para clases               | Muy frecuente | Alta        |
+| Actualizar preferencias de contenido         | Ocasional     | Media       |
 ### 2.3.3. User Journey Mapping.
 **Registration:**
 Why would they trust us?

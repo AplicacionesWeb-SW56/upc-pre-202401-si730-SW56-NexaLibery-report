@@ -684,7 +684,7 @@ El sistema de navegacion de nuestro sitio web consta de menus de navegacion, en 
 <img src="assets/Imgs/Caja.png" alt="Landing Page Mock-ups" style="width:100%;">
 
 ## 4.5. Web Applications Prototyping.
-[URL del Prototipo]([https://www.example.com]())
+[URL del Prototipo](https://www.example.com)
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.

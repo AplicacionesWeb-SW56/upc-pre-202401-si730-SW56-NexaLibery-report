@@ -902,7 +902,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 Nuestro proyecto mantiene las convenciones de flujo implementadas por el modelo GitFlow para el control de versiones en GitHub como plataforma. Compartiremos nuestras URLs de nuestra Landing Page y seguiremos implementando nuestros proximos productos.
 
 ## Repositorio de Github:
-URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesWeb-SW56> 
+URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesWeb-SW56> <br>
 URL para acceder a nuestra Landing Page <https://github.com/AplicacionesWeb-SW56/NexaLibery-landingPage>
 
 ### 5.1.3. Source Code Style Guide & Conventions.

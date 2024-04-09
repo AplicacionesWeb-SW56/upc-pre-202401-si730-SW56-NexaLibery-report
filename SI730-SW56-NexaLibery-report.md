@@ -899,7 +899,12 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 1. Github: Plataforma en la cual hemos alojado nuestro proyecto por su dinamica y facil colaboracion entre colaboradores.
 
 ### 5.1.2. Source Code Management.
-El gitjab donde tengamos el proyecto
+Nuestro proyecto mantiene las convenciones de flujo implementadas por el modelo GitFlow para el control de versiones en GitHub como plataforma. Compartiremos nuestras URLs de nuestra Landing Page y seguiremos implementando nuestros proximos productos.
+
+## Repositorio de Github:
+URL para acceder a nuestra organizacion de GitHub <https://github.com/AplicacionesWeb-SW56> 
+URL para acceder a nuestra Landing Page <https://github.com/AplicacionesWeb-SW56/NexaLibery-landingPage>
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 Que usamos con css (en caso usemos software para SASS)
 supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments

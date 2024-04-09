@@ -882,6 +882,16 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+
+## Requirements Management
+1. Figma: Figma es una herramienta de diseño, la cual la implementamos para llevar a cabo el prototipado de nuestra landing page y coordinar el desarrollo de la misma, de igual manera para nuestra plataforma final, tanto en movil como en web. Ruta de referencia: <https://www.figma.com/files/recents-and-sharing?fuid=1157140311282758154>
+2. Canva: Canva es una plataforma que usamos para el diseño de los user persona para ambos segmentos detectados en nuestro publico y tambien fue usado para los Empathy Map para los mismos. Ruta de referencia: <https://www.canva.com/>
+
+## Software Development
+1. WebStorm: IDE desarrollado por JetBrain, creado para la elaboracion y compilacion de los codigos, esto lo empleamos para el desarrollo de nuestra Landing Page y de igual manera lo usaremos para el desarrollo de la plataforma.
+2. HTML5: HTML5 o tambien HyperText Markup Language, es un lenguaje de etiquetado empleado en paginas webs y será usado por nuestro equipo durante el proceso de nuestro proyecto.
+3. CSS: Cascading Style Sheets, es un lenguaje de programacion para el manejo y estetica de la pagina web, de igual manera será empleado durante todo el transcurso del proyecto.
+   
 ### 5.1.2. Source Code Management.
 El gitjab donde tengamos el proyecto
 ### 5.1.3. Source Code Style Guide & Conventions.

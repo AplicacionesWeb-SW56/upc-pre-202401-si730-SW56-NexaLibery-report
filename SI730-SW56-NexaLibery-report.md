@@ -904,6 +904,7 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 #### 5.2.1.2. Sprint Backlog 1.
 Durante el primer sprint backlog, el equipo tenía la intención de iniciar y terminar la creación de la página de inicio. La herramienta Discord se utilizó para organizar y gestionar a los miembros del equipo, lo que facilitó la asignación de tareas basadas en las habilidades individuales de cada uno. El objetivo principal del sprint era completar completamente la página de inicio, asegurando que fuera atractiva y funcional. Sin embargo, debido a problemas de tiempo y asuntos familiares, el proceso de creación se retrasó, dejando solo tres días antes de la fecha límite.
+<img src="assets/Imgs/pruebaTrabajo.jpg" alt="Sprint Backlog 1" style="width:100%;">
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.

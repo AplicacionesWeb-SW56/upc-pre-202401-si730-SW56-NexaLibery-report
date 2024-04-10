@@ -896,7 +896,7 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 | Sprint # | Date       | Time  | Location        | Prepared By | Attendees |
 |----------|------------|-------|-----------------|-------------|-----------|
-| 1        | 21/03/2024 | 5:00pm| Reunión virtual mediante la aplicación Discord | Raúl Quispe | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres |
+| 1        | 21/03/2024 | 5:00pm| Reunión virtual a través de Discord | Raúl Quispe | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres |
 
 | Sprint 1 Goal                                        | Sprint 1 Velocity | Sum of Story Points |
 |------------------------------------------------------|-------------------|---------------------|

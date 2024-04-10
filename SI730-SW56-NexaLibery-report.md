@@ -905,16 +905,34 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 #### 5.2.X.2. Sprint Backlog 1.
 Durante el primer sprint backlog, el equipo tenía la intención de iniciar y terminar la creación de la página de inicio. La herramienta Discord se utilizó para organizar y gestionar a los miembros del equipo, lo que facilitó la asignación de tareas basadas en las habilidades individuales de cada uno. El objetivo principal del sprint era completar completamente la página de inicio, asegurando que fuera atractiva y funcional. Sin embargo, debido a problemas de tiempo y asuntos familiares, el proceso de creación se retrasó, dejando solo tres días antes de la fecha límite.
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
+
 #### 5.2.X.3. Development Evidence for Sprint Review.
 ![Sprint review development Evidence](image.jpg)
+| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
+|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
+|                                        |                            |                                            |                           |                    |
+|                                        |                            |                                            |                           |                    |
+|                                        |                            |                                            |                           |                    |
+|                                        |                            |                                            |                           |                    |
+|                                        |                            |                                            |                           |                    |
+|                                        |                            |                                            |                           |                    |
+
 #### 5.2.X.4. Testing Suite Evidence for Sprint Review.
 ![Sprint review Testing suite Evidence](image.jpg)
+| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
+|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
+|                                        |                            |                                            |                           |                    |
+
+
 #### 5.2.X.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg)
+![Sprint review Execution Evidence](image.jpg) Capturas del landing corriendo
+
 #### 5.2.X.6. Services Documentation Evidence for Sprint Review.
 ![Sprint review Services Documentation Evidence](image.jpg)
+
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 ![Sprint review Software Deployment Evidence](image.jpg)
+
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
 | Alumno                           | Actividad                                  |          
 |----------------------------------|--------------------------------------------|

@@ -893,15 +893,18 @@ Configuraciones de donde y como deployeamos el proyecto
 ### 5.2.1. Sprint 1
 #### 5.2.X.1. Sprint Planning 1.
 Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo definido y limitado en el que un equipo se dedica a completar todas las tareas necesarias para alcanzar el objetivo final del proyecto. En el caso del desarrollo de la aplicación MediaVerse, se optó por dividir el proyecto en tres sprints, cada uno con una duración de dieciocho días. El Sprint #1, que comienza el 21/03/2024, tiene como objetivo principal la creación de una página de inicio atractiva para MediaVerse, destinada a captar la atención de los usuarios y comunicar claramente los beneficios del producto.
+
 |-|-|-|-|-|-|
 | Sprint # | Date | Time | Location | Prepared By | Attendees |
 |-|-|-|-|-|-|
 | 1 | 21/03/2024 | 5:00 pm | Reunión virtual mediante la aplicación Discord | Raúl Quispe | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres |
 |-|-|-|-|-|-|
+
 |-|-|-|
 | Sprint 1 Goal | Sprint 1 Velocity | Sum of Story Points |
 | Elaborar y crear la página MediaVerse con HTML y CSS |  |  |
 |-|-|-|
+
 #### 5.2.X.2. Sprint Backlog 1.
 Durante el primer sprint backlog, el equipo tenía la intención de iniciar y terminar la creación de la página de inicio. La herramienta Discord se utilizó para organizar y gestionar a los miembros del equipo, lo que facilitó la asignación de tareas basadas en las habilidades individuales de cada uno. El objetivo principal del sprint era completar completamente la página de inicio, asegurando que fuera atractiva y funcional. Sin embargo, debido a problemas de tiempo y asuntos familiares, el proceso de creación se retrasó, dejando solo tres días antes de la fecha límite.
 ![SprintBacklog n](image.jpg) Nica hago la tabla 

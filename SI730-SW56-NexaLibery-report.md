@@ -57,7 +57,7 @@ En NexaLibery, somos un equipo de desarrolladores enfocados en revolucionar la e
 | Miembros del equipo | Código Estudiante | Carrera | Conocimientos / Habilidades |
 |---------------------|-------------------|---------|-----------------------------|
 | Rodriguez Vargas, Arian Martin ![Arian Martin](/assets/members-profile/arigeimpleis.jpg) | U202212096 | Ingeniería de software | C++, Python, persistente y amigable |
-| Ramirez Ramirez, Marcelo Sebastian ![Marcelo Sebastian](/assets/members-profile/ramirez.jpeg) | U202210582 | Ingeniería de software | C++, HTML5, JavaScript, SQL |
+| Ramirez Ramirez, Marcelo Sebastian ![Marcelo Sebastian](/assets/members-profile/ramirez.jpeg) | U202210582 | Ingeniería de software | C++, HTML5, JavaScript, SQL,CSS |
 | Quispe Erasmo, Raúl Ronaldo ![Raúl Ronaldo](/assets/members-profile/QuispeErasmo.jpeg) | U20211B682 | Ingeniería de software | C++, python, HTML5, CSS3, JavaScript |
 | Javier Murillo, Mathias ![Mathias](/assets/members-profile/MathiasJavierMurillo.jpg) | U202022211 | Ingeniería de software | C++, SQL, React, Python, JavaScript |
 | Leon Rioja, Carlos Andres ![Carlos Andres](/assets/members-profile/carlos.jpg) | U202111451 | Ingeniería de software | C++, Python, HTML, CSS |
@@ -110,27 +110,6 @@ Nos dimos cuenta que el estrés académico según Universidad de Chile (2023), e
 
 ##### 2.1.1. Analisis Competitivo
 
-<!--
-<style>
-    table { border-collapse:collapse; border-spacing:0; empty-cells:show }
-    td, th { vertical-align:top; font-size:10pt;}
-    h1, h2, h3, h4, h5, h6 { clear:both;}
-    p { white-space: nowrap; }
-    ol, ul { margin:0; padding:0;}
-    li { list-style: none; margin:0; padding:0;}
-    span.footnodeNumber { padding-right:1em; }
-    span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
-    span.heading_numbering { margin-right: 0.8rem; }* { margin:0;}
-    .table-ta1{ writing-mode:horizontal-tb; direction:ltr; }
-    .cell-Default{ font-size:10pt; font-family:'Liberation Sans'; }
-    .cell-ce1{ font-size:10pt; font-family:'Liberation Serif'; border-top-width:NaNcm; border-top-style:solid; border-top-color:#000000; border-left-width:NaNcm; border-left-style:solid; border-left-color:#000000; border-bottom-width:NaNcm; border-bottom-style:solid; border-bottom-color:#000000; border-right-width:NaNcm; border-right-style:solid; border-right-color:#000000; vertical-align:middle; text-align:center ! important; margin-left:0cm; font-style:normal; text-shadow:none; text-decoration:none ! important; font-weight:bold; }
-    .cell-ce2{ font-size:10pt; font-family:'Liberation Serif'; border-top-width:NaNcm; border-top-style:solid; border-top-color:#000000; border-left-width:NaNcm; border-left-style:solid; border-left-color:#000000; border-bottom-width:NaNcm; border-bottom-style:solid; border-bottom-color:#000000; border-right-width:NaNcm; border-right-style:solid; border-right-color:#000000; vertical-align:middle; text-align:center ! important; margin-left:0cm; font-style:normal; text-shadow:none; text-decoration:none ! important; font-weight:normal; }
-    .cell-ce3{ font-size:10pt; font-family:'Liberation Sans'; border-top-width:NaNcm; border-top-style:solid; border-top-color:#000000; border-left-width:NaNcm; border-left-style:solid; border-left-color:#000000; border-bottom-width:NaNcm; border-bottom-style:solid; border-bottom-color:#000000; border-right-width:NaNcm; border-right-style:solid; border-right-color:#000000; vertical-align:middle; text-align:center ! important; margin-left:0cm; }
-    .cell-ce4{ font-size:10pt; font-family:'Liberation Sans'; text-decoration:underline; }
-    /* ODF styles with no properties representable as CSS:
-    .T1  { } */
-</style>
--->
 </head>
 
 <body dir="ltr">
@@ -927,8 +906,9 @@ Explicar como vamos a plannear el sprint?
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 ![Sprint review Software Deployment Evidence](image.jpg)
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
+![Sprint review Team Collaboration Insights](/assets/Software-Evidence/NetWorkGroup.PNG) 
+![Sprint review Team Collaboration Insights](/assets/Software-Evidence/Grafic.PNG) 
 
 # Conclusiones
 {texto}

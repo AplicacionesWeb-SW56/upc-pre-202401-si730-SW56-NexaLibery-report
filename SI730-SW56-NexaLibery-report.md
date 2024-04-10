@@ -906,7 +906,13 @@ Explicar como vamos a plannear el sprint?
 #### 5.2.X.7. Software Deployment Evidence for Sprint Review.
 ![Sprint review Software Deployment Evidence](image.jpg)
 #### 5.2.X.8. Team Collaboration Insights during Sprint.
-
+| Alumno                           | Actividad                                  |          
+|----------------------------------|--------------------------------------------|
+|Loli Ruiz, Renzo Javier           | Implementacion de la seccion Pricing       |                                           
+|Quispe Erasmo, Raúl Ronaldo       | Implementacion de la seccion NavBar-Footer |    
+|Ramirez Ramirez, Marcelo Sebastian| Implementacion de la seccion Service       |    
+|Javier Murillo, Mathias           | Implementacion de la seccion Home          |    
+|Leon Rioja Carlos Andres          | Implementacion de la seccion About us      | 
 ![Sprint review Team Collaboration Insights](/assets/Software-Evidence/NetWorkGroup.PNG) 
 ![Sprint review Team Collaboration Insights](/assets/Software-Evidence/Grafic.PNG) 
 

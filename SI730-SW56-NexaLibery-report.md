@@ -56,7 +56,7 @@ En NexaLibery, somos un equipo de desarrolladores enfocados en revolucionar la e
 #### 1.1.2. Perfiles de integrantes del equipo
 | Miembros del equipo | Código Estudiante | Carrera | Conocimientos / Habilidades |
 |---------------------|-------------------|---------|-----------------------------|
-| Rodriguez Vargas, Arian Martin ![Arian Martin](/assets/members-profile/arigeimpleis.jpg) | U202212096 | Ingeniería de software | C++, Python, persistente y amigable |
+| Rodriguez Vargas, Arian Martin ![Arian Martin](/assets/members-profile/arigeimpleis.jpg) | U202212096 | Ingeniería de software | C++, Python, HTML5,CSS |
 | Ramirez Ramirez, Marcelo Sebastian ![Marcelo Sebastian](/assets/members-profile/ramirez.jpeg) | U202210582 | Ingeniería de software | C++, HTML5, JavaScript, SQL,CSS |
 | Quispe Erasmo, Raúl Ronaldo ![Raúl Ronaldo](/assets/members-profile/QuispeErasmo.jpeg) | U20211B682 | Ingeniería de software | C++, python, HTML5, CSS3, JavaScript |
 | Javier Murillo, Mathias ![Mathias](/assets/members-profile/MathiasJavierMurillo.jpg) | U202022211 | Ingeniería de software | C++, SQL, React, Python, JavaScript |

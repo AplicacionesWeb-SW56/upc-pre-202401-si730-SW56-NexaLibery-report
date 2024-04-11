@@ -373,15 +373,15 @@ Nos dimos cuenta que el estrés académico según Universidad de Chile (2023), e
 Nombre: Maria Teresa Ramirez
 Edad: 52 años 
 Ocupación: Administradora de emrpesas 
-<img src="assets/Entrevistas-IMG/Entrevista-MT.PNG" alt="Mapa de impacto" style="width:100%;">
+<img src="assets/Entrevistas-IMG/Entrevista-MT.PNG" alt="Segmento 1" style="width:100%;">
 Maria Teresa Ramirez, de 52 años, trabaja en ventas y estudia Administración de Empresas. Prefiere las compras presenciales a las online debido a la complejidad de estas últimas, especialmente cuando se trata de adquirir libros, los cuales prefiere en formato físico tras una experiencia complicada con un libro digital. La dificultad para encontrar ciertos recursos en línea le resulta frustrante y le hace valorar las soluciones prácticas que simplifican este proceso. La introducción a una nueva aplicación que promete ser una solución integral para sus necesidades digitales le parece útil e interesante, destacándose de otras opciones por su practicidad y novedad. Ramirez expresa frustración con la necesidad de usar múltiples aplicaciones para un mismo fin, indicando una preferencia por soluciones más unificadas y eficientes.
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años 
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+Nombre: Giakomo Causso
+Edad: 19 años 
+Ocupación: Estudiante de UPC
+<img src="assets/Entrevistas-IMG/Entrevista_Gia.png" alt="Segmento 2" style="width:100%;">
+Giakomo, un estudiante de 19 años de la Universidad Peruana de Ciencias Aplicadas (UPC), se encuentra en el séptimo ciclo de la carrera de Ingeniería de Software. Siempre está equipado con dispositivos móviles y computadoras, los cuales utiliza tanto para fines académicos como para entretenimiento. Aunque no tiene un horario fijo para las compras en línea, suele realizar alrededor de 2 a 3 compras por internet al mes, principalmente de artículos relacionados con juegos, música y otros de su interés personal. Si bien prefiere los libros en formato físico, en ocasiones adquiere música digitalmente cuando le atrae mucho un álbum. En cuanto a la utilidad de una aplicación que reúna todos sus recursos digitales en un solo lugar, Giakomo ve esta idea como muy conveniente y práctica, ya que actualmente utiliza múltiples aplicaciones para acceder a contenido similar. Considera que una suscripción básica sería un buen punto de partida, aunque está abierto a probar una suscripción premium si la aplicación demuestra ser efectiva. Giakomo también identifica el potencial de la aplicación para ser utilizada por sus familiares, especialmente por sus primos y hermano, quienes también están en la universidad y podrían beneficiarse de una plataforma que organice y proporcione acceso fácil a recursos digitales relevantes para sus estudios.
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**

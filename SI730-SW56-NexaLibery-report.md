@@ -908,25 +908,48 @@ Durante el primer sprint backlog, el equipo tenía la intención de iniciar y te
 ![SprintBacklog n](image.jpg) Nica hago la tabla 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
-![Sprint review development Evidence](image.jpg)
-| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
-|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
-|                                        |                            |                                            |                           |                    |
-|                                        |                            |                                            |                           |                    |
-|                                        |                            |                                            |                           |                    |
-|                                        |                            |                                            |                           |                    |
-|                                        |                            |                                            |                           |                    |
-|                                        |                            |                                            |                           |                    |
+Se descompuso cada vista del landing page para realizar el trabajo. Estos son los principales commits que ayudan a entender de manera indivirual cada vista.
+<!-- ![Sprint review development Evidence](image.jpg) -->
+| Repository                             | Branch                     | Commit ID  | Commit Message             | Committed on(date) |
+|----------------------------------------|----------------------------|-----------------------------------------|---------------------------|--------------------|
+| NexaLibery-landingPage                 | feature/navbar-footer      | af09715    | Update Navbar_Footer.html  | 05/04/2024         |
+| NexaLibery-landingPage                 | feature/home               | d09b222    | Add files via upload       | 07/04/2024         |
+| NexaLibery-landingPage                 | feature/home               | 4466239    | Update Home                | 10/04/2024         |
+| NexaLibery-landingPage                 | feature/Services           | ce2e91b    | Add files via upload       | 07/04/2024         |
+| NexaLibery-landingPage                 | feature/Pricing            | 484f5c0    | Added pricing section      | 09/04/2024         |
+| NexaLibery-landingPage                 | feature/About-us           | 8d2dd57    | Add files via upload       | 10/04/2024         |
+| NexaLibery-landingPage                 | feature/Development        | 8d2dd57    | Update Development         | 10/04/2024         |
+| NexaLibery-landingPage                 | feature/main               | 4debb6f    | Merge branch 'development' | 10/04/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-![Sprint review Testing suite Evidence](image.jpg)
-| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) |
-|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------|
-|                                        |                            |                                            |                           |                    |
+Para el landing page no se realizaron test de ningun tipo por eso no se incluyen aqui.
+<!-- ![Sprint review Testing suite Evidence](image.jpg) -->
+<!-- | Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) | -->
+<!-- |----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------| -->
+<!-- |                                        |                            |                                            |                           |                    | -->
 
 
-#### 5.2.1.5. Execution Evidence for Sprint Review.
-![Sprint review Execution Evidence](image.jpg) Capturas del landing corriendo
+#### 5.2.1.5. Execution Evidence for Sprint Review. 
+Se hace referencia del link del [Landing Page](https://nexa-libery-landing-page.vercel.app) en funcionamiento.
+Luego se referencian las vistas del landing page:
+
+- Home
+
+![Landing Page Home](./assets/Imgs/landingpage_home.png) 
+
+- Services
+
+![Landing Page Services](./assets/Imgs/landingpage_services.png) 
+
+- Pricing
+
+![Landing Page Pricing](./assets/Imgs/landingpage_pricing.png) 
+
+- AboutUs
+
+![Landing Page AboutUs](./assets/Imgs/landingpage_aboutus.png) 
+
+<!-- ![Sprint review Execution Evidence](image.jpg) Capturas del landing corriendo -->
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 Para esta primera version del trabajo no se impleto  ninguna relación de Endpoints documentados con OpenAPI.

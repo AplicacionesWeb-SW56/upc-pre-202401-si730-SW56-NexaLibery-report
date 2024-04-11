@@ -975,6 +975,7 @@ Para esta primera version del trabajo no se impleto  ninguna relación de Endpoi
   - **Uso:** Despliegue de la página web.
   - **Beneficio:** Ofrece un servicio de despliegue rápido y gratuito, integrado directamente con GitHub, lo que simplifica la publicación de actualizaciones.
 
+![Landing Page AboutUs](./assets/VercelEvidence.PNG) 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 | Alumno                           | Actividad                                  |          

@@ -951,10 +951,8 @@ Luego se referencian las vistas del landing page:
 
 ![Landing Page AboutUs](./assets/Imgs/landingpage_aboutus.png) 
 
-<!-- ![Sprint review Execution Evidence](image.jpg) Capturas del landing corriendo -->
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
-Para esta primera version del trabajo no se impleto  ninguna relación de Endpoints documentados con OpenAPI.
+En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas establecidas. Durante este período, se enfocaron en complementar las tareas previamente propuestas sin la necesidad de añadir nuevas. El proceso se caracterizó por un flujo de trabajo constante y eficiente, demostrando la capacidad del equipo para manejar y ejecutar el proyecto de manera efectiva.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 ## Herramientas Utilizadas en el Desarrollo y Despliegue de la Landing Page
@@ -991,7 +989,7 @@ Para esta primera version del trabajo no se impleto  ninguna relación de Endpoi
 
 # Conclusiones
 # Conclusiones y recomendaciones.
-{texto}
+
 
 # Bibliografía
 ``` 

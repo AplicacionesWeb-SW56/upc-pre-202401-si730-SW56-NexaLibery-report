@@ -957,7 +957,24 @@ Luego se referencian las vistas del landing page:
 Para esta primera version del trabajo no se impleto  ninguna relación de Endpoints documentados con OpenAPI.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
-![Sprint review Software Deployment Evidence](image.jpg)
+## Herramientas Utilizadas en el Desarrollo y Despliegue de la Landing Page
+
+- **Git**
+  - **Uso:** Control de versiones del código fuente.
+  - **Beneficio:** Permite la gestión eficiente de las versiones y cambios en el código.
+
+- **GitFlow**
+  - **Uso:** Gestión del avance y colaboración del equipo.
+  - **Beneficio:** Facilita el seguimiento de las contribuciones individuales y la organización del trabajo en ramas dedicadas.
+
+- **GitHub**
+  - **Uso:** Hosting del repositorio del proyecto.
+  - **Beneficio:** Centraliza el almacenamiento del código fuente y facilita la colaboración y el control de versiones.
+
+- **Vercel**
+  - **Uso:** Despliegue de la página web.
+  - **Beneficio:** Ofrece un servicio de despliegue rápido y gratuito, integrado directamente con GitHub, lo que simplifica la publicación de actualizaciones.
+
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 | Alumno                           | Actividad                                  |          
@@ -972,7 +989,6 @@ Para esta primera version del trabajo no se impleto  ninguna relación de Endpoi
 ![Sprint review Team Collaboration Insights](/assets/Software-Evidence/Grafic.PNG) 
 
 # Conclusiones
-{texto}
 # Conclusiones y recomendaciones.
 {texto}
 

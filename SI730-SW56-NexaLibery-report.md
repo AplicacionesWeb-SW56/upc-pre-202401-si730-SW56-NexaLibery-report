@@ -28,10 +28,12 @@
 | ----------- | ----------- | ----------- | ----------- |
 | 0.0 | 24/03/2024 | Grupo 4 |Se crea el documento |
 | 1.0 | 24/03/2024 | Grupo 4 | Se crean las ramas correspondientes |
-| 1.1 | 25/03/2024 | Grupo 4 | Capitulo I |
-| 1.1 | 25/03/2024 | Grupo 4 | Capitulo II |
-| 1.1 | 27/03/2024 | Grupo 4 | Capitulo III |
+| 1.1 | 24/03/2024 | Grupo 4 | Capitulo I |
+| 1.1 | 24/03/2024 | Grupo 4 | Capitulo II |
+| 1.1 | 24/03/2024 | Grupo 4 | Capitulo III |
 | 1.1 | 29/03/2024 | Grupo 4 | Capitulo IV |
+| 1.1 | 04/04/2024 | Grupo 4 | Landing Page |
+| 1.1 | 04/04/2024 | Grupo 4 | Capitulo v |
 # Project Report Collaboration Insights
 [URL del repositorio](xxx)
 
@@ -41,8 +43,8 @@
 # Student Outcome
 | Criterio Específico                                          | Acciones Realizadas | Conclusiones          |
 |--------------------------------------------------------------|---------------------|-----------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Marcelo Ramirez:<br> *TB1:* Su texto<br>*TB2:* texto etc.. | Su texto de conclusión |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software           | Marcelo Ramirez:<br> *TB1:* Su texto<br>*TB2:* texto etc.. | Su texto de conclusión |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Marcelo Ramirez:<br> *TB1:* Durante este proyecto, colaboré con compañeros de diferentes disciplinas. Mi contribución principal fue en el diseño de la arquitectura de software y la implementación de funcionalidades del lading page y primera version del proyecto<br>*TB2:* texto etc.. | Su texto de conclusión |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software           | Marcelo Ramirez:<br> *TB1:* En mi quinto ciclo de Ingeniería de Software, desarrollé un sistema de una biblioteca virtual. Aunque recién estoy aprendiendo sobre aplicaciones web y .NET, utilizaremos C# y .NET Framework para este proyecto, aplicando mis conocimientos y enfrentándome a nuevos desafíos.<br>*TB2:* texto etc.. | Su texto de conclusión |
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup

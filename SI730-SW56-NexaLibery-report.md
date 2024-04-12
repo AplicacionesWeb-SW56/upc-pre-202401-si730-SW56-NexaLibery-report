@@ -35,7 +35,7 @@
 | 1.1 | 04/04/2024 | Grupo 4 | Landing Page |
 | 1.1 | 04/04/2024 | Grupo 4 | Capitulo v |
 # Project Report Collaboration Insights
-[URL del repositorio](xxx)
+[NexaLibery-Aplicaciones Web](https://github.com/AplicacionesWeb-SW56)
 
 (Imagenes de los commits cada entrega)
 
@@ -43,10 +43,9 @@
 # Student Outcome
 | Criterio Específico                                          | Acciones Realizadas | Conclusiones          |
 |--------------------------------------------------------------|---------------------|-----------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.     | Marcelo Ramirez:<br> *TB1:* Durante este proyecto, colaboré con compañeros de diferentes disciplinas. Mi contribución principal fue en el diseño de la arquitectura de software y la implementación de funcionalidades del lading page y primera version del proyecto<br>*TB2:* texto etc.. | Su texto de conclusión |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software           | Marcelo Ramirez:<br> *TB1:* En mi quinto ciclo de Ingeniería de Software, desarrollé un sistema de una biblioteca virtual. Aunque recién estoy aprendiendo sobre aplicaciones web y .NET, utilizaremos C# y .NET Framework para este proyecto, aplicando mis conocimientos y enfrentándome a nuevos desafíos.<br>*TB2:* texto etc.. | Su texto de conclusión |
-| Participa de manera responsable y eficiente en equipo para cumplir el propósito y metas encargadas. | Raúl Quispe Erasmo:<br> *TB1:* Tras avanzar el proyecto con el equipo 4, colaboré los Lean UX, General Styles, la base de los códigos Html y CSS (Navbar y Footer), el primer Sprint y arreglando y analizando los errores del equipo. <br>*TB2:* ... | Su texto de conclusión |
-| Conoce los puntos requeridos de éste documento sobre el sector empresarial del grupo 4. | Raúl Quispe Erasmo:<br> *TB1:* En este ciclo de mi carrera, aprendí sobre las aplicaciones web y fortaleciendo el conocimiento sobre .NET, .NET Framework, Html y CSS para este proyecto <br>*TB2:* ... | Su texto de conclusión |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software.| Marcelo Ramirez:<br> *TB1:* Durante este proyecto, colaboré con compañeros de diferentes disciplinas. Mi contribución principal fue en el diseño de la arquitectura de software y la implementación de funcionalidades del lading page y primera version del proyecto<br> Raúl Quispe Erasmo:<br> *TB1:* Tras avanzar el proyecto con el equipo 4, colaboré los Lean UX, General Styles, la base de los códigos Html y CSS (Navbar y Footer), el primer Sprint y arreglando y analizando los errores del equipo.  | Su texto de conclusión |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software  | Marcelo Ramirez:<br> *TB1:* En mi quinto ciclo de Ingeniería de Software, desarrollé un sistema de una biblioteca virtual. Aunque recién estoy aprendiendo sobre aplicaciones web y .NET, utilizaremos C# y .NET Framework para este proyecto, aplicando mis conocimientos y enfrentándome a nuevos desafíos.<br> Raúl Quispe Erasmo:<br> *TB1:* En este ciclo de mi carrera, aprendí sobre las aplicaciones web y fortaleciendo el conocimiento sobre .NET, .NET Framework, Html y CSS para este proyecto | Su texto de conclusión |
+
 # Capítulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
@@ -374,7 +373,7 @@ Nombre: Maria Teresa Ramirez
 Edad: 52 años 
 Ocupación: Administradora de emrpesas 
 <img src="assets/Entrevistas-IMG/Entrevista-MT.PNG" alt="Segmento 1" style="width:100%;">
-Maria Teresa Ramirez, de 52 años, trabaja en ventas y estudia Administración de Empresas. Prefiere las compras presenciales a las online debido a la complejidad de estas últimas, especialmente cuando se trata de adquirir libros, los cuales prefiere en formato físico tras una experiencia complicada con un libro digital. La dificultad para encontrar ciertos recursos en línea le resulta frustrante y le hace valorar las soluciones prácticas que simplifican este proceso. La introducción a una nueva aplicación que promete ser una solución integral para sus necesidades digitales le parece útil e interesante, destacándose de otras opciones por su practicidad y novedad. Ramirez expresa frustración con la necesidad de usar múltiples aplicaciones para un mismo fin, indicando una preferencia por soluciones más unificadas y eficientes.
+Maria Teresa Ramirez, una profesional de 52 años en el área de ventas y estudiante de Administración de Empresas, utiliza tecnología diariamente para trabajo y estudios. Aunque compra en línea solo ocasionalmente debido a la complejidad del proceso, está abierta a la tecnología y reconoce su utilidad. Maria Teresa ha tenido experiencias frustrantes al buscar recursos en línea, especialmente libros, y prefiere las compras físicas por la simplicidad que ofrecen. La idea de una aplicación unificada que centralice las funciones de varias otras aplicaciones le parece útil y cree que simplificaría significativamente su experiencia en línea. Está dispuesta a pagar por una suscripción si el servicio proporciona valor claro y mejora su eficiencia. Además, menciona que su familia también ha utilizado y beneficiado de herramientas de suscripción, lo que indica una familiaridad y aceptación de soluciones digitales en su entorno cercano. 
 
 **Segmento 2**  
 Nombre: Giakomo Causso
@@ -385,32 +384,39 @@ Giakomo, un estudiante de 19 años de la Universidad Peruana de Ciencias Aplicad
 
 ### 2.2.3. Análisis de entrevistas.
 **Segmento 1:**
-### Preferencia por lo Tangible
+- Maria Teresa trabaja en el área de ventas en una empresa de importación de pescado congelado y simultáneamente estudia Administración de Empresas.
 
-- **Libros:** Ramirez muestra una preferencia notable por los libros físicos, influenciada por experiencias negativas previas con el contenido digital.
+- A pesar de su familiaridad con dispositivos tecnológicos como celular, computadora y laptop, muestra cierta reticencia hacia las compras en línea debido a su complejidad.
 
-### Retos con la Tecnología
+- Prefiere realizar compras físicas para artículos de casa y libros, aunque ha realizado compras en línea ocasionalmente.
 
-- **Compras en línea y gestión de contenido:** Encuentra desafiantes tanto las compras en línea como la gestión de contenido digital, lo que sugiere barreras tecnológicas que afectan su experiencia.
+- Tiene una clara preferencia por los libros en formato físico, basada en una experiencia negativa con la descarga y uso de un libro digital.
 
-### Frustración por Múltiples Aplicaciones
+- Se siente frustrada por la dificultad de encontrar y manejar recursos en línea, y por la necesidad de utilizar múltiples aplicaciones para acceder a contenido similar.
 
-- **Búsqueda de contenido:** La necesidad de utilizar diversas plataformas para acceder a contenido específico resulta en una experiencia de usuario ineficiente y frustrante.
+- Considera que la aplicación centralizada para gestionar recursos digitales sería muy útil y práctica, facilitando su experiencia en línea.
 
-### Interés en Soluciones Innovadoras
+- Está dispuesta a pagar por una suscripción si esta proporciona un valor claro y mejora su eficiencia al acceder a recursos necesarios.
 
-- **Aplicaciones prometedoras:** Hay una disposición abierta hacia la adopción de nuevas aplicaciones que ofrezcan una experiencia de usuario simplificada y mejorada.
-
-### Necesidad de Diseño Centrado en el Usuario
-
-- **Usabilidad:** Es crucial que las aplicaciones sean intuitivas y fáciles de navegar, especialmente para satisfacer las necesidades de usuarios no nativos digitales como Ramirez.
-
-### Oportunidades para Educación Digital
-
-- **Capacitación y adaptación:** Existe un espacio significativo para facilitar la transición de Ramirez hacia una mayor familiaridad y eficiencia con las tecnologías digitales, a través de la educación y el soporte.
+- Nota que tanto su hijo como sus hermanos han utilizado herramientas de suscripción similares, lo que indica un posible interés y aceptación general en su entorno familiar hacia soluciones tecnológicas eficientes.
 
 **Segmento 2:**
-{texto}
+- Giakomo está en su séptimo ciclo en la UPC, indicando que está bastante avanzado en su carrera y probablemente tiene habilidades técnicas desarrolladas.
+
+- Utiliza dispositivos móviles y computadoras diariamente, tanto para fines académicos como de entretenimiento, lo que implica una alta integración de la tecnología en su rutina diaria.
+
+- Realiza compras en internet regularmente (2-3 veces al mes), interesado principalmente en juegos y música. Esto sugiere que es un consumidor digital activo y familiarizado con el comercio electrónico.
+
+- Prefiere libros físicos pero no duda en adquirir música digitalmente si un álbum es especialmente atractivo, lo que muestra una apertura hacia los formatos digitales cuando ofrecen un valor añadido.
+
+- La idea de una aplicación que centralice recursos digitales es atractiva para él, resaltando un interés en soluciones que simplifiquen y organicen el acceso a sus herramientas y contenido digital.
+
+- Está dispuesto a comenzar con una suscripción básica y considerar opciones más avanzadas si la efectividad del servicio lo justifica, demostrando una actitud práctica hacia nuevas soluciones digitales.
+
+- Reconoce el potencial de la aplicación para ser utilizada también por familiares en la universidad, lo que indica que piensa en soluciones escalables y aplicables a un grupo más amplio de usuarios.
+
+- Prefiere probar primero la eficacia de un servicio antes de comprometerse a niveles más altos de suscripción, lo que sugiere una aproximación cuidadosa y basada en resultados a la adopción de nuevas tecnologías.
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas. 
 <img src="assets/User Persona 1.png" alt="Mapa de impacto" style="width:100%;">
@@ -493,15 +499,13 @@ As Is:
 | Thinking | "¿Como puedo encontrar lo que necesito?" | "¿Por que no puedo crear una lista de reproduccion?" | "¿Hay alguna forma de organizar mejor mi contenido?" | "¿Mi reseña será considerada?"  |
 | Feeling  | Curiosidad por explorar las caracteristicas de la app | Frustracion por la limitacion de crear listas | Confusion sobre como organizar mi contenido | Esperando que sus comentarios mejoren la aplicacion |
 ## 2.4. Ubiquitous Language.
-```
-Estudiante colegial, universitario y/o tecnico:
 
-Persona la cual busca nuestra aplicacion por medio de la suscripcion para estudiantes, la cual les genera un descuento especial sobre la suscripcion estandar o premium, todo esto mediante una verificacion de que sea estudiante. En el cual tendra acceso a material educativo y contenido especifico para apoyar su aprendizaje.
-
-Egresado universitario y/o tecnico:
-
-Persona la cual nos busca por medio de cualquiera de nuestras suscripciones, en las cuales les proporcionará diferentes beneficios dependiendo de que suscripcion haya elegido. 
-```
+| **Terms and Definitions** | **Términos y Definiciones** |
+|---------------------------|-----------------------------|
+| Estudiante                | Persona la cual busca nuestra aplicacion por medio de la suscripcion para estudiantes,. |
+| Usuario                   | Cualquier persona o entidad que utiliza la plataforma para solicitar o proveer servicios técnicos. |
+| Plan de suscripcion       | Modelo de pago que permite a los usuarios acceder a servicios específicos durante un periodo determinado. |
+| Lista de reproduccion     | Lista el cual puede organizar sus preferencias y descubrimientos |
 
 ---
 
@@ -904,16 +908,14 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 | Sprint 1 Goal                                        | Sprint 1 Velocity | Sum of Story Points |
 |------------------------------------------------------|-------------------|---------------------|
-| Elaborar y crear la página MediaVerse con HTML y CSS |                   |                     |
+| Elaborar y crear la página MediaVerse con HTML y CSS |      30           |      40             |
 
 #### 5.2.1.2. Sprint Backlog 1.
 Durante el primer sprint backlog, el equipo tenía la intención de iniciar y terminar la creación de la página de inicio. La herramienta Discord se utilizó para organizar y gestionar a los miembros del equipo, lo que facilitó la asignación de tareas basadas en las habilidades individuales de cada uno. El objetivo principal del sprint era completar completamente la página de inicio, asegurando que fuera atractiva y funcional. Sin embargo, debido a problemas de tiempo y asuntos familiares, el proceso de creación se retrasó, dejando solo tres días antes de la fecha límite.
 <img src="assets/Imgs/pruebaTrabajo.jpg" alt="Sprint Backlog 1" style="width:100%;">
-![SprintBacklog n](image.jpg) Nica hago la tabla 
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 Se descompuso cada vista del landing page para realizar el trabajo. Estos son los principales commits que ayudan a entender de manera indivirual cada vista.
-<!-- ![Sprint review development Evidence](image.jpg) -->
 | Repository                             | Branch                     | Commit ID  | Commit Message             | Committed on(date) |
 |----------------------------------------|----------------------------|-----------------------------------------|---------------------------|--------------------|
 | NexaLibery-landingPage                 | feature/navbar-footer      | af09715    | Update Navbar_Footer.html  | 05/04/2024         |
@@ -927,7 +929,6 @@ Se descompuso cada vista del landing page para realizar el trabajo. Estos son lo
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Para el landing page no se realizaron test de ningun tipo por eso no se incluyen aqui.
-<!-- ![Sprint review Testing suite Evidence](image.jpg) -->
 <!-- | Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) | -->
 <!-- |----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------| -->
 <!-- |                                        |                            |                                            |                           |                    | -->
@@ -987,12 +988,22 @@ En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas estableci
 |Leon Rioja Carlos Andres          | Implementacion de la seccion About us      |
 
 ![Sprint review Team Collaboration Insights](/assets/Software-Evidence/NetWorkGroup.PNG) 
+
 ![Sprint review Team Collaboration Insights](/assets/Software-Evidence/Grafic.PNG) 
 
-# Conclusiones
 # Conclusiones y recomendaciones.
-
-
+**Conclusiones**
+- **Enfoque Personalizado en Multimedia Digital:** La especialización en una experiencia multimedia rica y personalizada ha permitido que NexaLibery se destaque en el mercado digital, ofreciendo una plataforma donde los usuarios no solo consumen contenido, sino que también interactúan y comparten experiencias.
+- **Innovación en Recomendaciones y Listas de Reproducción:** Gracias a nuestro enfoque en recomendaciones personalizadas y listas de reproducción a medida, los usuarios pueden descubrir contenido que realmente resuena con sus intereses personales, mejorando significativamente su interacción con nuestra plataforma.
+- **Creación de Comunidades:** Proporcionar espacios para que los usuarios conecten en grupos de discusión y comunidades especializadas ha enriquecido la experiencia de usuario, haciendo de NexaLibery no solo una plataforma de contenido, sino un espacio de encuentro para aficionados y expertos por igual.
+- **Adopción de Tecnología de Vanguardia:** El uso continuo de tecnología avanzada para facilitar el acceso y la gestión de contenido asegura que nuestra plataforma se mantenga competitiva y relevante en un mercado en constante evolución.
+  
+**Recomendaciones:**
+- **Fortalecimiento de Competencias en HTML y CSS:** Antes de empezar el desarrollo, es crucial tener un conocimiento sólido de HTML y CSS para garantizar que la estructura de cada página sea eficaz y estable.
+- **Participación y Comunicación del Equipo:** Mantener una comunicación constante y efectiva dentro del equipo es vital para sincronizar esfuerzos y evitar desfases en la entrega del proyecto.
+- **Ciclos Continuos de Feedback y Pruebas:** Integrar períodos regulares de retroalimentación y pruebas de usuario durante las etapas de desarrollo asegura que el producto final responda verdaderamente a las necesidades del usuario.
+- **Aplicación de Prácticas Ágiles:** La adopción de prácticas ágiles como Scrum o Kanban facilita una gestión de proyecto dinámica y flexible, permitiendo ajustes rápidos y eficientes según las necesidades del proyecto.
+- **Implementación de Herramientas de Prototipado:** Recomendamos el uso de herramientas avanzadas de diseño de prototipos, como Figma, para previsualizar y ajustar diseños antes de la codificación, lo que mejora significativamente la calidad y la usabilidad del producto final.
 # Bibliografía
 ``` 
 formato

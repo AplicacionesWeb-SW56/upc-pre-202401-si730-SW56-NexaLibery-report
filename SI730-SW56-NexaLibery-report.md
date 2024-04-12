@@ -1,19 +1,12 @@
-# Universidad Peruana de Ciencias Aplicadas
-
-![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
-
-## INGENIERÍA DE SISTEMAS DE SOFTWARE
-
-### SI730 - Aplicaciones Web SW56
-
-#### Profesor: Efrain Ricardo Bautista Ubillus
-
----
-
-#### INFORME
-#### "MediaVerse" | "NexaLibery"
-
----
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
+    <strong> SI730 - Aplicaciones Web SW56</strong><br>
+    <strong>Profesor: Efrain Ricardo Bautista Ubillus </strong><br>
+    <br>INFORME <br>
+    "MediaVerse" | "NexaLibery"
+</p>
 
 ### Integrantes:
 - Loli Ruiz, Renzo Javier - U20161C993
@@ -521,23 +514,32 @@ As Is:
 
 ## 3.2. User Stories.
 
-| USER STORY ID | TITULO | DESCRIPCION|
-|------|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| HU01 | Acceso a contenido básico | "Como usuario con suscripción básica, deseo tener acceso a una selección limitada de contenidos multimedia para disfrutar de variedad sin un costo elevado." |
-| HU02 | Publicidad a cambio de premium | "Como usuario de suscripción básica, deseo la opción de ver o escuchar anuncios a cambio de acceso ocasional a contenido premium, para explorar contenido de mayor valor sin costo adicional." |
-| HU03 | Crear listas de reproducción personalizadas | "Como usuario, deseo crear listas de reproducción personalizadas para organizar mis contenidos favoritos y acceder a ellos fácilmente." |
-| HU04 | Acceder a comunidades | "Como usuario con suscripción estándar o premium, deseo acceder a comunidades y grupos de discusión para conectar con otros usuarios con intereses similares." |
-| HU05 | Recibir recomendaciones personalizadas | "Como usuario, deseo recibir recomendaciones basadas en mi historial de consumo para descubrir nuevos contenidos que se ajusten a mis gustos." |
-| HU06 | Acceso exclusivo a lanzamientos anticipados | "Como usuario con suscripción premium, deseo tener acceso exclusivo a lanzamientos anticipados para disfrutar del contenido antes que nadie." |
-| HU07 | Descargar contenido para consumo sin conexión | "Como usuario premium, deseo descargar contenido para consumirlo sin necesidad de una conexión a internet, ideal para viajes o zonas sin cobertura." |
-| HU08 | Participar en eventos en vivo | "Como usuario premium, deseo participar en eventos en vivo con creadores de contenido para enriquecer mi experiencia con la plataforma." |
-| HU09 | Beneficios de suscripción para estudiantes | "Como estudiante, deseo acceder a un descuento en la suscripción estándar o premium para aprovechar al máximo los recursos educativos ofrecidos." |
-| HU10 | Herramientas de estudio integradas | "Como usuario estudiante, deseo herramientas de estudio integradas en la plataforma para mejorar mi aprendizaje y organización." |
-| HU11 | Acceso familiar bajo una sola suscripción | "Como cabeza de familia, deseo adquirir una suscripción familiar que permita a varios miembros acceder a contenido con perfiles individuales, para satisfacer los gustos de todos en casa." |
-| HU12 | Controles parentales | "Como padre/madre, deseo establecer controles parentales para asegurar que mis hijos accedan solo a contenido apropiado para su edad." |
-| HU13 | Listas de reproducción familiares | "Como usuario con suscripción familiar, deseo crear listas de reproducción que reflejen los gustos de toda la familia, para disfrutar juntos." |
-| HU14 | Explorar contenido premium ocasionalmente | "Como usuario de suscripción básica, deseo la opción de explorar contenido premium ocasionalmente para conocer la oferta completa de la plataforma." |
-| HU15 | Crear grupos de estudio virtuales | "Como estudiante, deseo la capacidad de formar grupos de estudio virtuales con otros usuarios, para colaborar y aprender juntos de manera más eficaz." |
+| Epic ID | Titulo                                                      | Descripción de Historias de Usuario Asociadas                                                                              |
+|---------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| EP01    | Experiencias de Suscripción                                 | Como usuario con diferentes niveles de suscripción, quiero beneficios adecuados para maximizar mi experiencia en la plataforma. |
+| EP02    | Personalización y Organización de Contenidos                | Como usuario, quiero personalizar y organizar mis contenidos para mejorar mi acceso y disfrute.                             |
+| EP03    | Comunidades y Conectividad                                  | Como usuario interesado en la interacción, quiero conectarme con comunidades y grupos para enriquecer mi experiencia.        |
+| EP04    | Herramientas y Beneficios para Estudiantes                  | Como estudiante, quiero herramientas de estudio y beneficios de suscripción para potenciar mi aprendizaje.                   |
+| EP05    | Gestión y Seguridad Familiar                                | Como cabeza de familia o padre/madre, quiero gestionar el acceso y la seguridad del contenido familiar.                       |
+| EP06    | Opciones de Consumo de Contenido Avanzado y Experimental    | Como usuario de suscripción básica, quiero explorar ocasionalmente contenido premium para conocer la oferta completa.        |
+
+| USER STORY ID | TITULO | DESCRIPCION | CRITERIO DE ACEPTACIÓN | EPIC USER RELACIONADO |
+|---------------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------|
+| HU01  | Acceso a contenido básico | "Como usuario con suscripción básica, deseo tener acceso a una selección limitada de contenidos multimedia para disfrutar de variedad sin un costo elevado." | "Dado que soy un usuario básico, cuando inicio sesión, entonces debo tener acceso solo a contenido limitado." | EP01                    |
+| HU02  | Publicidad a cambio de premium | "Como usuario de suscripción básica, deseo la opción de ver o escuchar anuncios a cambio de acceso ocasional a contenido premium, para explorar contenido de mayor valor sin costo adicional." | "Dado que acepto ver anuncios, cuando elijo esta opción, entonces tengo acceso temporal a contenido premium." | EP01, EP06             |
+| HU03  | Crear listas de reproducción personalizadas | "Como usuario, deseo crear listas de reproducción personalizadas para organizar mis contenidos favoritos y acceder a ellos fácilmente." | "Dado que soy usuario registrado, cuando intento crear una lista, entonces debo poder seleccionar y guardar mis contenidos favoritos." | EP02                    |
+| HU04  | Acceder a comunidades | "Como usuario con suscripción estándar o premium, deseo acceder a comunidades y grupos de discusión para conectar con otros usuarios con intereses similares." | "Dado que tengo suscripción estándar o premium, cuando busco grupos, entonces puedo unirme y participar en comunidades." | EP03                    |
+| HU05          | Recibir recomendaciones personalizadas | "Como usuario, deseo recibir recomendaciones basadas en mi historial de consumo para descubrir nuevos contenidos que se ajusten a mis gustos." | "Dado que tengo un historial de consumo, cuando inicio sesión, entonces debo recibir recomendaciones personalizadas." | EP02                    |
+| HU06          | Acceso exclusivo a lanzamientos anticipados | "Como usuario con suscripción premium, deseo tener acceso exclusivo a lanzamientos anticipados para disfrutar del contenido antes que nadie." | "Dado que soy un usuario premium, cuando hay lanzamientos nuevos, entonces debo tener acceso antes que otros usuarios." | EP01                    |
+| HU07          | Descargar contenido para consumo sin conexión | "Como usuario premium, deseo descargar contenido para consumirlo sin necesidad de una conexión a internet, ideal para viajes o zonas sin cobertura." | "Dado que soy usuario premium, cuando selecciono contenido, entonces puedo descargarlo para acceso offline." | EP01                    |
+| HU08          | Participar en eventos en vivo | "Como usuario premium, deseo participar en eventos en vivo con creadores de contenido para enriquecer mi experiencia con la plataforma." | "Dado que soy usuario premium, cuando hay eventos en vivo, entonces puedo acceder y participar en ellos." | EP01                    |
+| HU09          | Beneficios de suscripción para estudiantes | "Como estudiante, deseo acceder a un descuento en la suscripción estándar o premium para aprovechar al máximo los recursos educativos ofrecidos." | "Dado que soy estudiante, cuando verifico mi estatus, entonces recibo un descuento en mi suscripción." | EP01                    |
+| HU10          | Herramientas de estudio integradas | "Como usuario estudiante, deseo herramientas de estudio integradas en la plataforma para mejorar mi aprendizaje y organización." | "Dado que soy estudiante, cuando accedo a la plataforma, entonces tengo herramientas de estudio disponibles." | EP04                    |
+| HU11          | Acceso familiar bajo una sola suscripción | "Como cabeza de familia, deseo adquirir una suscripción familiar que permita a varios miembros acceder a contenido con perfiles individuales, para satisfacer los gustos de todos en casa." | "Dado que tengo una suscripción familiar, cuando mis familiares intentan acceder, entonces cada uno tiene su perfil individual." | EP01                    |
+| HU12          | Controles parentales | "Como padre/madre, deseo establecer controles parentales para asegurar que mis hijos accedan solo a contenido apropiado para su edad." | "Dado que soy padre/madre, cuando configuro controles parentales, entonces puedo restringir el contenido según la edad." | EP05                    |
+| HU13          | Listas de reproducción familiares | "Como usuario con suscripción familiar, deseo crear listas de reproducción que reflejen los gustos de toda la familia, para disfrutar juntos." | "Dado que tengo suscripción familiar, cuando creo una lista de reproducción, entonces puede ser disfrutada por todos los miembros de la familia." | EP05                    |
+| HU14          | Explorar contenido premium ocasionalmente | "Como usuario de suscripción básica, deseo la opción de explorar contenido premium ocasionalmente para conocer la oferta completa de la plataforma." | "Dado que soy usuario básico, cuando elijo explorar contenido premium ocasionalmente, entonces tengo acceso temporal a este contenido." | EP06                    |
+| HU15          | Crear grupos de estudio virtuales | "Como estudiante, deseo la capacidad de formar grupos de estudio virtuales con otros usuarios, para colaborar y aprender juntos de manera más eficaz." | "Dado que soy estudiante, cuando quiero formar un grupo de estudio, entonces puedo invitar a otros usuarios y colaborar virtualmente." | EP03, EP04              |
 
 
 ## 3.3. Impact Mapping.
@@ -759,16 +761,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | Nombre             | VARCHAR      | Nombre completo del autor.                    |
 | Biografía          | TEXT         | Breve biografía del autor.                    |
 
-## 6. ContenidoAutor
-**Descripción**: Representa la relación entre los contenidos y sus autores, permitiendo asociaciones múltiples.
-
-| Atributo           | Tipo de Dato | Descripción                                           |
-|--------------------|--------------|-------------------------------------------------------|
-| ContenidoAutorID   | INT (PK)     | Identificador único de la relación entre contenido y autor. |
-| ContenidoID        | INT (FK)     | Clave foránea que enlaza al contenido.                |
-| AutorID            | INT (FK)     | Clave foránea que enlaza al autor del contenido.      |
-
-## 7. ListasDeReproduccion
+## 6. ListasDeReproduccion
 **Descripción**: Permite a los usuarios crear y gestionar listas personalizadas de contenidos multimedia.
 
 | Atributo           | Tipo de Dato | Descripción                                        |
@@ -779,7 +772,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | Descripción        | VARCHAR      | Descripción breve de la lista.                     |
 | FechaCreación      | DATETIME     | Fecha en que la lista fue creada.                  |
 
-## 8. ContenidoLista
+## 7. ContenidoLista
 **Descripción**: Define la pertenencia de contenidos a listas de reproducción específicas.
 
 | Atributo           | Tipo de Dato | Descripción                                          |
@@ -788,7 +781,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | ListaID            | INT (FK)     | Clave foránea que enlaza a la lista de reproducción. |
 | ContenidoID        | INT (FK)     | Clave foránea que enlaza al contenido en la lista.   |
 
-## 9. Comunidades
+## 8. Comunidades
 **Descripción**: Facilita la creación y gestión de comunidades dentro de la plataforma para fomentar la interacción entre usuarios.
 
 | Atributo           | Tipo de Dato | Descripción                                 |
@@ -798,7 +791,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | Descripción        | VARCHAR      | Descripción breve de la comunidad.          |
 | FechaCreación      | DATETIME     | Fecha en que la comunidad fue creada.       |
 
-## 10. MiembrosComunidad
+## 9. MiembrosComunidad
 **Descripción**: Gestiona la membresía de usuarios en las comunidades, incluyendo la cantidad de usuarios por comunidad.
 
 | Atributo           | Tipo de Dato | Descripción                                       |
@@ -808,7 +801,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | UserID             | INT (FK)     | Clave foránea que enlaza al usuario miembro.      |
 | Cant               | INT          | Cantidad de usuarios de comunidades.   |
 
-## 11. PerfilEstudiante
+## 10. PerfilEstudiante
 **Descripción**: Asocia a los usuarios con sus respectivas instituciones educativas, posibilitando ofertas o contenidos exclusivos para estudiantes.
 
 | Atributo              | Tipo de Dato | Descripción                                            |
@@ -817,7 +810,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | UserID                | INT (FK)     | Clave foránea que enlaza al usuario con estatus de estudiante. |
 | InstituciónEducativa  | VARCHAR      | Nombre de la institución educativa del estudiante.    |
 
-## 12. HistorialDeAccesos
+## 11. HistorialDeAccesos
 **Descripción**: Registra cada vez que un usuario accede a un contenido, permitiendo seguimiento de lo que los usuarios ven o escuchan en la plataforma.
 
 | Atributo       | Tipo de Dato | Descripción                                                    |
@@ -827,7 +820,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | ContenidoID    | INT (FK)     | Clave foránea que enlaza al contenido accedido.                |
 | FechaDeAcceso  | DATETIME     | Fecha y hora en que el contenido fue accedido.                 |
 
-## 13. Valoraciones
+## 12. Valoraciones
 **Descripción**: Permite a los usuarios valorar y comentar sobre los contenidos que consumen, ofreciendo feedback y recomendaciones a otros usuarios.
 
 | Atributo        | Tipo de Dato | Descripción                                                     |
@@ -839,7 +832,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | Comentario      | VARCHAR      | Comentario sobre el contenido.                                  |
 | FechaValoracion | DATE         | Fecha en que se realizó la valoración.                          |
 
-## 14. EventosEspeciales
+## 13. EventosEspeciales
 **Descripción**: Administra eventos especiales o promociones en la plataforma, los cuales pueden ser accesibles para todos los usuarios o exclusivos para suscriptores premium.
 
 | Atributo       | Tipo de Dato | Descripción                                           |
@@ -851,7 +844,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 | FechaFin       | DATE         | Fecha de fin del evento.                              |
 | Premium        | BOOLEAN      | Indica si el evento es exclusivo para suscriptores premium. |
 
-## 15. AsistenciaEventos
+## 14. AsistenciaEventos
 **Descripción**: Registra la asistencia de usuarios a eventos especiales, lo que podría ser usado para ofrecer contenidos exclusivos o beneficios a los asistentes.
 
 | Atributo         | Tipo de Dato | Descripción                                           |
@@ -908,11 +901,33 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 | Sprint 1 Goal                                        | Sprint 1 Velocity | Sum of Story Points |
 |------------------------------------------------------|-------------------|---------------------|
-| Elaborar y crear la página MediaVerse con HTML y CSS |      30           |      40             |
+| Elaborar y crear la página MediaVerse con HTML y CSS |      13           |      40             |
 
 #### 5.2.1.2. Sprint Backlog 1.
 Durante el primer sprint backlog, el equipo tenía la intención de iniciar y terminar la creación de la página de inicio. La herramienta Discord se utilizó para organizar y gestionar a los miembros del equipo, lo que facilitó la asignación de tareas basadas en las habilidades individuales de cada uno. El objetivo principal del sprint era completar completamente la página de inicio, asegurando que fuera atractiva y funcional. Sin embargo, debido a problemas de tiempo y asuntos familiares, el proceso de creación se retrasó, dejando solo tres días antes de la fecha límite.
 <img src="assets/Imgs/pruebaTrabajo.jpg" alt="Sprint Backlog 1" style="width:100%;">
+
+| SPRINT 1 |  | SPRINT N |      |       |             |        
+|---------|---|---------|------|-------|-------------|
+| USER STORY | | Work-item/task |       |             |        |
+| **ID** | **Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
+| HU01  | Acceso a contenido básico | "Como usuario con suscripción básica, deseo tener acceso a una selección limitada de contenidos multimedia." | 2 | Marcelo Ramirez | Done |
+| HU02  | Publicidad a cambio de premium | "Como usuario de suscripción básica, deseo la opción de ver o escuchar anuncios a cambio de acceso ocasional a contenido premium." | 3 | Raul Quispe | TO DO |
+| HU03  | Crear listas de reproducción personalizadas | "Como usuario, deseo crear listas de reproducción personalizadas para organizar mis contenidos favoritos." | 3 | Renzo Javier | Done |
+| HU04  | Acceder a comunidades | "Como usuario con suscripción estándar o premium, deseo acceder a comunidades y grupos de discusión." | 4 | Carlos Andres | Done |
+| HU05  | Recibir recomendaciones personalizadas | "Como usuario, deseo recibir recomendaciones basadas en mi historial de consumo." | 5 | Marcelo Ramirez | TO DO |
+| HU06  | Acceso exclusivo a lanzamientos anticipados | "Como usuario con suscripción premium, deseo tener acceso exclusivo a lanzamientos anticipados." | 2 | Raul Quispe | TO DO |
+| HU07  | Descargar contenido para consumo sin conexión | "Como usuario premium, deseo descargar contenido para consumirlo sin conexión a internet." | 4 | Renzo Javier | TO DO |
+| HU08  | Participar en eventos en vivo | "Como usuario premium, deseo participar en eventos en vivo con creadores de contenido." | 4 | Carlos Andres | TO DO |
+| HU09  | Beneficios de suscripción para estudiantes | "Como estudiante, deseo acceder a un descuento en la suscripción estándar o premium." | 3 | Marcelo Ramirez | TO DO |
+| HU10  | Herramientas de estudio integradas | "Como usuario estudiante, deseo herramientas de estudio integradas en la plataforma." | 4 | Raul Quispe | TO DO |
+| HU11  | Acceso familiar bajo una sola suscripción | "Como cabeza de familia, deseo adquirir una suscripción familiar que permita a varios miembros acceder con perfiles individuales." | 3 | Renzo Javier | TO DO |
+| HU12  | Controles parentales | "Como padre/madre, deseo establecer controles parentales para asegurar que mis hijos accedan solo a contenido apropiado." | 3 | Carlos Andres | TO DO |
+| HU13  | Listas de reproducción familiares | "Como usuario con suscripción familiar, deseo crear listas de reproducción que reflejen los gustos de toda la familia." | 2 | Marcelo Ramirez | TO DO |
+| HU14  | Explorar contenido premium ocasionalmente | "Como usuario de suscripción básica, deseo la opción de explorar contenido premium ocasionalmente." | 3 | Raul Quispe | TO DO |
+| HU15  | Crear grupos de estudio virtuales | "Como estudiante, deseo la capacidad de formar grupos de estudio virtuales con otros usuarios." | 4 | Renzo Javier | Done |
+
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 Se descompuso cada vista del landing page para realizar el trabajo. Estos son los principales commits que ayudan a entender de manera indivirual cada vista.
@@ -928,10 +943,10 @@ Se descompuso cada vista del landing page para realizar el trabajo. Estos son lo
 | NexaLibery-landingPage                 | feature/main               | 4debb6f    | Merge branch 'development' | 10/04/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-Para el landing page no se realizaron test de ningun tipo por eso no se incluyen aqui.
-<!-- | Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) | -->
-<!-- |----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------| -->
-<!-- |                                        |                            |                                            |                           |                    | -->
+La ejecucion de la pagina fue atraves de la ram main en el repositorio NexaLibery-landingPage  donde main es la base principal que da funcionamiento a la pagina
+| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) | 
+|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------| 
+|  NexaLibery-landingPage                |  main                      |  4debb6f                                   |  Merge branch 'development |   10/02/24                 | 
 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review. 
@@ -1008,12 +1023,13 @@ En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas estableci
 ``` 
 formato
 
-"Apellido", Ini.Ciales. & "otroAutor", O.A. (año). titulo del articulo.
-        "nombre del articulo o lo q sea, Volumen(si es que tiene), numero  de pagina"#-#. https//link.org/eeeseneko
+Eslava, D. C. (2024, 14 marzo). Las bibliotecas digitales y sus esfuerzos por reducir brechas.
+       ELESPECTADOR.COM. https://www.elespectador.com/el-magazin-cultural/bibliotecas-digitales-un-nuevo-acceso-a-la-educacion-y-al-patrimonio-de-colombia-noticias-hoy/
+
+De Quijano, F. D. (2024, 2 abril). La venta de libros digitales creció un 9% en 2023 y se duplicó la destinada a préstamos en bibliotecas. El Español. https://www.elespanol.com/el-cultural/letras/20240402/venta-libros-digitales-crecio-duplico-destinada-prestamos-bibliotecas/844665801_0.html
 
 ```
 # Anexos
 
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
-
-![Imagen de algo no nuestro lol](image.jpg)
+Video Grbacion TB1:
+[Video Grbacion TB1](XXXXXX)

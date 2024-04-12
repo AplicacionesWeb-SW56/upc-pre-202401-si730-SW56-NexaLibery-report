@@ -502,7 +502,8 @@ As Is:
 | Usuario                   | Cualquier persona o entidad que utiliza la plataforma para solicitar o proveer servicios técnicos. |
 | Plan de suscripcion       | Modelo de pago que permite a los usuarios acceder a servicios específicos durante un periodo determinado. |
 | Lista de reproduccion     | Lista el cual puede organizar sus preferencias y descubrimientos |
-
+| Contenido multimedia      | Repertorio de todos los materiales de la plataforma |
+| Premiun                   | Contenido exclusivo de la suscripcion Premiun |
 ---
 
 # Capítulo III: Requirements Specification

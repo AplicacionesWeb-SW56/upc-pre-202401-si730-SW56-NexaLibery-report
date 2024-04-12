@@ -95,10 +95,13 @@ El Lean UX Canvas es usado como un diseño para el usuario y de acuerdo a la med
 (imagen)
 Si quieres ver más a detalle, acceder a [Canvas](https://app.mural.co/t/nexalibery5875/m/nexalibery5875/1711531230304/9cae9888df00da29e0a5dc996ce0e7484ff9da3d?sender=ud5867274f6e0f4e990f88500).
 ## 1.3. Segmentos objetivo.
-Nos dimos cuenta que el estrés académico según Universidad de Chile (2023), es ocasionado por las pruebas, trabajos, exámenes, presentaciones, etc. Pueden ser subsanados por la música que según dice Campus Home (2020) puede ayudar a muchos estudiantes a superar el estrés y la ansiedad mientras estudian.
-### 1.3.1. Stakeholders:
-- **Stakelholder Internos**: Equipo de desarrollo y tecnología, equipo de contenido y curación, equipo de Marketing y ventas y equipo de soporte y atención al cliente.
-- **Stakelholder Externos**: Usuarios Finales, sroveedores de contenido, socios comerciales, reguladores y autoridades.
+**Segmento 1**
+<br> Usuarios Generales:
+Este segmento incluye individuos que buscan entretenimiento y enriquecimiento personal a través del acceso a una amplia gama de contenidos digitales. Los usuarios generales de NexaLibrary utilizan la plataforma principalmente para disfrutar de libros electrónicos, audiolibros, música y podcasts. Buscan una experiencia de usuario fluida y conveniente que les permita explorar y consumir contenido digital de forma casual, mejorando así su tiempo libre y proporcionando una fuente continua de entretenimiento y aprendizaje autodidacta.
+
+**Segmento 2**
+<br>
+Este grupo está compuesto por estudiantes que utilizan NexaLibrary como una herramienta esencial en su educación y desarrollo académico. Los estudiantes recurren a la biblioteca digital para acceder a materiales educativos específicos, incluyendo libros de texto, recursos de investigación y contenidos multimedia que apoyan sus estudios universitarios y proyectos de investigación. NexaLibrary sirve como un recurso valioso para estos usuarios, proporcionando acceso a información actualizada y relevante que es crucial para su éxito académico y profesional. Además, la plataforma puede ofrecer funcionalidades de estudio personalizadas y herramientas de colaboración que enriquecen su experiencia de aprendizaje.
 
 ### Capitulo II: Requirements Elicitation & Analysis
 

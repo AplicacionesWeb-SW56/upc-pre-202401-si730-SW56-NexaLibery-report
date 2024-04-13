@@ -53,11 +53,11 @@ En NexaLibery, somos un equipo de desarrolladores enfocados en revolucionar la e
 #### 1.1.2. Perfiles de integrantes del equipo
 | Miembros del equipo | Código Estudiante | Carrera | Conocimientos / Habilidades |
 |---------------------|-------------------|---------|-----------------------------|
-| Loli Ruiz Renzo, Javier ![Renzo Loli](/assets/members-profile/renzoLoli.png) | U20161C993 | Ingeniería de software | C++, Python, Javascript, C# |
-| Ramirez Ramirez, Marcelo Sebastian ![Marcelo Sebastian](/assets/members-profile/ramirez.jpeg) | U202210582 | Ingeniería de software | C++, HTML5, JavaScript, SQL,CSS |
-| Quispe Erasmo, Raúl Ronaldo ![Raúl Ronaldo](/assets/members-profile/QuispeErasmo.jpeg) | U20211B682 | Ingeniería de software | C++, python, HTML5, CSS3, JavaScript |
-| Javier Murillo, Mathias ![Mathias](/assets/members-profile/MathiasJavierMurillo.jpg) | U202022211 | Ingeniería de software | C++, SQL, React, Python, JavaScript |
-| Leon Rioja, Carlos Andres ![Carlos Andres](/assets/members-profile/carlos.jpg) | U202111451 | Ingeniería de software | C++, Python, HTML, CSS |
+| Loli Ruiz Renzo, Javier ![Renzo Loli](assets/members-profile/renzoLoli.png) | U20161C993 | Ingeniería de software | C++, Python, Javascript, C# |
+| Ramirez Ramirez, Marcelo Sebastian ![Marcelo Sebastian](assets/members-profile/ramirez.jpeg) | U202210582 | Ingeniería de software | C++, HTML5, JavaScript, SQL,CSS |
+| Quispe Erasmo, Raúl Ronaldo ![Raúl Ronaldo](assets/members-profile/QuispeErasmo.jpeg) | U20211B682 | Ingeniería de software | C++, python, HTML5, CSS3, JavaScript |
+| Javier Murillo, Mathias ![Mathias](assets/members-profile/MathiasJavierMurillo.jpg) | U202022211 | Ingeniería de software | C++, SQL, React, Python, JavaScript |
+| Leon Rioja, Carlos Andres ![Carlos Andres](assets/members-profile/carlos.jpg) | U202111451 | Ingeniería de software | C++, Python, HTML, CSS |
 
 
 ## 1.2. Solution Profile
@@ -553,7 +553,7 @@ As Is:
 
 ## 3.3. Impact Mapping.
 
-<img src="/assets/IM.jpg" alt="Mapa de impacto" style="width:80%;">
+<img src="assets/IM.jpg" alt="Mapa de impacto" style="width:80%;">
 
 ## 3.4. Product Backlog.
 
@@ -591,31 +591,31 @@ Con una extensa colección de libros electrónicos, audiolibros, música y podca
 - **Misión**:
 Conectar a las personas con el contenido que aman, promoviendo la educación, el aprendizaje continuo, el enriquecimiento personal y la reducción del estrés.
 - **Visión**: MediaVerse se desea convertirse en la plataforma líder en la entrega de contenido multimedia personalizado, transformando la manera en que las personas exploran, descubren y se conectan con el contenido digital y entre sí. MediaVerse aspira a ser el puente entre el vasto mundo del contenido digital y las preferencias únicas de cada usuario, ofreciendo una experiencia inmersiva y enriquecedora que va más allá de la simple consumición de contenido.        
-  <img src="/assets/Imgs/logo_NexaLibery.png" alt="Imagen del logo" style="width:60%;">
+  <img src="assets/Imgs/logo_NexaLibery.png" alt="Imagen del logo" style="width:60%;">
   
 - **Brand Name**: El nombre "MediaVerse" se nos ocurrieron al formar 2 palabras "Medios"(Media) y "Universo"(Verse). La palabra Media nos referimos a la gran variedad de medios de comunicación y contenido. Y la palabra Verse nos idealizamos eem que se trata un extenso y expansivo mundo del contenido digital, dando entender que MediaVerse tiene como objetivo abarcar todo este universo de medios digitales.                                
-  <img src="/assets/Imgs/logo_MediaVerse.png" alt="Imagen del logo secundario" style="width:60%;">
+  <img src="assets/Imgs/logo_MediaVerse.png" alt="Imagen del logo secundario" style="width:60%;">
 - **Colores**:Los colores toman un papel muy importante para la plataforma al momento de hablar sobre captar la atención y dar comodidad a los usuarios, es alli lo que buscábamos un color específico en el que transmita paz y calma para combinar con nuestros contenidos, el azul, que es bien indicado por los expertos para enfrentar al insomnio o estrés de los estudiantes.
 - Primary Colors:                                                             
-    <img src="/assets/Colors/Primary_blue.png" alt="azul" style="width:40%;">
-    <img src="/assets/Colors/Primary_sky.png" alt="celeste" style="width:40%;">
-    <img src="/assets/Colors/Primary_white.png" alt="blanco" style="width:40%;">
+    <img src="assets/Colors/Primary_blue.png" alt="azul" style="width:40%;">
+    <img src="assets/Colors/Primary_sky.png" alt="celeste" style="width:40%;">
+    <img src="assets/Colors/Primary_white.png" alt="blanco" style="width:40%;">
 - Secondary Colors:                                                             
-    <img src="/assets/Colors/Primary_blue.png" alt="azul" style="width:30%;">
-    <img src="/assets/Colors/Primary_sky.png" alt="celeste" style="width:30%;">
-    <img src="/assets/Colors/Wireframe_colors/wireframe_d9d9d9.png" alt="gris (oscuro 60%)" style="width:30%;">
-    <img src="/assets/Colors/Primary_white.png" alt="blanco" style="width:30%;">
+    <img src="assets/Colors/Primary_blue.png" alt="azul" style="width:30%;">
+    <img src="assets/Colors/Primary_sky.png" alt="celeste" style="width:30%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_d9d9d9.png" alt="gris (oscuro 60%)" style="width:30%;">
+    <img src="assets/Colors/Primary_white.png" alt="blanco" style="width:30%;">
 - Wireframe Colors:                                                                             
-    <img src="/assets/Colors/Wireframe_colors/wireframe_000000.png" alt="negro" style="width:20%;">
-    <img src="/assets/Colors/Wireframe_colors/wireframe_bebebe.png" alt="gris (oscuro 100%)" style="width:20%;">
-    <img src="/assets/Colors/Wireframe_colors/wireframe_d0d0d0.png" alt="gris (oscuro 80%)" style="width:20%;">
-    <img src="/assets/Colors/Wireframe_colors/wireframe_d9d9d9.png" alt="gris (oscuro 60%)" style="width:20%;">
-    <img src="/assets/Colors/Wireframe_colors/wireframe_e4e4e4.png" alt="gris (oscuro 40%)" style="width:20%;">
-    <img src="/assets/Colors/Wireframe_colors/wireframe_e5e5e5.png" alt="gris (oscuro 20%)" style="width:20%;">
-    <img src="/assets/Colors/Wireframe_colors/wireframe_ffffff.png" alt="blanco" style="width:20%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_000000.png" alt="negro" style="width:20%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_bebebe.png" alt="gris (oscuro 100%)" style="width:20%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_d0d0d0.png" alt="gris (oscuro 80%)" style="width:20%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_d9d9d9.png" alt="gris (oscuro 60%)" style="width:20%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_e4e4e4.png" alt="gris (oscuro 40%)" style="width:20%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_e5e5e5.png" alt="gris (oscuro 20%)" style="width:20%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_ffffff.png" alt="blanco" style="width:20%;">
 - Text Colors:                                                         
-    <img src="/assets/Colors/Wireframe_colors/wireframe_000000.png" alt="negro" style="width:20%;">
-    <img src="/assets/Colors/Wireframe_colors/wireframe_ffffff.png" alt="blanco" style="width:20%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_000000.png" alt="negro" style="width:20%;">
+    <img src="assets/Colors/Wireframe_colors/wireframe_ffffff.png" alt="blanco" style="width:20%;">
 - Tipografía:
   La tipografía representa el orden y jerarquía. Toma un cumplimiento muy importante para la perspectiva de los usuarios al navegar por la interfaz. El tipo de letra de nuestro proyecto es "Andada Pro"
 ### 4.1.2. Web Style Guidelines.
@@ -705,19 +705,19 @@ El sistema de navegacion de nuestro sitio web consta de menus de navegacion, en 
 ### 4.6.1. Software Architecture Context Diagram.
 1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
 se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
- ![Context Diagram](/assets/C4-Diagrams/ContextDiagram.png)
+ ![Context Diagram](assets/C4-Diagrams/ContextDiagram.png)
 ### 4.6.2. Software Architecture Container Diagrams.
 1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's, indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP) 
- ![Container Diagram](/assets/C4-Diagrams/ContainerDiagram.png)
+ ![Container Diagram](assets/C4-Diagrams/ContainerDiagram.png)
 ### 4.6.3. Software Architecture Components Diagrams.
 1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
- ![Component Diagram](/assets/C4-Diagrams/ComponentDiagram.png)
+ ![Component Diagram](assets/C4-Diagrams/ComponentDiagram.png)
    
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 Esta yaselasaben (diagrama de clases)
 Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
-<img src="/assets/Diagram Class.PNG" alt="Diagrama clase" style="width:80%;">
+<img src="assets/Diagram Class.PNG" alt="Diagrama clase" style="width:80%;">
 ### 4.7.2. Class Dictionary.
 ## 1. Usuarios
 **Descripción**: Representa a cada persona que se registra y utiliza la plataforma. Incluye información personal básica, así como detalles de su cuenta como el email y contraseña.
@@ -870,7 +870,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-<img src="/assets/NexaLibery-Database.png" alt="Base de datos" style="width:80%;">
+<img src="assets/NexaLibery-Database.png" alt="Base de datos" style="width:80%;">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
@@ -1015,9 +1015,9 @@ En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas estableci
 |Javier Murillo, Mathias           | Implementacion de la seccion Home          |    
 |Leon Rioja Carlos Andres          | Implementacion de la seccion About us      |
 
-![Sprint review Team Collaboration Insights](/assets/Software-Evidence/NetWorkGroup.PNG) 
+![Sprint review Team Collaboration Insights](assets/Software-Evidence/NetWorkGroup.PNG) 
 
-![Sprint review Team Collaboration Insights](/assets/Software-Evidence/Grafic.PNG) 
+![Sprint review Team Collaboration Insights](assets/Software-Evidence/Grafic.PNG) 
 
 # Conclusiones y recomendaciones.
 **Conclusiones**

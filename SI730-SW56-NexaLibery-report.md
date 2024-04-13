@@ -30,9 +30,6 @@
 # Project Report Collaboration Insights
 [NexaLibery-Aplicaciones Web](https://github.com/AplicacionesWeb-SW56)
 
-(Imagenes de los commits cada entrega)
-
-
 # Student Outcome
 | Criterio Específico                                          | Acciones Realizadas | Conclusiones          |
 |--------------------------------------------------------------|---------------------|-----------------------|
@@ -543,7 +540,11 @@ As Is:
 | HU12          | Controles parentales | "Como padre/madre, deseo establecer controles parentales para asegurar que mis hijos accedan solo a contenido apropiado para su edad." | "Dado que soy padre/madre, cuando configuro controles parentales, entonces puedo restringir el contenido según la edad." | EP05                    |
 | HU13          | Listas de reproducción familiares | "Como usuario con suscripción familiar, deseo crear listas de reproducción que reflejen los gustos de toda la familia, para disfrutar juntos." | "Dado que tengo suscripción familiar, cuando creo una lista de reproducción, entonces puede ser disfrutada por todos los miembros de la familia." | EP05                    |
 | HU14          | Explorar contenido premium ocasionalmente | "Como usuario de suscripción básica, deseo la opción de explorar contenido premium ocasionalmente para conocer la oferta completa de la plataforma." | "Dado que soy usuario básico, cuando elijo explorar contenido premium ocasionalmente, entonces tengo acceso temporal a este contenido." | EP06                    |
-| HU15          | Crear grupos de estudio virtuales | "Como estudiante, deseo la capacidad de formar grupos de estudio virtuales con otros usuarios, para colaborar y aprender juntos de manera más eficaz." | "Dado que soy estudiante, cuando quiero formar un grupo de estudio, entonces puedo invitar a otros usuarios y colaborar virtualmente." | EP03, EP04              |
+| HU15          | Crear grupos de estudio virtuales | "Como estudiante, deseo la capacidad de formar grupos de estudio virtuales con otros usuarios, para colaborar y aprender juntos de manera más eficaz." | "Dado que soy estudiante, cuando quiero formar un grupo de estudio, entonces puedo invitar a otros usuarios y colaborar virtualmente." | EP03, EP04  |
+| HU16          | Acceso a las suscripciones  | "Como usuario interesado, deseo conocer los detalles de las diferentes suscripciones para elegir la que mejor se ajuste a mis necesidades." | "Dado que estoy evaluando las opciones, cuando accedo a la sección de suscripciones, entonces puedo ver información detallada de cada plan." | EP01                  |
+| HU17          | Descubrir servicios adicionales    | "Como usuario, deseo descubrir los servicios  que ofrecen la plataforma para maximizar mi experiencia."  | "Dado que busco aprovechar al máximo la plataforma, cuando navego por el sitio, entonces encuentro secciones detalladas de los servicios que ofrecen." | EP01                  |
+| HU18          | Conocer autores de la pagina          | "Como usuario curioso, deseo conocer más sobre los creadores y el equipo detrás de la plataforma para sentir una conexión más personal con el servicio." | "Dado que valoro el esfuerzo humano detrás de los servicios, cuando exploro la sección 'Acerca de', entonces puedo leer perfiles y historias del equipo de desarrollo." | EP03                  |
+| HU19          | Informacion de contacto         | "Como usuario, deseo tener acceso fácil a opciones de contacto para resolver dudas o gestionar problemas rápidamente."          | "Dado que necesito ayuda o quiero hacer una consulta, cuando busco opciones de contacto, entonces encuentro múltiples maneras de comunicarme con soporte." | EP03                  |
 
 
 ## 3.3. Impact Mapping.
@@ -569,6 +570,10 @@ As Is:
 | 13 | HU13 | Listas de reproducción familiares           | "Como usuario con suscripción familiar, deseo crear listas de reproducción que reflejen los gustos de toda la familia." | 2 |
 | 14 | HU14 | Explorar contenido premium ocasionalmente   | "Como usuario de suscripción básica, deseo la opción de explorar contenido premium ocasionalmente."                     | 3 |
 | 15 | HU15 | Crear grupos de estudio virtuales           | "Como estudiante, deseo la capacidad de formar grupos de estudio virtuales con otros usuarios."                         | 4 |
+| 16     | HU16          | Acceso a las suscripciones                 | "Como usuario interesado, deseo conocer los detalles de las diferentes suscripciones para elegir la que mejor se ajuste a mis necesidades." | 2                        | EP01  |
+| 17     | HU17          | Descubrir servicios           | "Como usuario, deseo descubrir los servicios  que ofrecen la plataforma para maximizar mi experiencia." | 3                        | EP01  |
+| 18     | HU18          | Conocer autores de la pagina               | "Como usuario curioso, deseo conocer más sobre los creadores y el equipo detrás de la plataforma para sentir una conexión más personal con el servicio." | 3                        | EP03  |
+| 19     | HU19          | Informacion de contacto                    | "Como usuario, deseo tener acceso fácil a opciones de contacto para resolver dudas o gestionar problemas rápidamente." | 2                        | EP03  |
 
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
@@ -890,10 +895,24 @@ URL para acceder a nuestra organizacion de GitHub <https://github.com/Aplicacion
 URL para acceder a nuestra Landing Page <https://github.com/AplicacionesWeb-SW56/NexaLibery-landingPage>
 
 ### 5.1.3. Source Code Style Guide & Conventions.
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+
+**Lenguaje de Programación y Documentación:**
+Los informes y documentación técnica se elaborarán en español para facilitar la comprensión dentro del equipo.
+En cambio, los identificadores como nombres de archivos, clases, métodos, variables y constantes en HTML, CSS, JavaScript, TypeScript y Java se nombrarán en inglés. Esta práctica apunta a mantener una coherencia con las normas internacionales de programación.
+
+**Estructura de Código:**
+Utilizaremos inglés para los nombres de clases y métodos, empleando camelCase o snake_case según corresponda al lenguaje de programación utilizado. Esto ayudará a mantener un código limpio y fácilmente legible.
+
+**Documentación Interna del Código:**
+Los comentarios dentro del código serán en español, buscando ofrecer explicaciones claras y breves de las funciones y lógica utilizadas. Esto permitirá a cualquier miembro del equipo entender rápidamente el propósito de los bloques de código específicos.
+
 ### 5.1.4. Software Deployment Configuration.
-Configuraciones de donde y como deployeamos el proyecto
+Implementamos la publicación de nuestra página web utilizando GitHub Pages, una herramienta que ofrece hospedaje gratuito para sitios estáticos. A continuación se describe el procedimiento que seguimos para realizar el despliegue:
+
+1.Accedimos a la sección 'Settings' del repositorio de nuestra landing page y, desde allí, nos dirigimos a 'Pages'.
+2.Elegimos la rama del repositorio donde se encuentra el código de nuestro sitio y aplicamos los cambios necesarios para activar el servicio.
+3.Tras finalizar el proceso de configuración, GitHub Pages procesó y desplegó nuestra página, proporcionándonos una URL específica para acceder a ella.
+   
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
@@ -908,30 +927,14 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 | Elaborar y crear la página MediaVerse con HTML y CSS |      13           |      40             |
 
 #### 5.2.1.2. Sprint Backlog 1.
-Durante el primer sprint backlog, el equipo tenía la intención de iniciar y terminar la creación de la página de inicio. La herramienta Discord se utilizó para organizar y gestionar a los miembros del equipo, lo que facilitó la asignación de tareas basadas en las habilidades individuales de cada uno. El objetivo principal del sprint era completar completamente la página de inicio, asegurando que fuera atractiva y funcional. Sin embargo, debido a problemas de tiempo y asuntos familiares, el proceso de creación se retrasó, dejando solo tres días antes de la fecha límite.
-<img src="assets/Imgs/pruebaTrabajo.jpg" alt="Sprint Backlog 1" style="width:100%;">
 
-| SPRINT 1 |  | SPRINT N |      |       |             |        
-|---------|---|---------|------|-------|-------------|
-| USER STORY | | Work-item/task |       |             |        |
-| **ID** | **Title** | **Description** | **Estimation** | **Assigned To** | **Status** |
-| HU01  | Acceso a contenido básico | "Como usuario con suscripción básica, deseo tener acceso a una selección limitada de contenidos multimedia." | 2 | Marcelo Ramirez | Done |
-| HU02  | Publicidad a cambio de premium | "Como usuario de suscripción básica, deseo la opción de ver o escuchar anuncios a cambio de acceso ocasional a contenido premium." | 3 | Raul Quispe | TO DO |
-| HU03  | Crear listas de reproducción personalizadas | "Como usuario, deseo crear listas de reproducción personalizadas para organizar mis contenidos favoritos." | 3 | Renzo Javier | Done |
-| HU04  | Acceder a comunidades | "Como usuario con suscripción estándar o premium, deseo acceder a comunidades y grupos de discusión." | 4 | Carlos Andres | Done |
-| HU05  | Recibir recomendaciones personalizadas | "Como usuario, deseo recibir recomendaciones basadas en mi historial de consumo." | 5 | Marcelo Ramirez | TO DO |
-| HU06  | Acceso exclusivo a lanzamientos anticipados | "Como usuario con suscripción premium, deseo tener acceso exclusivo a lanzamientos anticipados." | 2 | Raul Quispe | TO DO |
-| HU07  | Descargar contenido para consumo sin conexión | "Como usuario premium, deseo descargar contenido para consumirlo sin conexión a internet." | 4 | Renzo Javier | TO DO |
-| HU08  | Participar en eventos en vivo | "Como usuario premium, deseo participar en eventos en vivo con creadores de contenido." | 4 | Carlos Andres | TO DO |
-| HU09  | Beneficios de suscripción para estudiantes | "Como estudiante, deseo acceder a un descuento en la suscripción estándar o premium." | 3 | Marcelo Ramirez | TO DO |
-| HU10  | Herramientas de estudio integradas | "Como usuario estudiante, deseo herramientas de estudio integradas en la plataforma." | 4 | Raul Quispe | TO DO |
-| HU11  | Acceso familiar bajo una sola suscripción | "Como cabeza de familia, deseo adquirir una suscripción familiar que permita a varios miembros acceder con perfiles individuales." | 3 | Renzo Javier | TO DO |
-| HU12  | Controles parentales | "Como padre/madre, deseo establecer controles parentales para asegurar que mis hijos accedan solo a contenido apropiado." | 3 | Carlos Andres | TO DO |
-| HU13  | Listas de reproducción familiares | "Como usuario con suscripción familiar, deseo crear listas de reproducción que reflejen los gustos de toda la familia." | 2 | Marcelo Ramirez | TO DO |
-| HU14  | Explorar contenido premium ocasionalmente | "Como usuario de suscripción básica, deseo la opción de explorar contenido premium ocasionalmente." | 3 | Raul Quispe | TO DO |
-| HU15  | Crear grupos de estudio virtuales | "Como estudiante, deseo la capacidad de formar grupos de estudio virtuales con otros usuarios." | 4 | Renzo Javier | Done |
-
-
+| USER STORY |  | Work-Item/Task |  |  |  |  |
+|------------|----------------|-------------|--------------------------------|----------------------------------------------|-----------|--------------------------|--------|
+| ID         | Title          | ID          | Title                          | Description                                   | Estimation | Assigned To              | Status |
+| HU16       | Acceso a las suscripciones | W101 | Desarrollo de la sección Suscripciones | "Desarrollo del código base HTML para detallar las diferentes opciones de suscripción disponibles." | 8 horas | Renzo Javier Loli Ruiz | Done   |
+| HU17       | Descubrir servicios | W102 | Desarrollo de la sección Servicios | "Desarrollo del código base HTML para la sección de Servicios, mostrando los servicios ofrecidos por la plataforma." | 8 horas | Ramirez Ramirez Marcelo Sebastian | Done   |
+| HU18       | Conocer autores de la página | W103 | Desarrollo de la sección Equipo | "Mejora del código HTML para incluir información sobre los creadores y el equipo detrás de la plataforma." | 8 horas | Leon Rioja Carlos Andres | Done   |
+| HU19       | Información de contacto | W104 | Desarrollo de la sección Contacto | "Desarrollo del código base HTML para la sección Contacto, facilitando el acceso a las opciones de comunicación." | 8 horas | Raul Ronaldo Quisper Erasmo | Done   |
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 Se descompuso cada vista del landing page para realizar el trabajo. Estos son los principales commits que ayudan a entender de manera indivirual cada vista.
@@ -1024,15 +1027,11 @@ En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas estableci
 - **Aplicación de Prácticas Ágiles:** La adopción de prácticas ágiles como Scrum o Kanban facilita una gestión de proyecto dinámica y flexible, permitiendo ajustes rápidos y eficientes según las necesidades del proyecto.
 - **Implementación de Herramientas de Prototipado:** Recomendamos el uso de herramientas avanzadas de diseño de prototipos, como Figma, para previsualizar y ajustar diseños antes de la codificación, lo que mejora significativamente la calidad y la usabilidad del producto final.
 # Bibliografía
-``` 
-formato
-
 Eslava, D. C. (2024, 14 marzo). Las bibliotecas digitales y sus esfuerzos por reducir brechas.
        ELESPECTADOR.COM. https://www.elespectador.com/el-magazin-cultural/bibliotecas-digitales-un-nuevo-acceso-a-la-educacion-y-al-patrimonio-de-colombia-noticias-hoy/
 
 De Quijano, F. D. (2024, 2 abril). La venta de libros digitales creció un 9% en 2023 y se duplicó la destinada a préstamos en bibliotecas. El Español. https://www.elespanol.com/el-cultural/letras/20240402/venta-libros-digitales-crecio-duplico-destinada-prestamos-bibliotecas/844665801_0.html
 
-```
 # Anexos
 
 Video Grbacion TB1:

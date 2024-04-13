@@ -955,6 +955,8 @@ Luego se referencian las vistas del landing page:
 
 ![Landing Page AboutUs](./assets/Imgs/landingpage_aboutus.png) 
 
+https://nexa-libery-landing-page.vercel.app/
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas establecidas. Durante este período, se enfocaron en complementar las tareas previamente propuestas sin la necesidad de añadir nuevas. El proceso se caracterizó por un flujo de trabajo constante y eficiente, demostrando la capacidad del equipo para manejar y ejecutar el proyecto de manera efectiva.
 

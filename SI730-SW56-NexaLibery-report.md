@@ -28,7 +28,11 @@
 | 1.1 | 04/04/2024 | Grupo 4 | Landing Page |
 | 1.1 | 04/04/2024 | Grupo 4 | Capitulo v |
 # Project Report Collaboration Insights
-[NexaLibery-Aplicaciones Web](https://github.com/AplicacionesWeb-SW56)
+Repositorio del reporte:
+[https://github.com/AplicacionesWeb-SW56/upc-pre-202401-si730-SW56-NexaLibery-report](https://github.com/AplicacionesWeb-SW56/upc-pre-202401-si730-SW56-NexaLibery-report)
+
+Repositorio del Landing Page:
+[https://github.com/AplicacionesWeb-SW56/NexaLibery-landingPage](https://github.com/AplicacionesWeb-SW56/NexaLibery-landingPage)
 
 # Student Outcome
 | Criterio Específico                                          | Acciones Realizadas | Conclusiones          |

@@ -93,7 +93,8 @@ Creemos que la introducción de comunidades y grupos de discusión en la platafo
 Sabremos que hemos tenido éxito cuando veamos un aumento del 25% en la participación activa en grupos de discusión y una mayor retención de usuarios en la plataforma después de seis meses de implementar estas funciones.
 #### 1.2.2.4. Lean UX Canvas.
 El Lean UX Canvas es usado como un diseño para el usuario y de acuerdo a la medotología "Lean" sería para crear, desarrollar y generar elaboraciones de manera ordenada, eficiente y efectiva. Acá dejamos una visualización directa del Lean UX Canvas trabajad por el equipo con la herramienta Mural:
- ![LeanUXCanvas](/assets/leauxCanva.PNG)
+ ![LeanUXCanvas](assets/leauxCanva.PNG)
+ 
 Si quieres ver más a detalle, acceder a [Canvas](https://app.mural.co/t/nexalibery5875/m/nexalibery5875/1711531230304/9cae9888df00da29e0a5dc996ce0e7484ff9da3d?sender=ud5867274f6e0f4e990f88500).
 ## 1.3. Segmentos objetivo.
 **Segmento 1**
@@ -467,6 +468,8 @@ Why would they invite others?
 - Encuentra valor sobre las caracteristicas que ofrecemos y el contenido publicado
 - Recibe incentivos o recompensas por invitar a otros
 - Participa en discusiones o grupos comunitarios
+
+ ![User Journey Mapping](assets/UserJourningMapping.jpeg)
 
 ### 2.3.4. Empathy Mapping.
 **Estudiante Universitario:**

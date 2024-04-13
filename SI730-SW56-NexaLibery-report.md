@@ -909,9 +909,10 @@ Los comentarios dentro del código serán en español, buscando ofrecer explicac
 ### 5.1.4. Software Deployment Configuration.
 Implementamos la publicación de nuestra página web utilizando GitHub Pages, una herramienta que ofrece hospedaje gratuito para sitios estáticos. A continuación se describe el procedimiento que seguimos para realizar el despliegue:
 
-1.Accedimos a la sección 'Settings' del repositorio de nuestra landing page y, desde allí, nos dirigimos a 'Pages'.
-2.Elegimos la rama del repositorio donde se encuentra el código de nuestro sitio y aplicamos los cambios necesarios para activar el servicio.
-3.Tras finalizar el proceso de configuración, GitHub Pages procesó y desplegó nuestra página, proporcionándonos una URL específica para acceder a ella.
+1. Accedimos a la sección 'Settings' del repositorio de nuestra landing page y, desde allí, nos dirigimos a 'Pages'.
+2. Elegimos la rama del repositorio donde se encuentra el código de nuestro sitio y aplicamos los cambios necesarios para 
+ activar el servicio.
+3. Tras finalizar el proceso de configuración, GitHub Pages procesó y desplegó nuestra página, proporcionándonos una URL específica para acceder a ella.
    
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1

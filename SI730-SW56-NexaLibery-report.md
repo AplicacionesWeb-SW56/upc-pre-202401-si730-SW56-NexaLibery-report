@@ -112,10 +112,7 @@ Este grupo está compuesto por estudiantes que utilizan NexaLibrary como una her
 ##### 2.1.1. Analisis Competitivo
 
 </head>
-
 <body dir="ltr">
-
-
 <table border="0" cellspacing="0" cellpadding="0" class="table-ta1"><colgroup><col width="99"/><col width="99"/><col width="99"/><col width="200"/><col width="199"/><col width="196"/><col width="195"/></colgroup><tr class="row-ro1"><td colspan="6" style="text-align:left;width:2.258cm; " class="cell-ce1">
 <p>Competitive Analysis Landscape</p>
 </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro2"><td colspan="2" rowspan="2" style="text-align:left;width:2.258cm; " class="cell-ce2">
@@ -174,9 +171,7 @@ Este grupo está compuesto por estudiantes que utilizan NexaLibrary como una her
 <p>Brindar un dispositivo y plataforma <span class="text-T1">económico</span>, duradero y de uso intuitivo con un catalogo atractivo preciso para sus clientes.</p>
 </td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
 <p>* Seguridad a sus clientes por medio de sus filtros y <span class="text-T1">análisis</span> de virus.</p>
-
 <p>* Amplia cantidad de temas a abordar: Juegos, Apps, Libros, Podcast</p>
-
 <p>* Reconocimiento en la <span class="text-T1">mayoría</span> de dispositivos celulares (viene por defecto)</p>
 </td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
 <p>Uso de “freemium” el cual brinda servicios <span class="text-T1">básicos</span> gratuitos hasta que se haga una <span class="text-T1">incorporación</span> de un servicio avanzado de pago con planes adaptables. Ademas, de <span class="text-T1">personalización</span> y trends para recomendaciones.</p>
@@ -190,29 +185,20 @@ Este grupo está compuesto por estudiantes que utilizan NexaLibrary como una her
 <p>App multiplataforma, Dispositivo de lectura, Catalogo de libros</p>
 </td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
 <p>Catalogo de aplicaciones, <span class="text-T1">música</span>, libros, podcasts etc.</p>
-
 <p>App compatible con android.</p>
-
 <p>Cuenta para guardado de estados de juegos/apps/<span class="text-T1">música</span> etc</p>
 </td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
 <p>Catalogo de canciones.</p>
-
 <p>Playlist recomendadas y  compartibles</p>
-
 <p>Freemium</p>
-
 <p>Podcasts</p>
-
 <p><span class="text-T1">Membresías</span> <span class="text-T1">económicas</span></p>
-
 <p>Soporte web</p>
 </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro3"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
 <p>Precios y costos</p>
 </td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
 <p>* <span class="text-T1">Básico</span>: 10 soles</p>
-
 <p>* Estudiantil: 8 soles</p>
-
 <p>* Premium: 20 soles</p>
 </td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
 <p>$9.99 al mes</p>
@@ -220,11 +206,8 @@ Este grupo está compuesto por estudiantes que utilizan NexaLibrary como una her
 <p>Playstore maneja la <span class="text-T1">suscripción</span> de las apps como tal no tiene <span class="text-T1">membresías</span>, aunque si para juegos, lo <span class="text-T1">demás</span> es pagar por libros por ejemplo</p>
 </td><td style="text-align:left;width:4.48cm; " class="cell-ce3">
 <p>* Individual: 21 soles al mes</p>
-
 <p>* Estudiantes: 12 soles al mes</p>
-
 <p>* Duo: 27 soles al mes</p>
-
 <p>* Familiar: 33 soles al mes</p>
 </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro2"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
 <p>Canales de distribución</p>
@@ -252,25 +235,20 @@ Este grupo está compuesto por estudiantes que utilizan NexaLibrary como una her
 <p>Fortalezas</p>
 </td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
 <p>* Capacidad de aprender <span class="text-T1">rápidamente</span></p>
-
 <p>* Personal capacitado</p>
-
 <p>* organización y responsabilidad</p>
 </td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
 <p>* Personal con experiencia de renombre</p>
-
 <p>* Constantes capacitaciones</p>
 </td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
 <p>* Personal capacitada a nivel de seguridad</p>
 <p> </p></td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
 <p>* Personal joven </p>
-
 <p>* conocimiento en trends y actualidad</p>
 </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro10"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
 <p>Debilidades</p>
 </td><td style="text-align:left;width:2.258cm; " class="cell-ce2">
 <p>* Falta de experiencia en ciertas <span class="text-T1">áreas</span></p>
-
 <p>* Poco conocimiento entre los miembros del grupo</p>
 </td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
 <p>* Idea imitable</p>
@@ -278,7 +256,6 @@ Este grupo está compuesto por estudiantes que utilizan NexaLibrary como una her
 <p>* Apps maliciosas aceptadas a pesar de estar infectadas</p>
 </td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
 <p>* Necesario uso de internet</p>
-
 <p>* Publicidad molesta en servicio gratuito</p>
 <p> </p></td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro11"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
 <p>Oportunidades</p>
@@ -286,17 +263,13 @@ Este grupo está compuesto por estudiantes que utilizan NexaLibrary como una her
 <p>* <span class="text-T1">Únicos</span>, según reconocimientos de otras apps, en el mercado que tengan variedad (<span class="text-T1">música</span>, libros, podcasts)</p>
 </td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
 <p>* <span class="text-T1">Internacionalización</span> </p>
-
 <p>* Confianza del publico</p>
-
 <p>* <span class="text-T1">Fácil</span> apertura de tiendas <span class="text-T1">físicas</span> internacionales</p>
 </td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
 <p>* Multiplataforma</p>
-
 <p>* Ser una de las apps por defecto mas usadas y escuchadas en el mundo</p>
 </td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
 <p>* Estamos en una <span class="text-T1">época</span> de los trends </p>
-
 <p>* <span class="text-T1">Aceptación</span> de los artistas</p>
 </td><td style="text-align:left;width:4.456cm; " class="cell-Default"> </td></tr><tr class="row-ro12"><td style="text-align:left;width:2.258cm; " class="cell-ce2">
 <p>Amenazas</p>
@@ -304,15 +277,12 @@ Este grupo está compuesto por estudiantes que utilizan NexaLibrary como una her
 <p>* Regulaciones con los artistas/autores</p>
 </td><td style="text-align:left;width:4.579cm; " class="cell-ce2">
 <p>* Alta competitividad nacional e internacional</p>
-
 <p>* Ciberdelincuencia</p>
 </td><td style="text-align:left;width:4.554cm; " class="cell-ce2">
 <p>* Competencia con otras tiendas de apps</p>
-
 <p>* Restricciones de los <span class="text-T1">países</span></p>
 </td><td style="text-align:left;width:4.48cm; " class="cell-ce2">
 <p>* Contradicciones y quejas con artistas </p>
-
 <p>* Alta competencia</p>
 </td></table>
 
@@ -1044,4 +1014,4 @@ De Quijano, F. D. (2024, 2 abril). La venta de libros digitales creció un 9% en
 # Anexos
 
 Video Grbacion TB1:
-[Video Grbacion TB1](XXXXXX)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYXxGwNagKZCvauw2GAnB-UBiCFuxF0Bq0Ln0o6oKrcGxA?e=meG7X1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYXxGwNagKZCvauw2GAnB-UBiCFuxF0Bq0Ln0o6oKrcGxA?e=oes3YM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)

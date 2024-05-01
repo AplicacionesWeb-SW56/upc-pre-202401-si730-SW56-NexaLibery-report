@@ -1004,14 +1004,14 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 | Sprint # | Date       | Time  | Location        | Prepared By | Attendees |
 |----------|------------|-------|-----------------|-------------|-----------|
-| 1        | 21/03/2024 | 5:00pm| Reunión virtual a través de Discord | Raúl Quispe | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres |
+| 2       | 01/05/2024 | 5:00pm| Reunión virtual a través de Discord | Raúl Quispe | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres |
 
-| Sprint 1 Goal                                        | Sprint 1 Velocity | Sum of Story Points |
+| Sprint 2 Goal                                        | Sprint 1 Velocity | Sum of Story Points |
 |------------------------------------------------------|-------------------|---------------------|
-| Elaborar y crear la página MediaVerse con HTML y CSS |      13           |      40             |
+| Unir componentes y creacion del fakeapi              |      13           |      40             |
 
 #### 5.2.2.2. Sprint Backlog 2.
-# Sprint 1
+# Sprint 2
 | User Story |  | Work-Item/Task |  |  |  |  |
 |------------|----------------|-------------|--------------------------------|----------------------------------------------|-----------|--------------------------|
 | ID         | Title          | ID          | Title                          | Description                                   | Estimation | Assigned To              | Status |
@@ -1048,7 +1048,7 @@ Luego se referencian las vistas del landing page:
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas establecidas. Durante este período, se enfocaron en complementar las tareas previamente propuestas sin la necesidad de añadir nuevas. El proceso se caracterizó por un flujo de trabajo constante y eficiente, demostrando la capacidad del equipo para manejar y ejecutar el proyecto de manera efectiva.
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 ## Herramientas Utilizadas en el Desarrollo del Frontend web
@@ -1082,6 +1082,7 @@ En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas estableci
 - **Ciclos Continuos de Feedback y Pruebas:** Integrar períodos regulares de retroalimentación y pruebas de usuario durante las etapas de desarrollo asegura que el producto final responda verdaderamente a las necesidades del usuario.
 - **Aplicación de Prácticas Ágiles:** La adopción de prácticas ágiles como Scrum o Kanban facilita una gestión de proyecto dinámica y flexible, permitiendo ajustes rápidos y eficientes según las necesidades del proyecto.
 - **Implementación de Herramientas de Prototipado:** Recomendamos el uso de herramientas avanzadas de diseño de prototipos, como Figma, para previsualizar y ajustar diseños antes de la codificación, lo que mejora significativamente la calidad y la usabilidad del producto final.
+  
 # Bibliografía
 Eslava, D. C. (2024, 14 marzo). Las bibliotecas digitales y sus esfuerzos por reducir brechas.
        ELESPECTADOR.COM. https://www.elespectador.com/el-magazin-cultural/bibliotecas-digitales-un-nuevo-acceso-a-la-educacion-y-al-patrimonio-de-colombia-noticias-hoy/

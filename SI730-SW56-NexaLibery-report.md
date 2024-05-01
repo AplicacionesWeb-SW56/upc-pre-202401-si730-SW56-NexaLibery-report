@@ -22,11 +22,14 @@
 | 0.0 | 24/03/2024 | Grupo 4 |Se crea el documento |
 | 1.0 | 24/03/2024 | Grupo 4 | Se crean las ramas correspondientes |
 | 1.1 | 24/03/2024 | Grupo 4 | Capitulo I |
-| 1.1 | 24/03/2024 | Grupo 4 | Capitulo II |
-| 1.1 | 24/03/2024 | Grupo 4 | Capitulo III |
-| 1.1 | 29/03/2024 | Grupo 4 | Capitulo IV |
-| 1.1 | 04/04/2024 | Grupo 4 | Landing Page |
-| 1.1 | 04/04/2024 | Grupo 4 | Capitulo v |
+| 1.2 | 24/03/2024 | Grupo 4 | Capitulo II |
+| 1.3 | 24/03/2024 | Grupo 4 | Capitulo III |
+| 1.4 | 29/03/2024 | Grupo 4 | Capitulo IV |
+| 1.5 | 04/04/2024 | Grupo 4 | Landing Page |
+| 1.6 | 04/04/2024 | Grupo 4 | Capitulo v |
+| 1.7 | 22/04/2024 | Grupo 4 | Reparticpion de componentes |
+| 1.8 | 04/04/2024 | Grupo 4 | Avance Frontend |
+| 1.9 | 04/04/2024 | Grupo 4 | Inform Sprint 2 |
 # Project Report Collaboration Insights
 Repositorio del reporte:
 [https://github.com/AplicacionesWeb-SW56/upc-pre-202401-si730-SW56-NexaLibery-report](https://github.com/AplicacionesWeb-SW56/upc-pre-202401-si730-SW56-NexaLibery-report)
@@ -993,6 +996,78 @@ En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas estableci
 ![Sprint review Team Collaboration Insights](assets/Software-Evidence/NetWorkGroup.PNG) 
 
 ![Sprint review Team Collaboration Insights](assets/Software-Evidence/Grafic.PNG) 
+
+
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo definido y limitado en el que un equipo se dedica a completar todas las tareas necesarias para alcanzar el objetivo final del proyecto. En el caso del desarrollo de la aplicación MediaVerse, se optó por dividir el proyecto en tres sprints, cada uno con una duración de dieciocho días. El Sprint #2, que comienza el 24/04/2024, tiene como objetivo principal la creación de una página de inicio atractiva para MediaVerse, destinada a captar la atención de los usuarios y comunicar claramente los beneficios del producto.
+
+| Sprint # | Date       | Time  | Location        | Prepared By | Attendees |
+|----------|------------|-------|-----------------|-------------|-----------|
+| 1        | 21/03/2024 | 5:00pm| Reunión virtual a través de Discord | Raúl Quispe | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres |
+
+| Sprint 1 Goal                                        | Sprint 1 Velocity | Sum of Story Points |
+|------------------------------------------------------|-------------------|---------------------|
+| Elaborar y crear la página MediaVerse con HTML y CSS |      13           |      40             |
+
+#### 5.2.2.2. Sprint Backlog 2.
+# Sprint 1
+| User Story |  | Work-Item/Task |  |  |  |  |
+|------------|----------------|-------------|--------------------------------|----------------------------------------------|-----------|--------------------------|
+| ID         | Title          | ID          | Title                          | Description                                   | Estimation | Assigned To              | Status |
+| HU16       | Acceso a las suscripciones | W101 | Desarrollo de la sección Suscripciones | "Desarrollo del código base HTML para detallar las diferentes opciones de suscripción disponibles." | 8 horas | Renzo Javier Loli Ruiz | Done   |
+| HU17       | Descubrir servicios | W102 | Desarrollo de la sección Servicios | "Desarrollo del código base HTML para la sección de Servicios, mostrando los servicios ofrecidos por la plataforma." | 8 horas | Ramirez Ramirez Marcelo Sebastian | Done   |
+| HU18       | Conocer autores de la página | W103 | Desarrollo de la sección Equipo | "Mejora del código HTML para incluir información sobre los creadores y el equipo detrás de la plataforma." | 8 horas | Leon Rioja Carlos Andres | Done   |
+| HU19       | Información de contacto | W104 | Desarrollo de la sección Contacto | "Desarrollo del código base HTML para la sección Contacto, facilitando el acceso a las opciones de comunicación." | 8 horas | Raul Ronaldo Quisper Erasmo | Done   |
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+Se descompuso cada vista del landing page para realizar el trabajo. Estos son los principales commits que ayudan a entender de manera indivirual cada vista.
+| Repository                           | Branch                     | Commit ID  | Commit Message             | Committed on(date) |
+|--------------------------------------|----------------------------|-----------------------------------------|---------------------------|--------------------|
+| NexaLibery-Frontend                  | feature/    | af09715    |  | 05/04/2024         |
+| NexaLibery-Frontend                  | feature/              | d09b222    |        | 07/04/2024         |
+| NexaLibery-Frontend                  | feature/              | 4466239    |               | 10/04/2024         |
+| NexaLibery-Frontend                  | feature/          | ce2e91b    |       | 07/04/2024         |
+| NexaLibery-Frontend                  | feature/           | 484f5c0    |       | 09/04/2024         |
+| NexaLibery-Frontend                  | feature/         | 8d2dd57    |       | 10/04/2024         |
+| NexaLibery-Frontend                  | feature/        | 8d2dd57    |         | 10/04/2024         |
+| NexaLibery-Frontend                  | feature/              | 4debb6f    |  | 10/04/2024         |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+La ejecucion de la pagina fue atraves de la ram main en el repositorio NexaLibery-landingPage  donde main es la base principal que da funcionamiento a la pagina
+| Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) | 
+|----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------| 
+|  NexaLibery-Frontend                   |  main                      |                                    | Merge branch 'development |   01/05/24        | 
+
+
+#### 5.2.2.5. Execution Evidence for Sprint Review. 
+Se hace referencia del link del [FrontendWebApplication](https://nexa-libery-landing-page.vercel.app) en funcionamiento.
+Luego se referencian las vistas del landing page:
+
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas establecidas. Durante este período, se enfocaron en complementar las tareas previamente propuestas sin la necesidad de añadir nuevas. El proceso se caracterizó por un flujo de trabajo constante y eficiente, demostrando la capacidad del equipo para manejar y ejecutar el proyecto de manera efectiva.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+## Herramientas Utilizadas en el Desarrollo del Frontend web
+
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+| Alumno                           | Actividad                                  |          
+|----------------------------------|--------------------------------------------|
+|Loli Ruiz, Renzo Javier           | Implementacion del componente pricing y menu |                                           
+|Quispe Erasmo, Raúl Ronaldo       | Implementacion del compoenente add payment and methodsofpayement  |    
+|Ramirez Ramirez, Marcelo Sebastian| Implementacion del component log-in and register     |    
+|Javier Murillo, Mathias           | Implementacion del componente libary y podcats       |    
+|Leon Rioja Carlos Andres          | Implementacion del component Multimedia and profile  |
+
+![Sprint review Team Collaboration Insights]() 
+
+![Sprint review Team Collaboration Insights]() 
+
 
 # Conclusiones y recomendaciones.
 **Conclusiones**

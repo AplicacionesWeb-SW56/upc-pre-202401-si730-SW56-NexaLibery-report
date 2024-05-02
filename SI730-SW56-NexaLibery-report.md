@@ -1064,7 +1064,6 @@ Se descompuso cada vista del landing page para realizar el trabajo. Estos son lo
 | NexaLibery-Frontend                  | feature/userProfile      | 1e89482  | Add files via upload | 27/04/2024         |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
-La ejecucion de la pagina fue atraves de la ram main en el repositorio NexaLibery-landingPage  donde main es la base principal que da funcionamiento a la pagina
 | Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) | 
 |----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------| 
 |  NexaLibery-Frontend                   |  main                      |   655bed8                                  | Merge branch 'development |   01/05/24         | 

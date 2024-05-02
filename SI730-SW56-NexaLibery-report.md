@@ -1021,7 +1021,8 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 | User Story |  | Work-Item/Task |  |  |  |  |
 |------------|----------------|-------------|--------------------------------|----------------------------------------------|-----------|--------------------------|
 | ID         | Title          | ID          | Title                          | Description                                   | Estimation | Assigned To              | Status |
-| HU16       | Acceso a las suscripciones | W101 | Desarrollo de la sección Suscripciones | "Desarrollo del código base HTML para detallar las diferentes opciones de suscripción disponibles." | 8 horas | Renzo Javier Loli Ruiz | Done   |
+| HU10       | Herramientas de estudio integradas | W101 | Desarrollo de la sección Libreria | "Desarrollo del código base HTML para detallar las diferentes libros de estudio y/o interes disponibles." | 8 horas | Javier Murillo Mathias | Done   |
+| HU16       | Acceso a las suscripciones | W104 | Desarrollo de la sección Suscripciones | "Desarrollo del código base HTML para detallar las diferentes opciones de suscripción disponibles." | 8 horas | Renzo Javier Loli Ruiz | Done   |
 | HU17       | Descubrir servicios | W102 | Desarrollo de la sección Servicios | "Desarrollo del código base HTML para la sección de Servicios, mostrando los servicios ofrecidos por la plataforma." | 8 horas | Ramirez Ramirez Marcelo Sebastian | Done   |
 | HU18       | Conocer autores de la página | W103 | Desarrollo de la sección Equipo | "Mejora del código HTML para incluir información sobre los creadores y el equipo detrás de la plataforma." | 8 horas | Leon Rioja Carlos Andres | Done   |
 | HU19       | Información de contacto | W104 | Desarrollo de la sección Contacto | "Desarrollo del código base HTML para la sección Contacto, facilitando el acceso a las opciones de comunicación." | 8 horas | Raul Ronaldo Quisper Erasmo | Done   |

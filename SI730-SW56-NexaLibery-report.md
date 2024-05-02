@@ -943,7 +943,6 @@ Se descompuso cada vista del landing page para realizar el trabajo. Estos son lo
 | NexaLibery-landingPage                 | feature/main               | 4debb6f    | Merge branch 'development' | 10/04/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
-La ejecucion de la pagina fue atraves de la ram main en el repositorio NexaLibery-landingPage  donde main es la base principal que da funcionamiento a la pagina
 | Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) | 
 |----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------| 
 |  NexaLibery-landingPage                |  main                      |  4debb6f                                   |  Merge branch 'development |   10/02/24                 | 

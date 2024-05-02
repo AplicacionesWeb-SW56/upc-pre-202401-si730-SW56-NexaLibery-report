@@ -1032,20 +1032,22 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 Se descompuso cada vista del landing page para realizar el trabajo. Estos son los principales commits que ayudan a entender de manera indivirual cada vista.
 | Repository                           | Branch                     | Commit ID  | Commit Message             | Committed on(date) |
 |--------------------------------------|----------------------------|-----------------------------------------|---------------------------|--------------------|
-| NexaLibery-Frontend                  | feature/    | af09715    |  | 05/04/2024         |
-| NexaLibery-Frontend                  | feature/              | d09b222    |        | 07/04/2024         |
-| NexaLibery-Frontend                  | feature/              | 4466239    |               | 10/04/2024         |
-| NexaLibery-Frontend                  | feature/          | ce2e91b    |       | 07/04/2024         |
-| NexaLibery-Frontend                  | feature/           | 484f5c0    |       | 09/04/2024         |
-| NexaLibery-Frontend                  | feature/         | 8d2dd57    |       | 10/04/2024         |
-| NexaLibery-Frontend                  | feature/        | 8d2dd57    |         | 10/04/2024         |
-| NexaLibery-Frontend                  | feature/              | 4debb6f    |  | 10/04/2024         |
+| NexaLibery-Frontend                  | feature/Library    | 596c044    | Update Library-component.vue  | 25/04/2024 |
+| NexaLibery-Frontend                  | feature/LogIn      | 3b69629    |  adding Vue-Project      | 23/04/2024 |
+| NexaLibery-Frontend                  | feature/Multimedia | d0a0670    | Update Multimedia-component.vue  | 28/04/2024         |
+| NexaLibery-Frontend                  | feature/Podcast    | 0f35c40    | Update Podcast-components.vue      | 26/04/2024         |
+| NexaLibery-Frontend                  | feature/addPayment |  b33d311   | Feat: Update addPayment-component.vue     | 28/04/2024         |
+| NexaLibery-Frontend                  | feature/menu     | 8d2dd57    | Merge feature/prcing into menu       | 02/05/2024         |
+| NexaLibery-Frontend                  | feature/methodsPayment  |  121de8a    | feat: Update methodsPayment-component.vue        | 28/04/2024      |
+| NexaLibery-Frontend                  | feature/pricing         | 0130b4d    | feature(menu): added menu component | 28/04/2024         |
+| NexaLibery-Frontend                  | feature/register        | 3b69629   | adding Vue-Project | 23/04/2024         |
+| NexaLibery-Frontend                  | feature/userProfile      | 1e89482  | Add files via upload | 27/04/2024         |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 La ejecucion de la pagina fue atraves de la ram main en el repositorio NexaLibery-landingPage  donde main es la base principal que da funcionamiento a la pagina
 | Repository                             | Branch                     | Commit ID                                  | Commit Message            | Committed on(date) | 
 |----------------------------------------|----------------------------|--------------------------------------------|---------------------------|--------------------| 
-|  NexaLibery-Frontend                   |  main                      |                                    | Merge branch 'development |   01/05/24        | 
+|  NexaLibery-Frontend                   |  main                      |   655bed8                                  | Merge branch 'development |   01/05/24         | 
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
@@ -1071,9 +1073,9 @@ https://nexa-liberty-frontend.firebaseapp.com/login
 |Javier Murillo, Mathias           | Implementacion del componente libary y podcats       |    
 |Leon Rioja Carlos Andres          | Implementacion del component Multimedia and profile  |
 
-![Sprint review Team Collaboration Insights]() 
+![Sprint review Team Collaboration Insights](assets/Software-Evidence/TeamCollaborationInsightsTP.PNG) 
 
-![Sprint review Team Collaboration Insights]() 
+![Sprint review Team Collaboration Insights](assets/Software-Evidence/TeamCollaborationsTP.PNG) 
 
 
 # Conclusiones y recomendaciones.

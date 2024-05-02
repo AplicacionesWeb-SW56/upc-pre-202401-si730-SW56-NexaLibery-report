@@ -1052,8 +1052,53 @@ La ejecucion de la pagina fue atraves de la ram main en el repositorio NexaLiber
 
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
 Se hace referencia del link del [FrontendWebApplication](https://nexa-liberty-frontend.firebaseapp.com/login) en funcionamiento.
-Luego se referencian las vistas del landing page:
 
+- Log-In
+
+![LogIn-component](./assets/FrontendExecution/Login.PNG) 
+
+- Register
+
+![Register-component](./assets/FrontendExecution/Register.PNG) 
+
+- Pricing
+
+![Pricing-component](./assets/FrontendExecution/subcription.PNG) 
+
+- Methods Payment
+
+![MethodsPayment-component](./assets/FrontendExecution/methodspayment.PNG) 
+
+
+- Add Payment
+
+![AddPayment-components](./assets/FrontendExecution/addPayments.PNG) 
+
+
+- Menu
+
+![Menu-components](./assets/FrontendExecution/menu.PNG) 
+
+
+- Library
+
+![Library-components](./assets/FrontendExecution/library.PNG) 
+
+
+- Podcast
+
+![Podcast-components](./assets/FrontendExecution/Podcast.PNG) 
+
+
+- Multimedia
+
+![Multimedia-component](./assets/FrontendExecution/multimediat.PNG) 
+
+
+
+- User Profile
+
+![User-Profile-component](./assets/FrontendExecution/userProfile.PNG) 
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
@@ -1068,7 +1113,6 @@ PrimeVue: Suite de componentes de UI para Vue.js que facilita la creación de in
 Vue: Framework ligero para construir interfaces de usuario y aplicaciones de una sola página (SPA), conocido por su simplicidad y flexibilidad. https://vuejs.org/
 
 Firebase: Plataforma de Google que proporciona herramientas para el desarrollo rápido de aplicaciones web y móviles, ofreciendo funciones como bases de datos, autenticación y hosting. https://firebase.google.com/gad_source=1&gclid=CjwKCAjw88yxBhBWEiwA7cm6pRXSZrA5rERKwlktLqRrddWpoONIe7_OIgI-WLTAc0Fb4MY0dHNbdxoCjXMQAvD_BwE&gclsrc=aw.ds&hl=es-419
-
 
 
 https://nexa-liberty-frontend.firebaseapp.com/login

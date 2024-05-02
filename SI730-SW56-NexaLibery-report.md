@@ -1140,14 +1140,16 @@ Firebase: Plataforma de Google que proporciona herramientas para el desarrollo r
 - Primero probamos el build localmente antes de subirlo a Firebase
 ![Paso1](./assets/FirebaseIMG/paso1.PNG)
 
-- Despues instalamos el Firebase CLI para interactuar con Firebase desde la línea de comandos
 ![Paso1](./assets/FirebaseIMG/paso2.PNG)
+
+- Despues instalamos el Firebase CLI para interactuar con Firebase desde la línea de comandos
+![Paso1](./assets/FirebaseIMG/paso3.PNG)
 
 - Es necesario que tengamos una cuenta en [FireBase](https://firebase.google.com/?gad_source=1&gclid=CjwKCAjw88yxBhBWEiwA7cm6pWW3SGWgnKrEP_l-ODNAonRhDiVtc_CJVopR-rKlhmWPaRFjMT3JdxoCltEQAvD_BwE&gclsrc=aw.ds&hl=es-419) para subir el proyecto
 ![Paso1](./assets/FrontendExecution/Login.PNG)
 
 - Nos auntetificamos en Firebase e inicializamos el poryecto de Firebase:
-![LogIn-component](./assets/FrontendExecution/Login.PNG)
+![LogIn-component](![Paso1](./assets/FirebaseIMG/paso4.PNG))
 
 - Seleccionamos la opción Hosting al ser preguntado sobre qué características de Firebase que queremos configurar.Luego, elegimos el proyecto Firebase existente o nuevo al que deseamos conectar este proyecto local y Finalizamos con hacer que el directo de esta sea publico  ademas de configurar el archivo firebase.json y hacerle un deploy al hosting
 ![LogIn-component](./assets/FrontendExecution/Login.PNG)

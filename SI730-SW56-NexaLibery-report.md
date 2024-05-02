@@ -1016,13 +1016,23 @@ En este sprint, el equipo de NexaLiberty alcanzó con éxito las metas estableci
 #### 5.2.2.1. Sprint Planning 2.
 Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo definido y limitado en el que un equipo se dedica a completar todas las tareas necesarias para alcanzar el objetivo final del proyecto. En el caso del desarrollo de la aplicación MediaVerse, se optó por dividir el proyecto en tres sprints, cada uno con una duración de dieciocho días. El Sprint #2, que comienza el 24/04/2024, tiene como objetivo principal la creación de una página de inicio atractiva para MediaVerse, destinada a captar la atención de los usuarios y comunicar claramente los beneficios del producto.
 
-| Sprint # | Date       | Time  | Location        | Prepared By | Attendees |
-|----------|------------|-------|-----------------|-------------|-----------|
-| 2       | 01/05/2024 | 5:00pm| Reunión virtual a través de Discord | Raúl Quispe | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres |
+| Sprint #                 | Sprint 2                                                                                       |
+|--------------------------|------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**  |                                                                                                 |
+| Date                     | 01/05/2024                                                                                    |
+| Time                     | 5:00pm                                                                                    |
+| Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
+| Prepared By              |Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                                                                  |
+| Attendees (to planning meeting) | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                   |
+| **Pre-Sprint Review Summary**       | Durante la fase de preparación, hemos completado la partes que tendrá el landing page, hemos definido las herramientas para el desarrollo y hemos establecido un protocolo de comunicación interna. También hemos llevado a cabo una serie de reuniones de planificación para identificar las prioridades del producto, elaborar un backlog inicial y asignar roles dentro del equipo. Estos pasos han sentado una sólida base para iniciar nuestro primer Sprint con claridad en las expectativas y objetivos a alcanzar. |
+| **Initial Sprint  Retrospective Summary** | Al ser nuestro primer Sprint, no tenemos una retrospectiva tradicional para revisar. No obstante, hemos reflexionado sobre el proceso de inicio de nuestro equipo Agile. Durante nuestras sesiones iniciales, identificamos áreas de enfoque clave, como la mejora en la comunicación y la clarificación de roles dentro del equipo. Reconocemos la necesidad de establecer protocolos claros para la gestión de tareas y la resolución de conflictos. El equipo también acordó dedicar tiempo regularmente para talleres de reforzamiento del trabajo para asegurar que todos los miembros estén al día con los avances del proyecto que se den. Esta reflexión inicial nos ayudará a formar un marco de trabajo efectivo y eficiente para los próximos Sprints.|
+| **Sprint Goal & User Stories** |                                                                            |
+| Sprint 2 Goal             | El propósito de este Sprint es avanzar en la construcción de nuestra aplicación web de frontend. Nos enfocaremos en ofrecer una experiencia de usuario fluida y comprensible, desarrollando una interfaz amigable y fácil de manejar que facilite la navegación por el sistema. Este sprint se dedicará a implementar una aplicación informativa con un diseño intuitivo. |
+| Sprint 2 Velocity        | Para el Sprint 2, hemos estimado una velocidad de 49 Story Points. Esta estimación se basa en las horas laborales disponibles del equipo y en la complejidad y esfuerzo estimados de las historias de usuario seleccionadas para este periodo de desarrollo.|
+| Sum of Story Points     | 49 |
+| Sum of Story Points     | 28|
 
-| Sprint 2 Goal                                        | Sprint 1 Velocity | Sum of Story Points |
-|------------------------------------------------------|-------------------|---------------------|
-| Unir componentes y creacion del fakeapi              |      13           |      40             |
+
 
 #### 5.2.2.2. Sprint Backlog 2.
 # Sprint 2
@@ -1085,7 +1095,7 @@ Se hace referencia del link del [FrontendWebApplication](https://nexa-liberty-fr
 
 - Add Payment
 
-![AddPayment-components](./assets/FrontendExecution/addPayments.PNG) 
+![AddPayment-components](./assets/FrontendExecution/addPayment.PNG) 
 
 
 - Menu
@@ -1105,7 +1115,7 @@ Se hace referencia del link del [FrontendWebApplication](https://nexa-liberty-fr
 
 - Multimedia
 
-![Multimedia-component](./assets/FrontendExecution/multimediat.PNG) 
+![Multimedia-component](./assets/FrontendExecution/multimedia.PNG) 
 
 
 
@@ -1127,8 +1137,27 @@ Vue: Framework ligero para construir interfaces de usuario y aplicaciones de una
 
 Firebase: Plataforma de Google que proporciona herramientas para el desarrollo rápido de aplicaciones web y móviles, ofreciendo funciones como bases de datos, autenticación y hosting. https://firebase.google.com/gad_source=1&gclid=CjwKCAjw88yxBhBWEiwA7cm6pRXSZrA5rERKwlktLqRrddWpoONIe7_OIgI-WLTAc0Fb4MY0dHNbdxoCjXMQAvD_BwE&gclsrc=aw.ds&hl=es-419
 
+- Primero probamos el build localmente antes de subirlo a Firebase
+![LogIn-component](./assets/FrontendExecution/Login.PNG)
 
+- Despues instalamos el Firebase CLI para interactuar con Firebase desde la línea de comandos
+![LogIn-component](./assets/FrontendExecution/Login.PNG)
 
+- Es necesario que tengamos una cuenta en [FireBase](https://firebase.google.com/?gad_source=1&gclid=CjwKCAjw88yxBhBWEiwA7cm6pWW3SGWgnKrEP_l-ODNAonRhDiVtc_CJVopR-rKlhmWPaRFjMT3JdxoCltEQAvD_BwE&gclsrc=aw.ds&hl=es-419) para subir el proyecto
+![LogIn-component](./assets/FrontendExecution/Login.PNG)
+
+- Nos auntetificamos en Firebase e inicializamos el poryecto de Firebase:
+![LogIn-component](./assets/FrontendExecution/Login.PNG)
+
+- Seleccionamos la opción Hosting al ser preguntado sobre qué características de Firebase que queremos configurar.Luego, elegimos el proyecto Firebase existente o nuevo al que deseamos conectar este proyecto local y Finalizamos con hacer que el directo de esta sea publico  ademas de configurar el archivo firebase.json y hacerle un deploy al hosting
+![LogIn-component](./assets/FrontendExecution/Login.PNG)
+
+![LogIn-component](./assets/FrontendExecution/Login.PNG)
+
+![LogIn-component](./assets/FrontendExecution/Login.PNG)
+
+- Resultado final
+![LogIn-component](./assets/FrontendExecution/Login.PNG)
 
 https://nexa-liberty-frontend.firebaseapp.com/login
 

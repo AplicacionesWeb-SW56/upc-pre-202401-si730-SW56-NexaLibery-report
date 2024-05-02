@@ -37,6 +37,12 @@ Repositorio del reporte:
 Repositorio del Landing Page:
 [https://github.com/AplicacionesWeb-SW56/NexaLibery-landingPage](https://github.com/AplicacionesWeb-SW56/NexaLibery-landingPage)
 
+Repositorio del db.json en github:
+[https://github.com/MRamirez202210582/NexaLiberyApi](https://github.com/MRamirez202210582/NexaLiberyApi)
+
+Repositorio del Frontend Web Apliccations:
+[https://github.com/AplicacionesWeb-SW56/NexaLibery-Frontend](https://github.com/AplicacionesWeb-SW56/NexaLibery-Frontend)
+
 # Student Outcome
 | Criterio Específico                                          | Acciones Realizadas | Conclusiones          |
 |--------------------------------------------------------------|---------------------|-----------------------|
@@ -1053,7 +1059,7 @@ Luego se referencian las vistas del landing page:
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 ## Herramientas Utilizadas en el Desarrollo del Frontend web
 
-
+https://nexa-liberty-frontend.firebaseapp.com/login
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 | Alumno                           | Actividad                                  |          

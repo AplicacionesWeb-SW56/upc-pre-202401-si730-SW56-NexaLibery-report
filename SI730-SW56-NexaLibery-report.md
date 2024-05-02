@@ -1138,13 +1138,13 @@ Vue: Framework ligero para construir interfaces de usuario y aplicaciones de una
 Firebase: Plataforma de Google que proporciona herramientas para el desarrollo rápido de aplicaciones web y móviles, ofreciendo funciones como bases de datos, autenticación y hosting. https://firebase.google.com/gad_source=1&gclid=CjwKCAjw88yxBhBWEiwA7cm6pRXSZrA5rERKwlktLqRrddWpoONIe7_OIgI-WLTAc0Fb4MY0dHNbdxoCjXMQAvD_BwE&gclsrc=aw.ds&hl=es-419
 
 - Primero probamos el build localmente antes de subirlo a Firebase
-![LogIn-component](./assets/FrontendExecution/Login.PNG)
+![Paso1](./assets/FirebaseIMG/paso1.PNG)
 
 - Despues instalamos el Firebase CLI para interactuar con Firebase desde la línea de comandos
-![LogIn-component](./assets/FrontendExecution/Login.PNG)
+![Paso1](./assets/FirebaseIMG/paso2.PNG)
 
 - Es necesario que tengamos una cuenta en [FireBase](https://firebase.google.com/?gad_source=1&gclid=CjwKCAjw88yxBhBWEiwA7cm6pWW3SGWgnKrEP_l-ODNAonRhDiVtc_CJVopR-rKlhmWPaRFjMT3JdxoCltEQAvD_BwE&gclsrc=aw.ds&hl=es-419) para subir el proyecto
-![LogIn-component](./assets/FrontendExecution/Login.PNG)
+![Paso1](./assets/FrontendExecution/Login.PNG)
 
 - Nos auntetificamos en Firebase e inicializamos el poryecto de Firebase:
 ![LogIn-component](./assets/FrontendExecution/Login.PNG)

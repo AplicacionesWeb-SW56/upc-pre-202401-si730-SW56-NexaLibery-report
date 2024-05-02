@@ -1197,3 +1197,7 @@ De Quijano, F. D. (2024, 2 abril). La venta de libros digitales creció un 9% en
 
 Video Grbacion TB1:
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYXxGwNagKZCvauw2GAnB-UBiCFuxF0Bq0Ln0o6oKrcGxA?e=meG7X1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYXxGwNagKZCvauw2GAnB-UBiCFuxF0Bq0Ln0o6oKrcGxA?e=oes3YM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+Video Grbacion TP:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EUj0JK-wd9tGgEcBm7_ss4gBnz-8Z5WOsNxxHMBqkrMlDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ccMYpE](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EUj0JK-wd9tGgEcBm7_ss4gBnz-8Z5WOsNxxHMBqkrMlDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ccMYpE)
+

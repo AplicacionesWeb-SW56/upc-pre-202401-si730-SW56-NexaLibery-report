@@ -1051,16 +1051,25 @@ La ejecucion de la pagina fue atraves de la ram main en el repositorio NexaLiber
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review. 
-Se hace referencia del link del [FrontendWebApplication](https://nexa-libery-landing-page.vercel.app) en funcionamiento.
+Se hace referencia del link del [FrontendWebApplication](https://nexa-liberty-frontend.firebaseapp.com/login) en funcionamiento.
 Luego se referencian las vistas del landing page:
 
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
-
+En este sprint 2 los miembros del grupo completaron satisfactoriamente las tareas propuestas. El sprint 2 estuvo relacionado mayormente con el diseño y desarrollo del front-end de la aplicacion. A lo largo del desarrollo se hizo el ruteo de cada compoente y la creacion de nuestro archivo db.json 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 ## Herramientas Utilizadas en el Desarrollo del Frontend web
+Para alcanzar exitosamente los objetivos de este Sprint 2 el equipo tuvo que documentarse sobre las tecnologías que se iban a implementar. Es por ello que a continuación se detalla la documentación a la que se acudió:
+
+PrimeVue: Suite de componentes de UI para Vue.js que facilita la creación de interfaces visuales ricas y dinámicas. https://primevue.org
+
+Vue: Framework ligero para construir interfaces de usuario y aplicaciones de una sola página (SPA), conocido por su simplicidad y flexibilidad. https://vuejs.org/
+
+Firebase: Plataforma de Google que proporciona herramientas para el desarrollo rápido de aplicaciones web y móviles, ofreciendo funciones como bases de datos, autenticación y hosting. https://firebase.google.com/gad_source=1&gclid=CjwKCAjw88yxBhBWEiwA7cm6pRXSZrA5rERKwlktLqRrddWpoONIe7_OIgI-WLTAc0Fb4MY0dHNbdxoCjXMQAvD_BwE&gclsrc=aw.ds&hl=es-419
+
+
 
 https://nexa-liberty-frontend.firebaseapp.com/login
 

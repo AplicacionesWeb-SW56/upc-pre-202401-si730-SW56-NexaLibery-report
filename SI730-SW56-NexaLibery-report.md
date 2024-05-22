@@ -857,7 +857,7 @@ Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributo
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-<img src="assets/NexaLibery-Database.png" alt="Base de datos" style="width:80%;">
+<img src="assets/Database.png" alt="Base de datos" style="width:80%;">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.

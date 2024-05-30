@@ -1174,6 +1174,23 @@ https://nexa-liberty-frontend.firebaseapp.com/login
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
+Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo definido y limitado en el que un equipo se dedica a completar todas las tareas necesarias para alcanzar el objetivo final del proyecto. En el caso del desarrollo de la aplicación MediaVerse, se optó por dividir el proyecto en tres sprints, cada uno con una duración de dieciocho días. El Sprint #2, que comienza el 24/04/2024, tiene como objetivo principal la creación de una página de inicio atractiva para MediaVerse, destinada a captar la atención de los usuarios y comunicar claramente los beneficios del producto.
+
+| Sprint #                 | Sprint 3                                                                                       |
+|--------------------------|------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**  |                                                                                                 |
+| Date                     | 27/05/2024                                                                                    |
+| Time                     | 5:00pm                                                                                    |
+| Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
+| Prepared By              |Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                                                                  |
+| Attendees (to planning meeting) | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                   |
+| **Pre-Sprint Review Summary**       | Durante el 3 sprint, hemos completado la partes que tendrá el services API y definimos las herramientas para el desarrollo de esta. También hemos llevado a cabo una serie de reuniones de planificación para unir las api sobre lso fakeAPI creados . |
+| **Initial Sprint  Retrospective Summary** | Para el segundo sprint decidimos corregir algunas cosas de la entrega anterior y pensar bien en la creacion de nuestra frontend web applications.|
+| **Sprint Goal & User Stories** |                                                                            |
+| Sprint 2 Goal             | El propósito de este Sprint es avanzar en la construcción de nuestro services API. Nos enfocaremos en ofrecer una experiencia de usuario fluida y comprensible, desarrollando una interfaz amigable y fácil de manejar que facilite la navegación por el sistema. Este sprint se dedicará a implementar una aplicación informativa con un diseño intuitivo. |
+| Sprint 2 Velocity        | Para el Sprint 3, hemos estimado una velocidad de  Story Points. Esta estimación se basa en las horas laborales disponibles del equipo y en la complejidad y esfuerzo estimados de las historias de usuario seleccionadas para este periodo de desarrollo.|
+| Sum of Story Points     |  |
+
 #### 5.2.3.2. Sprint Backlog 3
 #### 5.2.3.3. Development Evidence for Sprint Review
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review

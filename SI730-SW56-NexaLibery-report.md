@@ -1201,8 +1201,27 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada a los servicios web desplegados (BackEnd), se considera una segunda parte de entrevistas, en la cual se busca validar la experiencia de usuario y la funcionalidad de la aplicación. Para ello, se plantean las siguientes preguntas:
+
+**Preguntas generales:**
+1. ¿Cuál es su nombre? 
+2. ¿Qué edad tiene? 
+3. ¿A qué se dedica? 
+
+**Preguntas a los usuarios y estudiantes:**
+1. ¿Qué opina sobre el diseño de la aplicación?
+2. ¿Encuentra la aplicación intuitiva y fácil de usar?
+3. ¿Cómo evalúa la navegación entre diferentes vistas? ¿Le resulta sencilla?
+4. ¿Considera que las vistas cubren todos los aspectos necesarios para gestionar su experiencia en la apgina?
+5. ¿Cuál cree que es el principal punto fuerte de la aplicación?
+6. ¿De qué manera cree que la plataforma podría beneficiarle?
+7. ¿La aplicación proporciona toda la información necesaria a través de los distintos botones y opciones?
+8. ¿Estaría interesado en suscribirse al plan de NexaLibery?
+   
 ### 5.3.2. Registro de Entrevistas
+
 ### 5.3.3. Evaluaciones según heurísticas
+
 ## 5.4. Video About-the-Product
 
 

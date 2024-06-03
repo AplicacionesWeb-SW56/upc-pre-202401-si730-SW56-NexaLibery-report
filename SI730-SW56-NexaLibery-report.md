@@ -1178,9 +1178,9 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 | Sprint #                 | Sprint 3                                                                                       |
 |--------------------------|------------------------------------------------------------------------------------------------|
-| **Sprint Planning Background**  |                                                                                                 |
-| Date                     | 27/05/2024                                                                                    |
-| Time                     | 5:00pm                                                                                    |
+| **Sprint Planning Background**  |                                                                                         |
+| Date                     | 27/05/2024                                                                                     |
+| Time                     | 5:00pm                                                                                         |
 | Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
 | Prepared By              |Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                                                                  |
 | Attendees (to planning meeting) | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                   |
@@ -1193,6 +1193,13 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 #### 5.2.3.2. Sprint Backlog 3
 #### 5.2.3.3. Development Evidence for Sprint Review
+
+|     Repository    |         Branch         |    Commit Id    |     Commit Message     | Commit Message Body | Commited on (Date) | 
+|-------------------|------------------------|-----------------|------------------------|---------------------|-------------------|
+|     a             |   feature/Multimedia   |     e0c07af     | fix: Update Multimedia | fix:  | a | 
+|     a             |     feature/Podcast    |     2e02fa8     |  fix: Update Podcast   | fix:  | a |
+|     a             |     feature/Library    |     9a2f41d     |  fix: Update Library   | fix:  | a |
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 #### 5.2.3.5. Execution Evidence for Sprint Review
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review

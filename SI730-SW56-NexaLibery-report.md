@@ -1194,11 +1194,11 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 #### 5.2.3.2. Sprint Backlog 3
 #### 5.2.3.3. Development Evidence for Sprint Review
 
-|     Repository    |         Branch         |    Commit Id    |     Commit Message     | Commit Message Body | Commited on (Date) | 
-|-------------------|------------------------|-----------------|------------------------|---------------------|-------------------|
-|     a             |   feature/Multimedia   |     e0c07af     | fix: Update Multimedia | fix:  | a | 
-|     a             |     feature/Podcast    |     2e02fa8     |  fix: Update Podcast   | fix:  | a |
-|     a             |     feature/Library    |     9a2f41d     |  fix: Update Library   | fix:  | a |
+|     Repository    |         Branch         |                     Commit Id                    |     Commit Message     |    Commit Message Body   | Commited on (Date) | 
+|-------------------|------------------------|--------------------------------------------------|------------------------|--------------------------|--------------------|
+|     a             |   feature/Multimedia   |     4be8286d29324745ce0d9ffde3805a67e09a7491     | fix: Update Multimedia |  fix: Update Multimedia  |      30/05/24      | 
+|     a             |     feature/Podcast    |     2e02fa8c125148cbd601a58315186324958e56aa     |  fix: Update Podcast   |   fix: Update Podcast    |      29/05/24      |
+|     a             |     feature/Library    |     04d169b9494d2f13ca3d935c650edf0dd00d88b3     |  fix: Update Library   |   fix: Update Library    |      29/05/24      |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 #### 5.2.3.5. Execution Evidence for Sprint Review

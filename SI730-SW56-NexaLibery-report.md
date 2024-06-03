@@ -1201,14 +1201,14 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 | User Story |       |  Work-Item/Task  |             |            |             |
 |------------|-------|------------------|-------------|------------|-------------|
 |    ID      | Title |        ID        | Description | Estimation | Assigned To | Status      |
-| HU05       | Desarrollo de motor de recomendación | W102 | Implementación del algoritmo para generar recomendaciones basadas en el historial de consumo del usuario | 10 horas | Renzo Javier Loli Ruiz | Done |
-| HU08       | Integración con sistema de verificación estudiantil | W103 | Integrar un sistema de verificación de estatus estudiantil para otorgar descuentos | 7 horas | Javier Murillo Mathias | Done |
-| HU09       | Desarrollo de la sección Libreria | W101 | Desarrollo del código base HTML para detallar las diferentes libros de estudio y/o interés disponibles | 8 horas | Javier Murillo Mathias | Done |
-| HU10       | Desarrollo de la sección Suscripciones | W104 | Desarrollo del código base HTML para detallar las diferentes opciones de suscripción disponibles | 8 horas | Renzo Javier Loli Ruiz | Done |
-| HU18       | Implementación del formulario de registro | W105 | Desarrollo del código para el formulario de registro, incluyendo validaciones de campo para crear el perfil del usuario | 6 horas | Ramirez Ramirez Marcelo Sebastian | Done |
-| HU19       | Desarrollo de la interfaz de tarjeta de crédito | W106 | Implementación de la interfaz para añadir información de tarjeta de crédito en el perfil del usuario | 5 horas | Renzo Javier Loli Ruiz | To Do |
-| HU20       | Desarrollo de funcionalidad de recuperación de contraseña | W107 | Desarrollo de la funcionalidad para recuperar la contraseña mediante correo electrónico | 6 horas | Ramirez Ramirez Marcelo Sebastian | Done |
-| HU23       | Desarrollo de sistema de notificaciones personalizadas | W110 | Implementación de un sistema para enviar notificaciones personalizadas a los usuarios | 8 horas | Quispe Erasmo, Raúl Ronaldo | To Do |
+| HU23       | Registrar nuevo contenido en la biblioteca multimedia | W111 | Desarrollar la funcionalidad para que los administradores puedan registrar nuevo contenido multimedia en la biblioteca de la plataforma. | 8 horas | Renzo Javier Loli Ruiz | To Do |
+| HU24       | Obtener datos de la biblioteca multimedia y podcasts | W112 | Desarrollar la funcionalidad para obtener datos de la biblioteca multimedia y podcasts y mostrarlos en la aplicación. | 6 horas | Raúl Ronaldo Quispe Erasmo | To Do |
+| HU25       | Configuración inicial del servidor backend | W112 | Realizar la configuración inicial del servidor backend para garantizar un entorno de ejecución estable y seguro para la aplicación web. | 10 horas | Renzo Javier Loli Ruiz | To Do |
+| HU26       | Integración de base de datos | W113 | Integrar la base de datos con el servidor para almacenar y gestionar los datos de manera eficiente. | 8 horas   | Javier Murillo Mathias | To Do |
+| HU27       | Configuración de logging y monitoreo | W114 | Configurar sistemas de logging y monitoreo para supervisar el rendimiento y estado del servidor backend de manera proactiva. | 8 horas   | Ramirez Ramirez Marcelo Sebastian | To Do |
+
+
+
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 

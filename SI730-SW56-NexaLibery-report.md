@@ -30,6 +30,8 @@
 | 1.7 | 22/04/2024 | Grupo 4 | Reparticpion de componentes |
 | 1.8 | 04/04/2024 | Grupo 4 | Avance Frontend |
 | 1.9 | 04/04/2024 | Grupo 4 | Inform Sprint 2 |
+| 2.0 | 27/05/2024 | Grupo 4 | Backend |
+| 1.9 | 04/04/2024 | Grupo 4 | Avance informe Sprint 3 |
 # Project Report Collaboration Insights
 Repositorio del reporte:
 [https://github.com/AplicacionesWeb-SW56/upc-pre-202401-si730-SW56-NexaLibery-report](https://github.com/AplicacionesWeb-SW56/upc-pre-202401-si730-SW56-NexaLibery-report)
@@ -42,6 +44,9 @@ Repositorio del db.json en github:
 
 Repositorio del Frontend Web Apliccations:
 [https://github.com/AplicacionesWeb-SW56/NexaLibery-Frontend](https://github.com/AplicacionesWeb-SW56/NexaLibery-Frontend)
+
+Repositorio del Backend:
+[https://github.com/AplicacionesWeb-SW56/NexaLibery-Backend](https://github.com/AplicacionesWeb-SW56/NexaLibery-Backend)
 
 # Student Outcome
 | Criterio Específico                                          | Acciones Realizadas | Conclusiones          |

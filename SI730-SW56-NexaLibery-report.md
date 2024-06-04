@@ -1208,21 +1208,47 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 | HU27       | Configuración de logging y monitoreo | W114 | Configurar sistemas de logging y monitoreo para supervisar el rendimiento y estado del servidor backend de manera proactiva. | 8 horas   | Ramirez Ramirez Marcelo Sebastian | To Do |
 
 
-
-
 #### 5.2.3.3. Development Evidence for Sprint Review
 
-|                         Repository                         |         Branch         |                     Commit Id                    |     Commit Message     |    Commit Message Body   | Commited on (Date) | 
-|------------------------------------------------------------|------------------------|--------------------------------------------------|------------------------|--------------------------|--------------------|
-|                                                            |   feature/Multimedia   |     4be8286d29324745ce0d9ffde3805a67e09a7491     | fix: Update Multimedia |  fix: Update Multimedia  |      30/05/24      | 
-| https://github.com/AplicacionesWeb-SW56/NexaLibery-Backend |     feature/Podcast    |     2e02fa8c125148cbd601a58315186324958e56aa     |  fix: Update Podcast   |   fix: Update Podcast    |      29/05/24      |
-|                                                            |     feature/Library    |     04d169b9494d2f13ca3d935c650edf0dd00d88b3     |  fix: Update Library   |   fix: Update Library    |      29/05/24      |
+|                         Repository                         |         Branch         |                     Commit Id                    |     Commit Message                              | Commited on (Date) | 
+|------------------------------------------------------------|------------------------|--------------------------------------------------|-------------------------------------------------|--------------------|
+| NexaLibery-Backend                                         |    feature/Multimedia  |     e0c07afc5d3944aa37b227f3df5b295ec84a4b20     |  Add files Multimedia                           |      30/05/24      | 
+| NexaLibery-Backend                                         |    feature/Podcast     |     9be1f3a8584f552860562ef361e799887f1dc1b8     |  Add files Podcast                              |      02/06/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     04d169b9494d2f13ca3d935c650edf0dd00d88b3     |  feature Multimedia/application/internal files  |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     3f25f0b20fd27e1a316096dba00d9d627dd915f0     |  feature Domain/model/Aggregate                 |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     4ed417b23ce93a430cc5f7f7a096c05aefb24d2b     |  feature files Commands and Queries             |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     9598b37886a4eb54ab1f3d764266154edffa5292     |  feature files Interfaces Library               |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     b4563ce2a70480b4f21e152f59120cb072ecab76     |  feature repositories                           |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     1394b6f2209354e20582595898e311331b97b21b     |  feature resources files                        |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     706c73b2f4831d47628a01373a9a78e747b4097c     |  files transform and controller                 |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     7fee1d094c72f0c4483aeb156c77c0654e8b93e0     |  Update AppDbContext.cs                         |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     9a2f41dab42739a1a4746bcdffc4bfc86c3baa4e     |  settings Program.cs                            |      29/05/24      |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+| Repository                             | Branch                     | Commit ID                                  | Commit Message                                     | Committed on(date) | 
+|----------------------------------------|----------------------------|--------------------------------------------|----------------------------------------------------|--------------------| 
+|  NexaLibery-Frontend                   |  main                      |   648563cdc5a5cc30da3cc464c4a033520bc65ec9 | Feature files command services                     |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   e579831423684396cf1036b777ff4375727f20c4 | feature files queryService                         |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   1b6a05647e78feded17c9bd18f19b4b32ceff50f | feature model aggregates                           |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   9bee4cc1677b54395a1c74ea810b5930416718d1 | feature model commands                             |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   4daf621fe3baee07bafe202d3d79dfbe70513133 | feature interfaces repository command and services |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   da00ccc445e41e2046b5b57a4231271f7973c761 | feature files repositories                         |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   adb8c761edf8db61514ef84e82bbd0004fe778c3 | feature files resource                             |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   c53cd4f65cedc26ebb2d4d8b65a7c4f11b302ff3 | feature files transform                            |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   d8fd05895d7b9809885066444038006163e6e164 | feature files controllers                          |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   8b54cf975e7bee1725a68b4df70a08470b1d5de2 | Upload files AppDbcontext and Programns.cs         |   02/06/24         | 
+
 #### 5.2.3.5. Execution Evidence for Sprint Review
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+| Alumno                           | Actividad                                  |          
+|----------------------------------|--------------------------------------------|
+|Loli Ruiz, Renzo Javier           | Implementacion de una nueva version del frontend y conexion del backend |                                           
+|Quispe Erasmo, Raúl Ronaldo       | Desarrollo del backend en development  |    
+|Ramirez Ramirez, Marcelo Sebastian| Implementacion del endpoint Library     |    
+|Javier Murillo, Mathias           | Implementacion del endpoint Multimedia Content         |    
+|Leon Rioja Carlos Andres          | Implementacion del endpoint Podcast |
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas

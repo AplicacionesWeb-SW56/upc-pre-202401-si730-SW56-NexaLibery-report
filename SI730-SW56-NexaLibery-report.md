@@ -707,9 +707,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
    
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
-<img src="assets/Diagram Class.PNG" alt="Diagrama clase" style="width:80%;">
+<img src="assets/Diagram Class V2.PNG" alt="Diagrama clase" style="width:80%;">
 ### 4.7.2. Class Dictionary.
 ## 1. Usuarios
 **Descripción**: Representa a cada persona que se registra y utiliza la plataforma. Incluye información personal básica, así como detalles de su cuenta como el email y contraseña.

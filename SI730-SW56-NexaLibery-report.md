@@ -1286,7 +1286,7 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 - Se despliega en Render.com
 - Se necesita de una cuenta
 - Se hace click en new y en servicio web
-![Nuevo Servicio](assets/SoftwareDeployment-5.2.3.7-new_service.png.png)
+![Nuevo Servicio](assets/SoftwareDeployment-5.2.3.7-new_service.png)
 - Se selecciona la seecion de github para la integracion con el repositorio del proyecto
 ![Servicio Github](assets/SoftwareDeployment-5.2.3.7-github_service.png)
 - Se selecciona el repositorio a utilizar

@@ -576,6 +576,12 @@ As Is:
 | 20 | HU20 | Opción de recuperar contraseña     | "Como usuario, deseo tener la opción de recuperar mi contraseña olvidada para poder acceder nuevamente a mi cuenta."             | 3 | 
 | 21 | HU21 | Acceso al material de biblioteca   | "Como usuario, deseo acceder a materiales de la biblioteca para aprovechar los recursos educativos y de entretenimiento."        | 4 | 
 | 22 | HU22 | Acceso a multimedia y podcasts     | "Como usuario, deseo acceder a contenido multimedia y podcasts para disfrutar de una variedad de formatos de entretenimiento."   | 3 | 
+| 23 | HU23 | Registrar nuevo contenido en la biblioteca multimedia | "Como administrador del sistema, deseo poder registrar nuevo contenido multimedia y podcasts en la biblioteca para mantenerla actualizada y ofrecer una amplia variedad de opciones a los usuarios." | 4 |
+| 24 | HU24 | Obtener datos de la biblioteca multimedia y podcasts     | "Como usuario de la plataforma, deseo poder buscar y obtener información detallada sobre el contenido disponible en la biblioteca multimedia y podcasts para encontrar fácilmente lo que me interesa." | 3 |
+| 25 | HU25 | Configuración inicial del servidor backend | "Como administrador del sistema, necesito realizar la configuración inicial del servidor backend para garantizar un entorno de ejecución estable y seguro para la aplicación web." | 4 |
+| 26 | HU26 | Integración de base de datos | "Como desarrollador de backend, debo integrar la base de datos con el servidor para almacenar y gestionar los datos de la aplicación web de manera eficiente." | 5 |
+| 27 | HU27 | Configuración de logging y monitoreo | "Como administrador del sistema, debo configurar sistemas de logging y monitoreo para supervisar el rendimiento y el estado del servidor backend y detectar y solucionar problemas de manera proactiva." | 4 |
+
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
@@ -1273,10 +1279,16 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 8. ¿Estaría interesado en suscribirse al plan de NexaLibery?
    
 ### 5.3.2. Registro de Entrevistas
-**Entrevista 1 (realizada por ):**<br>
-**Nombre:** 
-**Edad:** 
-**Ocupación:**
+**Entrevista 1 (realizada por Marcelo Ramirez):**<br>
+**Nombre:** Maria Teresa Ramirez
+**Edad:** 52 años 
+**Ocupación:** Administradora de emrpesas 
+<div style="display:flex;justify-content:center">
+<img src="../assets/" alt="Entrevista a " style="width:80%;">
+</div>
+
+Maria teresa considera que la aplicación NexaLibery es bastante interesante por el contenido que presenta y la forma en que lo ofrece. Encuentra la aplicación intuitiva, didáctica, sencilla de usar y agradable a la vista. Evalúa la navegación entre diferentes vistas como sencilla, dinámica y de fácil acceso para la búsqueda.Opina que las vistas cubren todos los aspectos necesarios para gestionar su experiencia en la página, ya que cada vista ofrece claridad y profundidad. Para Maria teresa , el principal punto fuerte de la aplicación es el amplio contenido que ofrece, combinado con un diseño llamativo y una navegación fácil.La plataforma podría beneficiarle personalmente debido a su amplio contenido en materias de su interés profesional y laboral. Le ayudaría a usar los accesos a videos tutoriales para aprender y disfrutar de una gran variedad de libros en su tiempo libre.Maria teresa también cree que la aplicación proporciona toda la información necesaria a través de los distintos botones y opciones, permitiendo encontrar con facilidad lo que busca y ofreciendo un amplio panorama de sugerencias útiles. Finalmente, muestra un alto interés en suscribirse al plan de NexaLibery, especialmente al paquete premium, que ofrece una amplia variedad de usos.
+
 
 <div style="display:flex;justify-content:center">
 <img src="../assets/" alt="Entrevista a " style="width:80%;">

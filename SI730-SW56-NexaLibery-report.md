@@ -1273,8 +1273,41 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 8. ¿Estaría interesado en suscribirse al plan de NexaLibery?
    
 ### 5.3.2. Registro de Entrevistas
+**Entrevista 1 (realizada por ):**<br>
+**Nombre:** 
+**Edad:** 
+**Ocupación:**
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/" alt="Entrevista a " style="width:80%;">
+</div>
+
+**Entrevista 2 (realizada por ):**<br>
+**Nombre:** 
+**Edad:** 
+**Ocupación:**
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/" alt="Entrevista a " style="width:80%;">
+</div>
+
+**Entrevista 3 (realizada por ):**<br>
+**Nombre:** 
+**Edad:** 
+**Ocupación:**
+
+<div style="display:flex;justify-content:center">
+<img src="../assets/" alt="Entrevista a " style="width:80%;">
+</div>
 
 ### 5.3.3. Evaluaciones según heurísticas
+Con base en diversas opiniones recogidas durante las entrevistas a clientes empresariales y técnicos afiliados, se ha determinado lo siguiente:
+-La aplicación destaca por su facilidad de uso y su diseño intuitivo.
+-La navegación es fluida, permitiendo a los usuarios cambiar de una vista a otra sin dificultad.
+-Cada vista proporciona toda la información necesaria de cada librerua.
+-La sección de foros se considera un punto sobresaliente, ya que facilita la interacción y la resolución de dudas entre los usuarios.
+-La información presentada en la aplicación es clara y completa.
+-La mayoría de los entrevistados se muestran dispuestos a suscribirse o registrarse en NexaLibery.
 
 ## 5.4. Video About-the-Product
 

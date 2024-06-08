@@ -1198,23 +1198,23 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 | Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
 | Prepared By              |Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                                                                  |
 | Attendees (to planning meeting) | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                   |
-| **Pre-Sprint Review Summary**       | Durante el 3 sprint, hemos completado la partes que tendrá el services API y definimos las herramientas para el desarrollo de esta. También hemos llevado a cabo una serie de reuniones de planificación para unir las api sobre lso fakeAPI creados . |
-| **Initial Sprint  Retrospective Summary** | Para el segundo sprint decidimos corregir algunas cosas de la entrega anterior y pensar bien en la creacion de nuestra frontend web applications.|
+| **Pre-Sprint Review Summary**       | Durante el 3 sprint, hemos completado la partes que tendrá el services API y definimos las herramientas para el desarrollo de esta. También hemos llevado a cabo una serie de reuniones de planificación para unir las api sobre los fakeAPI creados . |
+| **Initial Sprint  Retrospective Summary** | Para el tercer sprint decidimos corregir algunas cosas de la entrega anterior y pensar como subir nuestro backend a la nube.|
 | **Sprint Goal & User Stories** |                                                                            |
 | Sprint 2 Goal             | El propósito de este Sprint es avanzar en la construcción de nuestro services API. Nos enfocaremos en ofrecer una experiencia de usuario fluida y comprensible, desarrollando una interfaz amigable y fácil de manejar que facilite la navegación por el sistema. Este sprint se dedicará a implementar una aplicación informativa con un diseño intuitivo. |
-| Sprint 2 Velocity        | Para el Sprint 3, hemos estimado una velocidad de  Story Points. Esta estimación se basa en las horas laborales disponibles del equipo y en la complejidad y esfuerzo estimados de las historias de usuario seleccionadas para este periodo de desarrollo.|
-| Sum of Story Points     |  |
+| Sprint 2 Velocity        | Para el Sprint 3, hemos estimado una velocidad de 20 Story Points. Esta estimación se basa en las horas laborales disponibles del equipo y en la complejidad y esfuerzo estimados de las historias de usuario seleccionadas para este periodo de desarrollo.|
+| Sum of Story Points     | 20 |
 
 #### 5.2.3.2. Sprint Backlog 3
 
 | User Story |       |  Work-Item/Task  |             |            |             |
 |------------|-------|------------------|-------------|------------|-------------|
 |    ID      | Title |        ID        | Description | Estimation | Assigned To | Status      |
-| HU23       | Registrar nuevo contenido en la biblioteca multimedia | W111 | Desarrollar la funcionalidad para que los administradores puedan registrar nuevo contenido multimedia en la biblioteca de la plataforma. | 8 horas | Renzo Javier Loli Ruiz | To Do |
-| HU24       | Obtener datos de la biblioteca multimedia y podcasts | W112 | Desarrollar la funcionalidad para obtener datos de la biblioteca multimedia y podcasts y mostrarlos en la aplicación. | 6 horas | Raúl Ronaldo Quispe Erasmo | To Do |
-| HU25       | Configuración inicial del servidor backend | W112 | Realizar la configuración inicial del servidor backend para garantizar un entorno de ejecución estable y seguro para la aplicación web. | 10 horas | Renzo Javier Loli Ruiz | To Do |
-| HU26       | Integración de base de datos | W113 | Integrar la base de datos con el servidor para almacenar y gestionar los datos de manera eficiente. | 8 horas   | Javier Murillo Mathias | To Do |
-| HU27       | Configuración de logging y monitoreo | W114 | Configurar sistemas de logging y monitoreo para supervisar el rendimiento y estado del servidor backend de manera proactiva. | 8 horas   | Ramirez Ramirez Marcelo Sebastian | To Do |
+| HU23       | Registrar nuevo contenido en la biblioteca multimedia | W111 | Desarrollar la funcionalidad para que los administradores puedan registrar nuevo contenido multimedia en la biblioteca de la plataforma. | 8 horas | Renzo Javier Loli Ruiz | Done |
+| HU24       | Obtener datos de la biblioteca multimedia y podcasts | W112 | Desarrollar la funcionalidad para obtener datos de la biblioteca multimedia y podcasts y mostrarlos en la aplicación. | 6 horas | Raúl Ronaldo Quispe Erasmo | Done |
+| HU25       | Configuración inicial del servidor backend | W112 | Realizar la configuración inicial del servidor backend para garantizar un entorno de ejecución estable y seguro para la aplicación web. | 10 horas | Renzo Javier Loli Ruiz | Done |
+| HU26       | Integración de base de datos | W113 | Integrar la base de datos con el servidor para almacenar y gestionar los datos de manera eficiente. | 8 horas   | Javier Murillo Mathias | Done |
+| HU27       | Configuración de logging y monitoreo | W114 | Configurar sistemas de logging y monitoreo para supervisar el rendimiento y estado del servidor backend de manera proactiva. | 8 horas   | Ramirez Ramirez Marcelo Sebastian | Done |
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review
@@ -1377,16 +1377,11 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 **Edad:** 52 años 
 **Ocupación:** Administradora de emrpesas 
 <div style="display:flex;justify-content:center">
-<img src="../assets/" alt="Entrevista a " style="width:80%;">
+<img src="../assets/" alt="Entrevista a Maria teresa" style="width:80%;">
 </div>
 https://youtu.be/hLfBnWDhMss
 <br>
 Maria teresa considera que la aplicación NexaLibery es bastante interesante por el contenido que presenta y la forma en que lo ofrece. Encuentra la aplicación intuitiva, didáctica, sencilla de usar y agradable a la vista. Evalúa la navegación entre diferentes vistas como sencilla, dinámica y de fácil acceso para la búsqueda.Opina que las vistas cubren todos los aspectos necesarios para gestionar su experiencia en la página, ya que cada vista ofrece claridad y profundidad. Para Maria teresa , el principal punto fuerte de la aplicación es el amplio contenido que ofrece, combinado con un diseño llamativo y una navegación fácil.La plataforma podría beneficiarle personalmente debido a su amplio contenido en materias de su interés profesional y laboral. Le ayudaría a usar los accesos a videos tutoriales para aprender y disfrutar de una gran variedad de libros en su tiempo libre.Maria teresa también cree que la aplicación proporciona toda la información necesaria a través de los distintos botones y opciones, permitiendo encontrar con facilidad lo que busca y ofreciendo un amplio panorama de sugerencias útiles. Finalmente, muestra un alto interés en suscribirse al plan de NexaLibery, especialmente al paquete premium, que ofrece una amplia variedad de usos.
-
-
-<div style="display:flex;justify-content:center">
-<img src="../assets/" alt="Entrevista a " style="width:80%;">
-</div>
 
 **Entrevista 2 (realizada por ):**<br>
 **Nombre:** 

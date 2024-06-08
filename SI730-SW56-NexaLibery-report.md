@@ -1302,7 +1302,7 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 - Se da en created service
 ![Crear Servicio](assets/SoftwareDeployment-5.2.3.7-created_service_button.png)
 - Para este punto ya debe estar en "deploying" el servicio de logs
-
+![Logs](assets/SoftwareDeployment-5.2.3.7-log_successfull.png)
 - URL: https://nexalibery-backend.onrender.com/
 
 3) Frontend Deploy

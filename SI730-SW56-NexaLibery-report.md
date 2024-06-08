@@ -1262,6 +1262,84 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 | `/signup` | Registrarse | POST | `/signup` | `{"email":"string","password":"string"}` |`{"accessToken":"string"}` |
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+1) Database Deploy
+
+- Se uso Mysql como motor base
+- Se hace uso de aiven.io como servicio 
+- Se necesita de una cuenta 
+- Se genera un nuevo servicio
+- Se elige el motor a usar "mysql" para nosotros
+![Nuevo Servicio](assets/SoftwareDeployment-5.2.3.7-create_service.png) 
+- Se escoje el plan gratuito
+![Plan Gratuito](assets/SoftwareDeployment-5.2.3.7-free_version.png)
+- Se da en Crear Servicio para finalizar
+![Finalizando Creacion](assets/SoftwareDeployment-5.2.3.7-created_service.png)
+- Al hacer click en el servicio generado, se puede visualizar las variables necesarias para la cadena de conexion
+![Variables y Cadena](assets/SoftwareDeployment-5.2.3.7-variables_connection.png)
+
+- URL: https://nexalibery-userauth.onrender.com
+
+2) Backend Deploy
+
+- Se usa ASP Core
+- Se despliega en Render.com
+- Se necesita de una cuenta
+- Se hace click en new y en servicio web
+![Nuevo Servicio](assets/SoftwareDeployment-5.2.3.7-new_service.png.png)
+- Se selecciona la seecion de github para la integracion con el repositorio del proyecto
+![Servicio Github](assets/SoftwareDeployment-5.2.3.7-github_service.png)
+- Se selecciona el repositorio a utilizar
+![Seleccionar Repo](assets/SoftwareDeployment-5.2.3.7-select_repo.png)
+- Las unicas cofiguraciones seran
+- añadir la carpeta por defecto "NexaLibery-Backend.API"
+![Carpeta Principal](assets/SoftwareDeployment-5.2.3.7-src_render.png)
+- Se usara "Docker" como runtime
+- Se usara la version gratuita
+![Backend Version Gratuita](assets/SoftwareDeployment-5.2.3.7-free_backend.png)
+- Se configuran las variables de entorno para que el backend dentro del docker funcione con la base de datos generada
+![Environment](assets/SoftwareDeployment-5.2.3.7-environment.png)
+- Se da en created service
+![Crear Servicio](assets/SoftwareDeployment-5.2.3.7-created_service_button.png)
+- Para este punto ya debe estar en "deploying" el servicio de logs
+
+- URL: https://nexalibery-backend.onrender.com/
+
+3) Frontend Deploy
+
+- Primero creamos el proyecto en la consola de firebase en la seccion "hosting"
+- Hacemos el build 
+
+``` bash
+npm build
+```
+
+- Instalamos los fire-tools
+
+``` bash
+npm -g install firebase-tools
+```
+
+- Nos logueamos
+
+``` bash
+firebase login
+```
+
+- Iniciamos una conexion con firebase y la configuracion del despliegue donde estaran el tipo de subida al servicio y la carpeta donde estar el bundle del proyecto "en nuestro caso dist" (cabe resaltar que se debe generar dependiendo de un proyecto existente que previamente se creo)
+
+``` bash
+firebase init
+```
+
+- Hacemos deploy de la carpeta dist
+
+``` bash
+firebase deploy
+``` 
+
+- URL: https://nexalibery-1ac72.web.app/
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 | Alumno                           | Actividad                                  |          
 |----------------------------------|--------------------------------------------|

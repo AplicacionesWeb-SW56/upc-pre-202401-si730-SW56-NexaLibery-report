@@ -1383,14 +1383,17 @@ https://youtu.be/hLfBnWDhMss
 <br>
 Maria teresa considera que la aplicación NexaLibery es bastante interesante por el contenido que presenta y la forma en que lo ofrece. Encuentra la aplicación intuitiva, didáctica, sencilla de usar y agradable a la vista. Evalúa la navegación entre diferentes vistas como sencilla, dinámica y de fácil acceso para la búsqueda.Opina que las vistas cubren todos los aspectos necesarios para gestionar su experiencia en la página, ya que cada vista ofrece claridad y profundidad. Para Maria teresa , el principal punto fuerte de la aplicación es el amplio contenido que ofrece, combinado con un diseño llamativo y una navegación fácil.La plataforma podría beneficiarle personalmente debido a su amplio contenido en materias de su interés profesional y laboral. Le ayudaría a usar los accesos a videos tutoriales para aprender y disfrutar de una gran variedad de libros en su tiempo libre.Maria teresa también cree que la aplicación proporciona toda la información necesaria a través de los distintos botones y opciones, permitiendo encontrar con facilidad lo que busca y ofreciendo un amplio panorama de sugerencias útiles. Finalmente, muestra un alto interés en suscribirse al plan de NexaLibery, especialmente al paquete premium, que ofrece una amplia variedad de usos.
 
-**Entrevista 2 (realizada por ):**<br>
-**Nombre:** 
-**Edad:** 
-**Ocupación:**
+**Entrevista 2 (realizada por Mathias Javier):**<br>
+**Nombre:** Mathias Javier Murillo    
+**Edad:** 25    
+**Ocupación:** Jefe de finanzas
 
 <div style="display:flex;justify-content:center">
 <img src="../assets/" alt="Entrevista a " style="width:80%;">
 </div>
+https://www.youtube.com/watch?v=lOvUzc5Ftf0
+<br>
+Andres considera que la aplicacion NexaLibery es muy completa para todas las necesidad que el considera que puede cubrir en un aplicacion de este estilo, de igual manera la interfaz le parece muy sencilla y facil de usar. Y por ultimo nos comenta que no agregaria ninguna funcion adicional a la que ya tengamos en la misma aplicacion. 
 
 **Entrevista 3 (realizada por ):**<br>
 **Nombre:** 

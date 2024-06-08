@@ -1249,6 +1249,18 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+| Endpoint | Description | Method | Call Syntax | Query / Body | Response
+| --- | --- | --- | --- | --- | --- |
+| `/library` | Obtener Todos los Libros | GET | `/library` | ` ` |`[{"id":"int","title":"string","description":"string","pic":"string","url":"string","premium":"string"}]` |
+| `/library` | Añadir Un Libro | POST | `/library` |`[{"id":"int","title":"string","description":"string","pic":"string","url":"string","premium":"string"}]` | ` ` |
+| `/podcast` | Obtener Todos los Podcast | GET | `/podcast` | ` ` |`[{"id": 0,"title":"string","description":"string","date":"2024-06-08T07:33:22.226Z","pic":"string","url":"string","premium":"string"}]` |
+| `/podcast` | Añadir Un Podcast | POST | `/podcast` |`[{"id": 0,"title":"string","description":"string","date":"2024-06-08T07:33:22.226Z","pic":"string","url":"string","premium":"string"}]` | ` ` |
+| `/multimedia` | Obtener Todos los Videos | GET | `/multimedia` | ` ` |`[{"id":0,"title":"string","description":"string","date":"2024-06-08T07:35:17.888Z","pic":"string","url":"string","premium":"string"}]` |
+| `/multimedia` | Añadir un Nuevo Video | POST | `/multimedia` |`[{"id":0,"title":"string","description":"string","date":"2024-06-08T07:35:17.888Z","pic":"string","url":"string","premium":"string"}]` | ` ` |
+| `/users` | Obtener Todos los Usuarios | GET | `/users` | ` ` |`[{"email":"string","password":"string"}]` |
+| `/login` | Iniciar Sesion | POST | `/login` | `{"email":"string","password":"string"}` |`{"accessToken":"string"}` |
+| `/signup` | Registrarse | POST | `/signup` | `{"email":"string","password":"string"}` |`{"accessToken":"string"}` |
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 | Alumno                           | Actividad                                  |          

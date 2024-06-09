@@ -720,153 +720,122 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ### 4.7.1. Class Diagrams.
 <img src="assets/Diagram Class V2.PNG" alt="Diagrama clase" style="width:80%;">
 ### 4.7.2. Class Dictionary.
-## 1. Usuarios
+## 1. User
 **Descripción**: Representa a cada persona que se registra y utiliza la plataforma. Incluye información personal básica, así como detalles de su cuenta como el email y contraseña.
 
 | Atributo           | Tipo de Dato | Descripción                                          |
 |--------------------|--------------|------------------------------------------------------|
-| UserID             | INT (PK)     | Identificador único para cada usuario.               |
-| Nombre             | VARCHAR      | Nombre completo del usuario.                         |
-| Email              | VARCHAR      | Dirección de correo electrónico del usuario.         |
-| Contraseña         | VARCHAR      | Contraseña de acceso del usuario.                    |
-| FechaDeNacimiento  | DATE         | Fecha de nacimiento del usuario.                     |
-| FechaDeRegistro    | DATETIME     | Fecha en la que el usuario se registró en la plataforma. |
+| userID             | INT (PK)     | Identificador único para cada usuario.               |
+| name               | VARCHAR      | Nombre completo del usuario.                         |
+| email              | VARCHAR      | Dirección de correo electrónico del usuario.         |
+| password           | VARCHAR      | Contraseña de acceso del usuario.                    |
+| bornhDate          | DATE         | Fecha de nacimiento del usuario.                     |
+| registrationDate    | DATETIME     | Fecha en la que el usuario se registró en la plataforma. |
 
-## 2. Suscripciones
+## 2. subscriptions
 **Descripción**: Gestiona las suscripciones de los usuarios a la plataforma. Cada suscripción está vinculada a un usuario y un tipo de suscripción, y tiene un período de validez.
 
 | Atributo           | Tipo de Dato  | Descripción                                             |
 |--------------------|---------------|---------------------------------------------------------|
-| SuscripcionID      | INT (PK)      | Identificador único de cada suscripción.                |
-| TipoDeSuscripcionID| INT (FK)      | Clave foránea que enlaza al tipo de suscripción elegido.|
-| UserID             | INT (FK)      | Clave foránea que enlaza al usuario suscrito.           |
-| FechaInicio        | DATE          | Fecha de inicio de la suscripción.                      |
-| FechaFin           | DATE          | Fecha de fin de la suscripción.                         |
+| subcriptionID      | INT (PK)      | Identificador único de cada suscripción.                |
+| subcriptiontypeID  | INT (FK)      | Clave foránea que enlaza al tipo de suscripción elegido.|
+| userID             | INT (FK)      | Clave foránea que enlaza al usuario suscrito.           |
+| startdate          | DATE          | Fecha de inicio de la suscripción.                      |
+| enddate            | DATE          | Fecha de fin de la suscripción.                         |
 
-## 3. TipoDeSuscripcion
+## 3. subcriptionType
 **Descripción**: Define los diferentes planes o tipos de suscripción que los usuarios pueden adquirir. Esto puede incluir diferentes niveles de acceso a contenidos, precios, y beneficios.
 
 | Atributo           | Tipo de Dato | Descripción                                          |
 |--------------------|--------------|------------------------------------------------------|
-| TipoDeSuscripcionID| INT (PK)     | Identificador único para cada tipo de suscripción.   |
-| Nombre             | VARCHAR      | Nombre del tipo de suscripción (ej. Básica, Premium).|
-| PrecioMensual      | DECIMAL      | Costo mensual de la suscripción.                     |
-| Descripción        | VARCHAR      | Descripción breve de lo que incluye la suscripción.  |
+| subcriptiontypeID  | INT (PK)     | Identificador único para cada tipo de suscripción.   |
+| name               | VARCHAR      | Nombre del tipo de suscripción (ej. Básica, Premium).|
+| monthlyprice       | DECIMAL      | Costo mensual de la suscripción.                     |
+| description        | VARCHAR      | Descripción breve de lo que incluye la suscripción.  |
 
-## 4. ContenidosMultimedia
+## 4. MultimediaContent
 **Descripción**: Gestiona el contenido multimedia disponible en la plataforma, categorizado por tipo y accesibilidad.
 
 | Atributo           | Tipo de Dato | Descripción                                          |
 |--------------------|--------------|------------------------------------------------------|
-| ContenidoID        | INT (PK)     | Identificador único de cada contenido multimedia.    |
-| Título             | VARCHAR      | Título del contenido.                                |
-| Tipo               | VARCHAR      | Categoría del contenido (ej. Libro electrónico).     |
-| Descripción        | VARCHAR      | Breve descripción del contenido.                     |
-| FechaDeLanzamiento | DATE         | Fecha en que el contenido fue lanzado o publicado.   |
-| Premium            | BOOLEAN      | Indica si el contenido es exclusivo para suscriptores premium. |
+| contentID          | INT (PK)     | Identificador único de cada contenido multimedia.    |
+| authorID           | INT (FK)     | Identificador único de cada autor.            |
+| titule             | VARCHAR      | Título del contenido.                                |
+| type               | VARCHAR      | Categoría del contenido (ej. Libro electrónico).     |
+| description        | VARCHAR      | Breve descripción del contenido.                     |
+| premiun            | BOOLEAN      | Indica si el contenido es exclusivo para suscriptores premium. |
 | URL                | VARCHAR      | Dirección URL donde se encuentra alojado el contenido. |
 
-## 5. Autores
+## 5. Authors
 **Descripción**: Contiene información sobre los autores de los contenidos disponibles en la plataforma.
 
 | Atributo           | Tipo de Dato | Descripción                                   |
 |--------------------|--------------|-----------------------------------------------|
-| AutorID            | INT (PK)     | Identificador único de cada autor.            |
-| Nombre             | VARCHAR      | Nombre completo del autor.                    |
-| Biografía          | TEXT         | Breve biografía del autor.                    |
+| authorID           | INT (PK)     | Identificador único de cada autor.            |
+| name               | VARCHAR      | Nombre completo del autor.                    |
+| description        | VARCHAR      | Breve biografía del autor.                    |
 
-## 6. ListasDeReproduccion
+## 6. playList
 **Descripción**: Permite a los usuarios crear y gestionar listas personalizadas de contenidos multimedia.
 
 | Atributo           | Tipo de Dato | Descripción                                        |
 |--------------------|--------------|----------------------------------------------------|
-| ListaID            | INT (PK)     | Identificador único de cada lista de reproducción. |
-| UserID             | INT (FK)     | Clave foránea que enlaza al usuario creador.       |
-| Nombre             | VARCHAR      | Nombre de la lista de reproducción.                |
-| Descripción        | VARCHAR      | Descripción breve de la lista.                     |
-| FechaCreación      | DATETIME     | Fecha en que la lista fue creada.                  |
+| listID             | INT (PK)     | Identificador único de cada lista de reproducción. |
+| userID             | INT (FK)     | Clave foránea que enlaza al usuario creador.       |
+| name               | VARCHAR      | Nombre de la lista de reproducción.                |
+| description        | VARCHAR      | Descripción breve de la lista.                     |
+| createddate        | DATETIME     | Fecha en que la lista fue creada.                  |
 
-## 7. ContenidoLista
-**Descripción**: Define la pertenencia de contenidos a listas de reproducción específicas.
-
-| Atributo           | Tipo de Dato | Descripción                                          |
-|--------------------|--------------|------------------------------------------------------|
-| ContenidoListaID   | INT (PK)     | Identificador único de la relación entre contenido y lista. |
-| ListaID            | INT (FK)     | Clave foránea que enlaza a la lista de reproducción. |
-| ContenidoID        | INT (FK)     | Clave foránea que enlaza al contenido en la lista.   |
-
-## 8. Comunidades
+## 7. community
 **Descripción**: Facilita la creación y gestión de comunidades dentro de la plataforma para fomentar la interacción entre usuarios.
 
 | Atributo           | Tipo de Dato | Descripción                                 |
 |--------------------|--------------|---------------------------------------------|
-| ComunidadID        | INT (PK)     | Identificador único de cada comunidad.      |
-| Nombre             | VARCHAR      | Nombre de la comunidad.                     |
-| Descripción        | VARCHAR      | Descripción breve de la comunidad.          |
-| FechaCreación      | DATETIME     | Fecha en que la comunidad fue creada.       |
+| communityID        | INT (PK)     | Identificador único de cada comunidad.      |
+| name               | VARCHAR      | Nombre de la comunidad.                     |
+| description        | VARCHAR      | Descripción breve de la comunidad.          |
+| createdate         | DATETIME     | Fecha en que la comunidad fue creada.       |
 
-## 9. MiembrosComunidad
+## 8. communityMembers
 **Descripción**: Gestiona la membresía de usuarios en las comunidades, incluyendo la cantidad de usuarios por comunidad.
 
 | Atributo           | Tipo de Dato | Descripción                                       |
 |--------------------|--------------|---------------------------------------------------|
-| MiembroID          | INT (PK)     | Identificador único de cada miembro de comunidad. |
-| ComunidadID        | INT (FK)     | Clave foránea que enlaza a la comunidad.          |
-| UserID             | INT (FK)     | Clave foránea que enlaza al usuario miembro.      |
-| Cant               | INT          | Cantidad de usuarios de comunidades.   |
+| memberID           | INT (PK)     | Identificador único de cada miembro de comunidad. |
+| communityID        | INT (FK)     | Clave foránea que enlaza a la comunidad.          |
+| userID             | INT (FK)     | Clave foránea que enlaza al usuario miembro.      |
+| amount             | INT          | Cantidad de usuarios de comunidades.              |
 
-## 10. PerfilEstudiante
+## 9. studentProfile
 **Descripción**: Asocia a los usuarios con sus respectivas instituciones educativas, posibilitando ofertas o contenidos exclusivos para estudiantes.
 
 | Atributo              | Tipo de Dato | Descripción                                            |
 |-----------------------|--------------|--------------------------------------------------------|
 | PerfilEstudianteID    | INT (PK)     | Identificador único del perfil de estudiante.         |
-| UserID                | INT (FK)     | Clave foránea que enlaza al usuario con estatus de estudiante. |
-| InstituciónEducativa  | VARCHAR      | Nombre de la institución educativa del estudiante.    |
+| userID                | INT (FK)     | Clave foránea que enlaza al usuario con estatus de estudiante. |
+| institute             | VARCHAR      | Nombre de la institución educativa del estudiante.    |
 
-## 11. HistorialDeAccesos
+## 10. history
 **Descripción**: Registra cada vez que un usuario accede a un contenido, permitiendo seguimiento de lo que los usuarios ven o escuchan en la plataforma.
 
 | Atributo       | Tipo de Dato | Descripción                                                    |
 |----------------|--------------|----------------------------------------------------------------|
-| HistorialID    | INT (PK)     | Identificador único del historial de acceso a contenidos.     |
-| UserID         | INT (FK)     | Clave foránea que enlaza al usuario.                           |
-| ContenidoID    | INT (FK)     | Clave foránea que enlaza al contenido accedido.                |
-| FechaDeAcceso  | DATETIME     | Fecha y hora en que el contenido fue accedido.                 |
+| historyID      | INT (PK)     | Identificador único del historial de acceso a contenidos.      |
+| userID         | INT (FK)     | Clave foránea que enlaza al usuario.                           |
+| contentID      | INT (FK)     | Clave foránea que enlaza al contenido accedido.                |
+| accessdate     | DATETIME     | Fecha y hora en que el contenido fue accedido.                 |
 
-## 12. Valoraciones
+## 11. valorizations
 **Descripción**: Permite a los usuarios valorar y comentar sobre los contenidos que consumen, ofreciendo feedback y recomendaciones a otros usuarios.
 
-| Atributo        | Tipo de Dato | Descripción                                                     |
-|-----------------|--------------|-----------------------------------------------------------------|
-| ValoracionID    | INT (PK)     | Identificador único de cada valoración.                        |
-| ContenidoID     | INT (FK)     | Clave foránea que enlaza al contenido valorado.                 |
-| UserID          | INT (FK)     | Clave foránea que enlaza al usuario que realiza la valoración. |
-| Puntuación      | INT          | Puntuación otorgada al contenido.                               |
-| Comentario      | VARCHAR      | Comentario sobre el contenido.                                  |
-| FechaValoracion | DATE         | Fecha en que se realizó la valoración.                          |
-
-## 13. EventosEspeciales
-**Descripción**: Administra eventos especiales o promociones en la plataforma, los cuales pueden ser accesibles para todos los usuarios o exclusivos para suscriptores premium.
-
-| Atributo       | Tipo de Dato | Descripción                                           |
-|----------------|--------------|-------------------------------------------------------|
-| EventoID       | INT (PK)     | Identificador único de cada evento especial.         |
-| Nombre         | VARCHAR      | Nombre del evento.                                    |
-| Descripción    | VARCHAR      | Descripción breve del evento.                         |
-| FechaInicio    | DATE         | Fecha de inicio del evento.                           |
-| FechaFin       | DATE         | Fecha de fin del evento.                              |
-| Premium        | BOOLEAN      | Indica si el evento es exclusivo para suscriptores premium. |
-
-## 14. AsistenciaEventos
-**Descripción**: Registra la asistencia de usuarios a eventos especiales, lo que podría ser usado para ofrecer contenidos exclusivos o beneficios a los asistentes.
-
-| Atributo         | Tipo de Dato | Descripción                                           |
-|------------------|--------------|-------------------------------------------------------|
-| AsistenciaID     | INT (PK)     | Identificador único de la asistencia a eventos.      |
-| EventoID         | INT (FK)     | Clave foránea que enlaza al evento.                   |
-| UserID           | INT (FK)     | Clave foránea que enlaza al usuario asistente.        |
-| FechaAsistencia  | DATE         | Fecha en que el usuario asistió al evento.            |
+| Atributo         | Tipo de Dato | Descripción                                                     |
+|------------------|--------------|-----------------------------------------------------------------|
+| valorizationID   | INT (PK)     | Identificador único de cada valoración.                         |
+| contentID        | INT (FK)     | Clave foránea que enlaza al contenido valorado.                 |
+| userID           | INT (FK)     | Clave foránea que enlaza al usuario que realiza la valoración.  |
+| score            | INT          | Puntuación otorgada al contenido.                               |
+| comment          | VARCHAR      | Comentario sobre el contenido.                                  |
+| valorizationdate | DATE         | Fecha en que se realizó la valoración.                          |
 
 
 ## 4.8. Database Design.
@@ -1438,6 +1407,8 @@ Con base en diversas opiniones recogidas durante las entrevistas a clientes empr
 - **Ciclos Continuos de Feedback y Pruebas:** Integrar períodos regulares de retroalimentación y pruebas de usuario durante las etapas de desarrollo asegura que el producto final responda verdaderamente a las necesidades del usuario.
 - **Aplicación de Prácticas Ágiles:** La adopción de prácticas ágiles como Scrum o Kanban facilita una gestión de proyecto dinámica y flexible, permitiendo ajustes rápidos y eficientes según las necesidades del proyecto.
 - **Implementación de Herramientas de Prototipado:** Recomendamos el uso de herramientas avanzadas de diseño de prototipos, como Figma, para previsualizar y ajustar diseños antes de la codificación, lo que mejora significativamente la calidad y la usabilidad del producto final.
+- **Conocimientos en Vue.js:** Es importante tener conocimientos en frameworks de JavaScript como Vue.js. Este framework te ayudará a desarrollar interfaces de usuario reactivas y componentes reutilizables, lo que facilita la construcción de aplicaciones web modernas con una estructura clara y mantenible.
+- **Integración de Servicios API:** Asegúrate de integrar servicios API en tu proyecto. Esto es fundamental para conectar el front-end con el back-end, permitiendo la comunicación y el intercambio de datos. Debes saber cómo consumir y manejar APIs RESTful o GraphQL, ya que esto facilitará la creación de aplicaciones web dinámicas y ricas en funcionalidades.
 
 # Video About-the-Team.
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf)

@@ -1360,7 +1360,7 @@ Maria Teresa considera que la aplicación NexaLibery es bastante interesante por
 **Ocupación:** Jefe de finanzas <br>
 
 <div style="display:flex;justify-content:center">
-<img src="../assets/" alt="Entrevista a Andres Cieza" style="width:80%;">
+<img src="assets/Entrevista-Andres.PNG" alt="Entrevista a Andres Cieza" style="width:80%;">
 </div>
 
 [https://www.youtube.com/watch?v=lOvUzc5Ftf0](https://www.youtube.com/watch?v=lOvUzc5Ftf0)

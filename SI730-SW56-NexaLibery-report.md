@@ -1379,23 +1379,24 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 **Ocupación:** Administradora de empresas<br>
 
 <div style="display:flex;justify-content:center">
-<img src="../assets/" alt="Entrevista a Maria teresa" style="width:80%;">
+<img src="assets/Entrevista-MariaTeresa.PNG" alt="Entrevista a Maria teresa" style="width:80%;">
 </div>
-
 [https://youtu.be/hLfBnWDhMss](https://youtu.be/hLfBnWDhMss)
+<br>
 Maria Teresa considera que la aplicación NexaLibery es bastante interesante por el contenido que presenta y la forma en que lo ofrece. Encuentra la aplicación intuitiva, didáctica, sencilla de usar y agradable a la vista. Evalúa la navegación entre diferentes vistas como sencilla, dinámica y de fácil acceso para la búsqueda. Opina que las vistas cubren todos los aspectos necesarios para gestionar su experiencia en la página, ya que cada vista ofrece claridad y profundidad. Para Maria Teresa, el principal punto fuerte de la aplicación es el amplio contenido que ofrece, combinado con un diseño llamativo y una navegación fácil. La plataforma podría beneficiarle personalmente debido a su amplio contenido en materias de su interés profesional y laboral. Le ayudaría a usar los accesos a videos tutoriales para aprender y disfrutar de una gran variedad de libros en su tiempo libre. Maria Teresa también cree que la aplicación proporciona toda la información necesaria a través de los distintos botones y opciones, permitiendo encontrar con facilidad lo que busca y ofreciendo un amplio panorama de sugerencias útiles. Finalmente, muestra un alto interés en suscribirse al plan de NexaLibery, especialmente al paquete premium, que ofrece una amplia variedad de usos.
 
 **Entrevista 2 (realizada por Mathias Javier):** <br>
-**Nombre:** Mathias Javier Murillo <br>
+**Nombre:** Andres Cieza<br>
 **Edad:** 25 <br>
 **Ocupación:** Jefe de finanzas <br>
 
 <div style="display:flex;justify-content:center">
-<img src="../assets/" alt="Entrevista a " style="width:80%;">
+<img src="../assets/" alt="Entrevista a Andres Cieza" style="width:80%;">
 </div>
 
 [https://www.youtube.com/watch?v=lOvUzc5Ftf0](https://www.youtube.com/watch?v=lOvUzc5Ftf0)
-Andres considera que la aplicación NexaLibery es muy completa para todas las necesidades que él considera que puede cubrir una aplicación de este estilo. De igual manera, la interfaz le parece muy sencilla y fácil de usar. Por último, nos comenta que no agregaría ninguna función adicional a la que ya tengamos en la misma aplicación.
+<br>
+Andres Cieza considera que la aplicación NexaLibery es muy completa para todas las necesidades que él considera que puede cubrir una aplicación de este estilo. De igual manera, la interfaz le parece muy sencilla y fácil de usar. Por último, nos comenta que no agregaría ninguna función adicional a la que ya tengamos en la misma aplicación.
 
 **Entrevista 3 (realizada por Raúl Ronaldo Quispe Erasmo):** <br>
 **Nombre:** Manuel Alexis Vargas <br>
@@ -1421,7 +1422,8 @@ Con base en diversas opiniones recogidas durante las entrevistas a clientes empr
 
 ## 5.4. Video About-the-Product
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfD0A1l1rO5Pm-gSYvu3C5EBYLtgmZE1Mo2fL2N5Fk5Aww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uqfazC](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfD0A1l1rO5Pm-gSYvu3C5EBYLtgmZE1Mo2fL2N5Fk5Aww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uqfazC)
-<img src="assets/" alt="Video about team" style="width:80%;">
+<br>
+<img src="assets/MEDIAVERSE.jpg" alt="Video about product" style="width:80%;">
 
 # Conclusiones y recomendaciones.
 **Conclusiones**
@@ -1439,8 +1441,8 @@ Con base en diversas opiniones recogidas durante las entrevistas a clientes empr
 
 # Video About-the-Team.
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf)
-
-<img src="assets/" alt="Video about team" style="width:80%;">
+<br>
+<img src="assets/about-team.PNG" alt="Video about team" style="width:80%;">
 
 # Bibliografía
 Eslava, D. C. (2024, 14 marzo). Las bibliotecas digitales y sus esfuerzos por reducir brechas.

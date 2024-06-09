@@ -1395,14 +1395,17 @@ https://www.youtube.com/watch?v=lOvUzc5Ftf0
 <br>
 Andres considera que la aplicacion NexaLibery es muy completa para todas las necesidad que el considera que puede cubrir en un aplicacion de este estilo, de igual manera la interfaz le parece muy sencilla y facil de usar. Y por ultimo nos comenta que no agregaria ninguna funcion adicional a la que ya tengamos en la misma aplicacion. 
 
-**Entrevista 3 (realizada por ):**<br>
-**Nombre:** 
-**Edad:** 
-**Ocupación:**
+**Entrevista 3 (realizada por Raúl Ronaldo Quispe Erasmo):**<br>
+**Nombre:** Manuel Alexis Vargas 
+**Edad:** 21 años 
+**Ocupación:** Ingeniería de Software 
 
 <div style="display:flex;justify-content:center">
-<img src="../assets/" alt="Entrevista a " style="width:80%;">
+<img src="../assets/entrevista_alexis.png" alt="Entrevista a Manuel Alexis" style="width:80%;">
 </div>
+https://youtu.be/KRn68HBrB-E
+<br>
+Manuel Alexis Vargas considera suscribirse a la plataforma por el hecho que si le ve buen futuro y uso, también recomendó sugerencias de mejoras, aunque también comentó que la interfaz tiene buenos colores que le comoda bien la vista, a igual que el manejo y recorrido, es sencilla, justo para facilitar para aquellos que se complica.
 
 ### 5.3.3. Evaluaciones según heurísticas
 Con base en diversas opiniones recogidas durante las entrevistas a clientes empresariales y técnicos afiliados, se ha determinado lo siguiente:

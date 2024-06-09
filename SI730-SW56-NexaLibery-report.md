@@ -1371,41 +1371,44 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 7. ¿La aplicación proporciona toda la información necesaria a través de los distintos botones y opciones?
 8. ¿Estaría interesado en suscribirse al plan de NexaLibery?
    
-### 5.3.2. Registro de Entrevistas
-**Entrevista 1 (realizada por Marcelo Ramirez):**<br>
-**Nombre:** Maria Teresa Ramirez
-**Edad:** 52 años 
-**Ocupación:** Administradora de emrpesas 
+
+### 5.3.2. Registro de Entrevistas 
+**Entrevista 1 (realizada por Marcelo Ramirez):** <br>
+**Nombre:** Maria Teresa Ramirez <br>
+**Edad:** 52 años <br>
+**Ocupación:** Administradora de empresas<br>
+
 <div style="display:flex;justify-content:center">
 <img src="../assets/" alt="Entrevista a Maria teresa" style="width:80%;">
 </div>
-https://youtu.be/hLfBnWDhMss
-<br>
-Maria teresa considera que la aplicación NexaLibery es bastante interesante por el contenido que presenta y la forma en que lo ofrece. Encuentra la aplicación intuitiva, didáctica, sencilla de usar y agradable a la vista. Evalúa la navegación entre diferentes vistas como sencilla, dinámica y de fácil acceso para la búsqueda.Opina que las vistas cubren todos los aspectos necesarios para gestionar su experiencia en la página, ya que cada vista ofrece claridad y profundidad. Para Maria teresa , el principal punto fuerte de la aplicación es el amplio contenido que ofrece, combinado con un diseño llamativo y una navegación fácil.La plataforma podría beneficiarle personalmente debido a su amplio contenido en materias de su interés profesional y laboral. Le ayudaría a usar los accesos a videos tutoriales para aprender y disfrutar de una gran variedad de libros en su tiempo libre.Maria teresa también cree que la aplicación proporciona toda la información necesaria a través de los distintos botones y opciones, permitiendo encontrar con facilidad lo que busca y ofreciendo un amplio panorama de sugerencias útiles. Finalmente, muestra un alto interés en suscribirse al plan de NexaLibery, especialmente al paquete premium, que ofrece una amplia variedad de usos.
 
-**Entrevista 2 (realizada por Mathias Javier):**<br>
-**Nombre:** Mathias Javier Murillo    
-**Edad:** 25    
-**Ocupación:** Jefe de finanzas
+[https://youtu.be/hLfBnWDhMss](https://youtu.be/hLfBnWDhMss)
+Maria Teresa considera que la aplicación NexaLibery es bastante interesante por el contenido que presenta y la forma en que lo ofrece. Encuentra la aplicación intuitiva, didáctica, sencilla de usar y agradable a la vista. Evalúa la navegación entre diferentes vistas como sencilla, dinámica y de fácil acceso para la búsqueda. Opina que las vistas cubren todos los aspectos necesarios para gestionar su experiencia en la página, ya que cada vista ofrece claridad y profundidad. Para Maria Teresa, el principal punto fuerte de la aplicación es el amplio contenido que ofrece, combinado con un diseño llamativo y una navegación fácil. La plataforma podría beneficiarle personalmente debido a su amplio contenido en materias de su interés profesional y laboral. Le ayudaría a usar los accesos a videos tutoriales para aprender y disfrutar de una gran variedad de libros en su tiempo libre. Maria Teresa también cree que la aplicación proporciona toda la información necesaria a través de los distintos botones y opciones, permitiendo encontrar con facilidad lo que busca y ofreciendo un amplio panorama de sugerencias útiles. Finalmente, muestra un alto interés en suscribirse al plan de NexaLibery, especialmente al paquete premium, que ofrece una amplia variedad de usos.
+
+**Entrevista 2 (realizada por Mathias Javier):** <br>
+**Nombre:** Mathias Javier Murillo <br>
+**Edad:** 25 <br>
+**Ocupación:** Jefe de finanzas <br>
 
 <div style="display:flex;justify-content:center">
 <img src="../assets/" alt="Entrevista a " style="width:80%;">
 </div>
-https://www.youtube.com/watch?v=lOvUzc5Ftf0
-<br>
-Andres considera que la aplicacion NexaLibery es muy completa para todas las necesidad que el considera que puede cubrir en un aplicacion de este estilo, de igual manera la interfaz le parece muy sencilla y facil de usar. Y por ultimo nos comenta que no agregaria ninguna funcion adicional a la que ya tengamos en la misma aplicacion. 
 
-**Entrevista 3 (realizada por Raúl Ronaldo Quispe Erasmo):**<br>
-**Nombre:** Manuel Alexis Vargas 
-**Edad:** 21 años 
-**Ocupación:** Ingeniería de Software 
+[https://www.youtube.com/watch?v=lOvUzc5Ftf0](https://www.youtube.com/watch?v=lOvUzc5Ftf0)
+Andres considera que la aplicación NexaLibery es muy completa para todas las necesidades que él considera que puede cubrir una aplicación de este estilo. De igual manera, la interfaz le parece muy sencilla y fácil de usar. Por último, nos comenta que no agregaría ninguna función adicional a la que ya tengamos en la misma aplicación.
+
+**Entrevista 3 (realizada por Raúl Ronaldo Quispe Erasmo):** <br>
+**Nombre:** Manuel Alexis Vargas <br>
+**Edad:** 21 años <br>
+**Ocupación:** Ingeniería de Software <br>
 
 <div style="display:flex;justify-content:center">
-<img src="../assets/entrevista_alexis.png" alt="Entrevista a Manuel Alexis" style="width:80%;">
+<img src="assets/entrevista_alexis.png" alt="Entrevista a Manuel Alexis" style="width:80%;">
 </div>
-https://youtu.be/KRn68HBrB-E
-<br>
-Manuel Alexis Vargas considera suscribirse a la plataforma por el hecho que si le ve buen futuro y uso, también recomendó sugerencias de mejoras, aunque también comentó que la interfaz tiene buenos colores que le comoda bien la vista, a igual que el manejo y recorrido, es sencilla, justo para facilitar para aquellos que se complica.
+
+[https://youtu.be/KRn68HBrB-E](https://youtu.be/KRn68HBrB-E)
+
+Manuel Alexis Vargas considera suscribirse a la plataforma por el hecho de que sí le ve buen futuro y uso. También recomendó sugerencias de mejoras, aunque también comentó que la interfaz tiene buenos colores que le acomodan bien la vista, al igual que el manejo y recorrido, es sencilla, justo para facilitar para aquellos a quienes se les complica.
 
 ### 5.3.3. Evaluaciones según heurísticas
 Con base en diversas opiniones recogidas durante las entrevistas a clientes empresariales y técnicos afiliados, se ha determinado lo siguiente:
@@ -1417,7 +1420,8 @@ Con base en diversas opiniones recogidas durante las entrevistas a clientes empr
  - La mayoría de los entrevistados se muestran dispuestos a suscribirse o registrarse en NexaLibery.
 
 ## 5.4. Video About-the-Product
-
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfD0A1l1rO5Pm-gSYvu3C5EBYLtgmZE1Mo2fL2N5Fk5Aww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uqfazC](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfD0A1l1rO5Pm-gSYvu3C5EBYLtgmZE1Mo2fL2N5Fk5Aww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uqfazC)
+<img src="assets/" alt="Video about team" style="width:80%;">
 
 # Conclusiones y recomendaciones.
 **Conclusiones**
@@ -1432,7 +1436,12 @@ Con base en diversas opiniones recogidas durante las entrevistas a clientes empr
 - **Ciclos Continuos de Feedback y Pruebas:** Integrar períodos regulares de retroalimentación y pruebas de usuario durante las etapas de desarrollo asegura que el producto final responda verdaderamente a las necesidades del usuario.
 - **Aplicación de Prácticas Ágiles:** La adopción de prácticas ágiles como Scrum o Kanban facilita una gestión de proyecto dinámica y flexible, permitiendo ajustes rápidos y eficientes según las necesidades del proyecto.
 - **Implementación de Herramientas de Prototipado:** Recomendamos el uso de herramientas avanzadas de diseño de prototipos, como Figma, para previsualizar y ajustar diseños antes de la codificación, lo que mejora significativamente la calidad y la usabilidad del producto final.
-  
+
+# Video About-the-Team.
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf)
+
+<img src="assets/" alt="Video about team" style="width:80%;">
+
 # Bibliografía
 Eslava, D. C. (2024, 14 marzo). Las bibliotecas digitales y sus esfuerzos por reducir brechas.
        ELESPECTADOR.COM. https://www.elespectador.com/el-magazin-cultural/bibliotecas-digitales-un-nuevo-acceso-a-la-educacion-y-al-patrimonio-de-colombia-noticias-hoy/
@@ -1446,4 +1455,9 @@ Video Grbacion TB1:
 
 Video Grbacion TP:
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EUj0JK-wd9tGgEcBm7_ss4gBnz-8Z5WOsNxxHMBqkrMlDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ccMYpE](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EUj0JK-wd9tGgEcBm7_ss4gBnz-8Z5WOsNxxHMBqkrMlDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ccMYpE)
+
+Video Grbacion TB2:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWuxP6ZvByNLrx47177y1aIB7dFAV_cupzvLIroO-Q4vfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=taXDTa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWuxP6ZvByNLrx47177y1aIB7dFAV_cupzvLIroO-Q4vfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=taXDTa)
+
+
 

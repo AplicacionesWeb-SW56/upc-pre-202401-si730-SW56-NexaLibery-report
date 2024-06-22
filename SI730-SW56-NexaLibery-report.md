@@ -1321,6 +1321,34 @@ firebase deploy
 |Javier Murillo, Mathias           | Implementacion del endpoint Multimedia Content         |    
 |Leon Rioja Carlos Andres          | Implementacion del endpoint Podcast |
 
+# Sprint 4
+#### 5.2.4.1. Sprint Planning 4.
+
+
+#### 5.2.4.2. Sprint Backlog 4
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint 
+
+
+
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
 Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada a los servicios web desplegados (BackEnd), se considera una segunda parte de entrevistas, en la cual se busca validar la experiencia de usuario y la funcionalidad de la aplicación. Para ello, se plantean las siguientes preguntas:
@@ -1432,5 +1460,5 @@ Video Grbacion TP:
 Video Grbacion TB2:
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWuxP6ZvByNLrx47177y1aIB7dFAV_cupzvLIroO-Q4vfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=taXDTa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWuxP6ZvByNLrx47177y1aIB7dFAV_cupzvLIroO-Q4vfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=taXDTa)
 
-
-
+Video Grbacion Entrevistas:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111451_upc_edu_pe/EdRi8rYe-yxNuZQLYk7OhUcBHfLH61NT3FmFhtoCo81LHQ?e=I6EEqZ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111451_upc_edu_pe/EdRi8rYe-yxNuZQLYk7OhUcBHfLH61NT3FmFhtoCo81LHQ?e=I6EEqZ)

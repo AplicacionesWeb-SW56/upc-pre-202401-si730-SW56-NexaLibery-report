@@ -1346,7 +1346,7 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 #### 5.2.4.3. Development Evidence for Sprint Review
 [https://nexalibery-backend.onrender.com/swagger/index.html](https://nexalibery-backend.onrender.com/swagger/index.html)
 
-![Execution Evidence 3](assets/BackendExecution/BE1.PNG) 
+![Execution Evidence 3](assets/BackendExecution/BE2.PNG) 
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review

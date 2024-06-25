@@ -1344,7 +1344,19 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review
-
+|                         Repository                         |         Branch         |                     Commit Id                    |     Commit Message                              | Commited on (Date) | 
+|------------------------------------------------------------|------------------------|--------------------------------------------------|-------------------------------------------------|--------------------|
+| NexaLibery-Backend                                         |    feature/Multimedia  |     e0c07afc5d3944aa37b227f3df5b295ec84a4b20     |  Add files Multimedia                           |      30/05/24      | 
+| NexaLibery-Backend                                         |    feature/Podcast     |     9be1f3a8584f552860562ef361e799887f1dc1b8     |  Add files Podcast                              |      02/06/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     04d169b9494d2f13ca3d935c650edf0dd00d88b3     |  feature Multimedia/application/internal files  |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     3f25f0b20fd27e1a316096dba00d9d627dd915f0     |  feature Domain/model/Aggregate                 |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     4ed417b23ce93a430cc5f7f7a096c05aefb24d2b     |  feature files Commands and Queries             |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     9598b37886a4eb54ab1f3d764266154edffa5292     |  feature files Interfaces Library               |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     b4563ce2a70480b4f21e152f59120cb072ecab76     |  feature repositories                           |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     1394b6f2209354e20582595898e311331b97b21b     |  feature resources files                        |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     706c73b2f4831d47628a01373a9a78e747b4097c     |  files transform and controller                 |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     7fee1d094c72f0c4483aeb156c77c0654e8b93e0     |  Update AppDbContext.cs                         |      29/05/24      |
+| NexaLibery-Backend                                         |    feature/Library     |     9a2f41dab42739a1a4746bcdffc4bfc86c3baa4e     |  settings Program.cs                            |      29/05/24      |
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 | Repository                             | Branch                     | Commit ID                                  | Commit Message                                     | Committed on(date) | 

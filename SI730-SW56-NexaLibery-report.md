@@ -1375,7 +1375,25 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint 
 
+| Alumno                           | Actividad                                  |          
+|----------------------------------|--------------------------------------------|
+|Loli Ruiz, Renzo Javier           |  |                                           
+|Quispe Erasmo, Raúl Ronaldo       |  |    
+|Ramirez Ramirez, Marcelo Sebastian|  |    
+|Javier Murillo, Mathias           | Reporte (5.2) |    
+|Leon Rioja Carlos Andres          |  |
 
+Commits del Reporte:
+![Reporte](assets/imgs/Commit-reporte.png)
+
+Commits del Landing Page:
+![Landing Page](assets/imgs/Commits-landinpag.png)
+
+Commits del backend:
+![Backend](assets/imgs/Commits-backend.png)
+
+Commits del frontend: 
+![Frontend](assets/imgs/Commits-frontend.png)
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas

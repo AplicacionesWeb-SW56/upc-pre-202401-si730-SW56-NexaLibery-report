@@ -1341,7 +1341,11 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 | Sum of Story Points     |  |
 
 #### 5.2.4.2. Sprint Backlog 4
-
+| User Story |       |  Work-Item/Task  |             |            |             |
+|------------|-------|------------------|-------------|------------|-------------|
+|    ID      | Title |        ID        | Description | Estimation | Assigned To | Status      |
+| HU28 | Autentificacion del sign-in | W115 | Desarrollar de autenticacion del sign-in | 8 horas | Mathias Javier Murillo | DoNE |
+| HU29 | Autentificacion del sign-up | W116 | Desarrollar de autenticacion del sign-up | 8 horas | Marcelo Ramirez Ramirez | DoNE |
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 |                         Repository                         |         Branch         |                     Commit Id                    |     Commit Message                              | Commited on (Date) | 

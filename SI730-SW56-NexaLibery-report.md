@@ -32,6 +32,8 @@
 | 1.9 | 04/04/2024 | Grupo 4 | Inform Sprint 2 |
 | 2.0 | 20/05/2024 | Grupo 4 | Avance informe Sprint 3 |
 | 2.1 | 27/05/2024 | Grupo 4 | Backend |
+| 2.2 | 25/06/2024 | Grupo 4 | IAM y Tokens Backend |
+
 # Project Report Collaboration Insights
 Repositorio del reporte:
 [https://github.com/AplicacionesWeb-SW56/upc-pre-202401-si730-SW56-NexaLibery-report](https://github.com/AplicacionesWeb-SW56/upc-pre-202401-si730-SW56-NexaLibery-report)
@@ -544,7 +546,10 @@ As Is:
 | HU25 | Configuración inicial del servidor backend | "Como administrador del sistema, necesito realizar la configuración inicial del servidor backend para garantizar un entorno de ejecución estable y seguro para la aplicación web."   | "Escenario : Configuración inicial del servidor. Dado que soy administrador del sistema, cuando inicio la configuración del servidor backend, entonces debo configurar y asegurar la conexión HTTPS para la comunicación segura." |  EP06 |
 | HU26 | Integración de base de datos | "Como desarrollador de backend, debo integrar la base de datos con el servidor para almacenar y gestionar los datos de la aplicación web de manera eficiente." | "Escenario : Integración de base de datos. Dado que soy desarrollador de backend, cuando integro la base de datos con el servidor backend, entonces debo configurar y establecer la conexión con la base de datos seleccionada. | EP03 |
 | HU27 | Configuración de logging y monitoreo | "Como administrador del sistema, debo configurar sistemas de logging y monitoreo para supervisar el rendimiento y el estado del servidor backend y detectar y solucionar problemas de manera proactiva." | "Escenario : Configuración de logging y monitoreo. Dado que soy administrador del sistema, cuando configuro sistemas de logging y monitoreo en el servidor backend, entonces debo Implementar un sistema de logging para registrar eventos y errores importantes. | EP06 |
-
+| HU28 | Configuración del entorno del frontend para la integración con el backend | "Como administrador del sistema, debo configurar configurar el archivo de environment del frontend para asegurar las solicitudes API  del backend." | "Escenario : Configuración de environment del frontend. Dado que soy administrador del sistema, cuando configuro el environment del frontend, entonces optimizar la gestión de variables de configuración para asegurar la seguridad y eficiencia de las solicitudes API hacia el backend. | EP06 |
+| HU29 | Actualización del perfil del usuario con conexión backend-frontend | "Actualizar la funcionalidad de edición de perfil en el frontend y backend, asegurando sincronización de datos con la base de datos." | "Escenario : Actualiza la funcionalidad de edición de perfil. Dado que soy administrador del sistema, cuando actualizo la funcionalidad de edición de perfil en el frontend y backend, entonces . | EP06 |
+| HU30 | Configuración de propiedades de la aplicación en el backend | "Configurar las propiedades de la aplicación en el backend implementando los tokens de seguridad." | "Escenario : Configuración de las propiedades de la aplicación en el backend. Dado que soy administrador del sistema, cuando configuro las propiedades de la aplicación en el backend, entonces debo asegurarme de realizar pruebas exhaustivas para verificar la integridad y funcionalidad de los tokens, garantizando así un entorno seguro y confiable para la aplicación . | EP06 |
+| HU31 | Gestión de habilidades de usuario | "Implementar la funcionalidad obtener todas los registros de usuario en el frontend y backend." | "Escenario : Implementacion de  la funcionalidad de todos los registros de usuario. Dado que soy administrador del sistema, cuando implemento la funcionalidad de todos los registros de, entonces debo establecer políticas de acceso y control de datos e implementar medidas de seguridad adicionales para proteger la información sensible de los usuarios . | EP06 |
 
 ## 3.3. Impact Mapping.
 
@@ -581,7 +586,10 @@ As Is:
 | 25 | HU25 | Configuración inicial del servidor backend | "Como administrador del sistema, necesito realizar la configuración inicial del servidor backend para garantizar un entorno de ejecución estable y seguro para la aplicación web." | 4 |
 | 26 | HU26 | Integración de base de datos | "Como desarrollador de backend, debo integrar la base de datos con el servidor para almacenar y gestionar los datos de la aplicación web de manera eficiente." | 5 |
 | 27 | HU27 | Configuración de logging y monitoreo | "Como administrador del sistema, debo configurar sistemas de logging y monitoreo para supervisar el rendimiento y el estado del servidor backend y detectar y solucionar problemas de manera proactiva." | 4 |
-
+|28| HU28 | Configuración del entorno del frontend para la integración con el backend | "Como administrador del sistema, debo configurar configurar el archivo de environment del frontend para asegurar las solicitudes API  del backend." |  5|
+|29| HU29 | Actualización del perfil del usuario con conexión backend-frontend | "Actualizar la funcionalidad de edición de perfil en el frontend y backend, asegurando sincronización de datos con la base de datos." | 3 |
+|30| HU30 | Configuración de propiedades de la aplicación en el backend | "Configurar las propiedades de la aplicación en el backend implementando los tokens de seguridad." | 4 |
+|31 | HU31 | Gestión de habilidades de usuario | "Implementar la funcionalidad obtener todas los registros de usuario en el frontend y backend." |  4 |
 # Capítulo IV: Product Design
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
@@ -1337,8 +1345,8 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 | **Initial Sprint  Retrospective Summary** | Para el cuarto sprint decidimos corregir algunas cosas de la entrega anterior y pensar como subir nuestro backend a la nube.|
 | **Sprint Goal & User Stories** |                                                                            |
 | Sprint 2 Goal             | El propósito de este Sprint es avanzar en la construcción de los controllers authentication y users.|
-| Sprint 2 Velocity        | Para el Sprint 4, hemos estimado una velocidad de  Story Points. Esta estimación se basa en las horas laborales disponibles del equipo y en la complejidad y esfuerzo estimados de las historias de usuario seleccionadas para este periodo de desarrollo.|
-| Sum of Story Points     |  |
+| Sprint 2 Velocity        | Para el Sprint 4, hemos estimado una velocidad de 16 Story Points. Esta estimación se basa en las horas laborales disponibles del equipo y en la complejidad y esfuerzo estimados de las historias de usuario seleccionadas para este periodo de desarrollo.|
+| Sum of Story Points     | 16  |
 
 #### 5.2.4.2. Sprint Backlog 4
 

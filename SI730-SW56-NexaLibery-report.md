@@ -1157,7 +1157,7 @@ https://nexa-liberty-frontend.firebaseapp.com/login
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
-Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo definido y limitado en el que un equipo se dedica a completar todas las tareas necesarias para alcanzar el objetivo final del proyecto. En el caso del desarrollo de la aplicación MediaVerse, se optó por dividir el proyecto en tres sprints, cada uno con una duración de dieciocho días. El Sprint #2, que comienza el 24/04/2024, tiene como objetivo principal la creación de una página de inicio atractiva para MediaVerse, destinada a captar la atención de los usuarios y comunicar claramente los beneficios del producto.
+Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo definido y limitado en el que un equipo se dedica a completar todas las tareas necesarias para alcanzar el objetivo final del proyecto. En el caso del desarrollo de la aplicación MediaVerse, se optó por dividir el proyecto en tres sprints, cada uno con una duración de dieciocho días. El Sprint #3, que comienza el 27/05/2024, tiene como objetivo principal la creación de una página de inicio atractiva para MediaVerse, destinada a captar la atención de los usuarios y comunicar claramente los beneficios del producto.
 
 | Sprint #                 | Sprint 3                                                                                       |
 |--------------------------|------------------------------------------------------------------------------------------------|
@@ -1323,17 +1323,45 @@ firebase deploy
 
 # Sprint 4
 #### 5.2.4.1. Sprint Planning 4.
+Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo definido y limitado en el que un equipo se dedica a completar todas las tareas necesarias para alcanzar el objetivo final del proyecto. En el caso del desarrollo de la aplicación MediaVerse, se incluyo el uso de tokens  y seguridad iam. El Sprint #4, que comienza el 17/06/2024, tiene como objetivo principal implementar la seguridad del backend usando los tokens lo mismo para el front para el ingreso de usuarios
 
+| Sprint #                 | Sprint 4                                                                                       |
+|--------------------------|------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**  |                                                                                         |
+| Date                     | 17/06/2024                                                                                     |
+| Time                     | 4:00pm                                                                                         |
+| Location                 | REUNION VIRTUAL POR DISCORD                                                                    |
+| Prepared By              |Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                                                                  |
+| Attendees (to planning meeting) | Loli Ruiz, Renzo Javier; Quispe Erasmo, Raúl Ronaldo; Ramirez Ramirez, Marcelo Sebastian; Javier Murillo, Mathias; Leon Rioja Carlos Andres                   |
+| **Pre-Sprint Review Summary**       | Durante el 4 sprint, hemos completado la ultima parte del trabajo en el cual trata sobre la inclusion de la carpeta IAM . |
+| **Initial Sprint  Retrospective Summary** | Para el cuarto sprint decidimos corregir algunas cosas de la entrega anterior y pensar como subir nuestro backend a la nube.|
+| **Sprint Goal & User Stories** |                                                                            |
+| Sprint 2 Goal             | El propósito de este Sprint es avanzar en la construcción de los controllers authentication y users.|
+| Sprint 2 Velocity        | Para el Sprint 4, hemos estimado una velocidad de  Story Points. Esta estimación se basa en las horas laborales disponibles del equipo y en la complejidad y esfuerzo estimados de las historias de usuario seleccionadas para este periodo de desarrollo.|
+| Sum of Story Points     |  |
 
 #### 5.2.4.2. Sprint Backlog 4
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review
+[https://nexalibery-backend.onrender.com/swagger/index.html](https://nexalibery-backend.onrender.com/swagger/index.html)
 
+![Execution Evidence 3](assets/BackendExecution/BE1.PNG) 
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
-
+| Repository                             | Branch                     | Commit ID                                  | Commit Message                                     | Committed on(date) | 
+|----------------------------------------|----------------------------|--------------------------------------------|----------------------------------------------------|--------------------| 
+|  NexaLibery-Frontend                   |  main                      |   648563cdc5a5cc30da3cc464c4a033520bc65ec9 | Feature files command services                     |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   e579831423684396cf1036b777ff4375727f20c4 | feature files queryService                         |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   1b6a05647e78feded17c9bd18f19b4b32ceff50f | feature model aggregates                           |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   9bee4cc1677b54395a1c74ea810b5930416718d1 | feature model commands                             |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   4daf621fe3baee07bafe202d3d79dfbe70513133 | feature interfaces repository command and services |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   da00ccc445e41e2046b5b57a4231271f7973c761 | feature files repositories                         |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   adb8c761edf8db61514ef84e82bbd0004fe778c3 | feature files resource                             |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   c53cd4f65cedc26ebb2d4d8b65a7c4f11b302ff3 | feature files transform                            |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   d8fd05895d7b9809885066444038006163e6e164 | feature files controllers                          |   02/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   8b54cf975e7bee1725a68b4df70a08470b1d5de2 | Upload files AppDbcontext and Programns.cs         |   02/06/24         | 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 

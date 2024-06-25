@@ -1350,31 +1350,32 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 #### 5.2.4.3. Development Evidence for Sprint Review
 |                         Repository                         |         Branch         |                     Commit Id                    |     Commit Message                              | Commited on (Date) | 
 |------------------------------------------------------------|------------------------|--------------------------------------------------|-------------------------------------------------|--------------------|
-| NexaLibery-Backend                                         |    feature/Multimedia  |     e0c07afc5d3944aa37b227f3df5b295ec84a4b20     |  Add files Multimedia                           |      30/05/24      | 
-| NexaLibery-Backend                                         |    feature/Podcast     |     9be1f3a8584f552860562ef361e799887f1dc1b8     |  Add files Podcast                              |      02/06/24      |
-| NexaLibery-Backend                                         |    feature/Library     |     04d169b9494d2f13ca3d935c650edf0dd00d88b3     |  feature Multimedia/application/internal files  |      29/05/24      |
-| NexaLibery-Backend                                         |    feature/Library     |     3f25f0b20fd27e1a316096dba00d9d627dd915f0     |  feature Domain/model/Aggregate                 |      29/05/24      |
-| NexaLibery-Backend                                         |    feature/Library     |     4ed417b23ce93a430cc5f7f7a096c05aefb24d2b     |  feature files Commands and Queries             |      29/05/24      |
-| NexaLibery-Backend                                         |    feature/Library     |     9598b37886a4eb54ab1f3d764266154edffa5292     |  feature files Interfaces Library               |      29/05/24      |
-| NexaLibery-Backend                                         |    feature/Library     |     b4563ce2a70480b4f21e152f59120cb072ecab76     |  feature repositories                           |      29/05/24      |
-| NexaLibery-Backend                                         |    feature/Library     |     1394b6f2209354e20582595898e311331b97b21b     |  feature resources files                        |      29/05/24      |
-| NexaLibery-Backend                                         |    feature/Library     |     706c73b2f4831d47628a01373a9a78e747b4097c     |  files transform and controller                 |      29/05/24      |
-| NexaLibery-Backend                                         |    feature/Library     |     7fee1d094c72f0c4483aeb156c77c0654e8b93e0     |  Update AppDbContext.cs                         |      29/05/24      |
-| NexaLibery-Backend                                         |    feature/Library     |     9a2f41dab42739a1a4746bcdffc4bfc86c3baa4e     |  settings Program.cs                            |      29/05/24      |
+| NexaLibery-Backend                                         |    main                |     9cf9155adf0d52c8348e754ba463d5be459c20bc     |  chore: bearer token for swagger                 |      21/06/24      | 
+| NexaLibery-Backend                                         |    main                |     4c7f6fe88d6c1e6f07c6b0531723b67c782071c8     |  Feature IAM files Application internal               |      22/06/24      |
+| NexaLibery-Backend                                         |    main      |     d215df8a38d6da7306e03918fb79bd1411e4b065    | Feature IAM Domain model  |      22/06/24      |
+| NexaLibery-Backend                                         |    main     |     4b7bc9a8e4afe6149a60ee678c59b5267049a0b8    |  Feature interfaces IAM users                |      22/06/24      |
+| NexaLibery-Backend                                         |    main      |     1c0c84f5434bce187067e1d8f0bebc1b56d8a890     |  Feature infrastructure Hashing an persistence repository           |      22/06/24      |
+| NexaLibery-Backend                                         |    main      |     3101c861360f0a0b6ef430daa02a1ddcce5338bb     |  Feature Pipeline               |      22/06/24      |
+| NexaLibery-Backend                                         |    main      |     0ac98f86d4b461fc9b0dbd1c1db5b563b03001c6     |  Feature tokens                          |      22/06/24      |
+| NexaLibery-Backend                                         |    main    |     a93eee710e41695e0972bf93d1fbd9fc9e05e84e     |  Feature controllers                       |      22/06/24      |
+| NexaLibery-Backend                                         |    main     |     e73cbb1644d515d1b45b1d1037edd48a8dc4f24f     |  feature interfaces REST resources and transform                |      22/06/24      |
+| NexaLibery-Backend                                         |    main      |     982ffe8a40e72f8570399133a6b00e5669be7067     |  Mayor changes Program.cs                        |      22/06/24      |
+| NexaLibery-Backend                                         |    main      |     47dee6a69ec052ad7ee617b42acdea5113c51538     |  Upgrade AppDbContext                           |      22/06/24      |
+| NexaLibery-Frontend                                        |  main             |   ed9375f10e7fc138da537162e220706ff682c06f | feature: add pinia iam storage service        |   21/06/24         | 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 | Repository                             | Branch                     | Commit ID                                  | Commit Message                                     | Committed on(date) | 
 |----------------------------------------|----------------------------|--------------------------------------------|----------------------------------------------------|--------------------| 
-|  NexaLibery-Frontend                   |  main                      |   648563cdc5a5cc30da3cc464c4a033520bc65ec9 | Feature files command services                     |   02/06/24         | 
-|  NexaLibery-Frontend                   |  main                      |   e579831423684396cf1036b777ff4375727f20c4 | feature files queryService                         |   02/06/24         | 
-|  NexaLibery-Frontend                   |  main                      |   1b6a05647e78feded17c9bd18f19b4b32ceff50f | feature model aggregates                           |   02/06/24         | 
-|  NexaLibery-Frontend                   |  main                      |   9bee4cc1677b54395a1c74ea810b5930416718d1 | feature model commands                             |   02/06/24         | 
-|  NexaLibery-Frontend                   |  main                      |   4daf621fe3baee07bafe202d3d79dfbe70513133 | feature interfaces repository command and services |   02/06/24         | 
-|  NexaLibery-Frontend                   |  main                      |   da00ccc445e41e2046b5b57a4231271f7973c761 | feature files repositories                         |   02/06/24         | 
-|  NexaLibery-Frontend                   |  main                      |   adb8c761edf8db61514ef84e82bbd0004fe778c3 | feature files resource                             |   02/06/24         | 
-|  NexaLibery-Frontend                   |  main                      |   c53cd4f65cedc26ebb2d4d8b65a7c4f11b302ff3 | feature files transform                            |   02/06/24         | 
-|  NexaLibery-Frontend                   |  main                      |   d8fd05895d7b9809885066444038006163e6e164 | feature files controllers                          |   02/06/24         | 
-|  NexaLibery-Frontend                   |  main                      |   8b54cf975e7bee1725a68b4df70a08470b1d5de2 | Upload files AppDbcontext and Programns.cs         |   02/06/24         | 
+|  NexaLibery-Backend                   |  main                      |   b224895f79421cf93e5fdd5c03f9f8e31d6ef386  | fix: exception handling and dependencies           |   25/06/24         | 
+|  NexaLibery-Backend                   |  main                      |   2bb74c41b8eecd106caba7d26a25c838765672be | chore: refactor format env string                   |   25/06/24         | 
+|  NexaLibery-Backend                   |  main                      |   1e409f1c8e427ae2035c56c2a1b96ccdea6238ea1 | chore: add table users                             |   25/06/24         | 
+|  NexaLibery-Backend                   |  main                      |   820bf3fe664486e191497a3b0708be7a8e79ef1c | fix: production no migrate                          |   25/06/24         | 
+|  NexaLibery-Backend                   |  main                      |   332fd2e58a561a6c647aca0864ce85ed170230b7 | fix: production no migrate                          |   25/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |  9c31616b46dd19c547f3e358352913597ac180b2 | fix: firebase resources                            |   21/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   fb1a02adfc3c5f9f85ccf6b01f2fc2169ecd49a8 | feature: refactor user to iam for authentication   |   21/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   113df12c59b92477d98c159e420361a5276fd743 | fix: need reference                                |   24/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   0a7116b27e70950feecbccf99381a31d38c68ce0 | chore: refactor user context                       |   25/06/24         | 
+|  NexaLibery-Frontend                   |  main                      |   2fe66a5536441dc70a0ee5cddf2c36a1b24ff365 | fix: double auth name                              |   25/06/24         | 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review
 

@@ -1384,16 +1384,16 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 |Leon Rioja Carlos Andres          |  |
 
 Commits del Reporte:
-<img src="assets/imgs/Commits-reporte.png" alt="Commit Reporte" style="width:100%;">
+<img src="assets/Imgs/Commits-reporte.png" alt="Commit Reporte" style="width:100%;">
 
 Commits del Landing Page:
-<img src="assets/imgs/Commits-landinpag.png" alt="Commit Landing Page" style="width:100%;">
+<img src="assets/Imgs/Commits-landinpag.png" alt="Commit Landing Page" style="width:100%;">
 
 Commits del backend:
-<img src="assets/imgs/Commits-backend.png" alt="Commit Backend" style="width:100%;">
+<img src="assets/Imgs/Commits-backend.png" alt="Commit Backend" style="width:100%;">
 
 Commits del frontend: 
-<img src="assets/imgs/Commits-frontend.png" alt="Commit Frontend" style="width:100%;">
+<img src="assets/Imgs/Commits-frontend.png" alt="Commit Frontend" style="width:100%;">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas

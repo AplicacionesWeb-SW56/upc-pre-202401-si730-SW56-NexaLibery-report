@@ -1341,11 +1341,16 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 | Sum of Story Points     |  |
 
 #### 5.2.4.2. Sprint Backlog 4
-| User Story |       |  Work-Item/Task  |             |            |             |
-|------------|-------|------------------|-------------|------------|-------------|
-|    ID      | Title |        ID        | Description | Estimation | Assigned To | Status      |
-| HU28 | Autentificacion del sign-in | W115 | Desarrollar de autenticacion del sign-in | 8 horas | Mathias Javier Murillo | DoNE |
-| HU29 | Autentificacion del sign-up | W116 | Desarrollar de autenticacion del sign-up | 8 horas | Marcelo Ramirez Ramirez | DoNE |
+
+| User Story |                                                                            | Work-Item/Task |                                                          |                                                                                                                                                                  |            |                         |
+|------------|----------------------------------------------------------------------------|----------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------|
+| ID         | Title                                                                      | ID             | Title                                                    | Description                                                                                                                                                    | Estimation | Assigned To             | Status |
+| HU28       | Configuración del entorno del frontend para la integración con el backend	| W115           | Configuración del environment del frontend               | Configurar el archivo de environment del frontend para asegurar las solicitudes API  del backend                                 | 8 horas    | Renzo Loli   | Done   |
+| HU29       | Actualización del perfil del usuario con conexión backend-frontend	        | W116           | Actualización de perfil de usuario en frontend y backend | Actualizar la funcionalidad de edición de perfil en el frontend y backend, asegurando sincronización de datos con la base de datos                                | 8 horas    | Mathias Javier Murillo    | Done   |
+| HU30       | Configuración de propiedades de la aplicación en el backend                | W117          | Configurar propiedades de la aplicación en backend       | Configurar las propiedades de la aplicación en el backend implementando los tokens de seguridad | 8 horas    | Marcelo RAMIREZ     | Done   |
+| HU31       | Gestión de habilidades de usuario                                          | W118           | Gestión de habilidades de usuario en frontend y backend  | Implementar la funcionalidad obtener todas los registros de usuario en el frontend y backend                                                   | 8 horas    | Raul Quispe | Done   |
+
+
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 |                         Repository                         |         Branch         |                     Commit Id                    |     Commit Message                              | Commited on (Date) | 

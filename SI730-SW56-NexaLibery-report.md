@@ -1388,13 +1388,15 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 ![Execution Evidence 3](assets/BackendExecution/BE2.PNG) 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En este sprint 4 todos los miembros del grupo complementaron satisfactoriamente las tareas propuestas. El sprint 4 estuvo enfocado en la creacion de la seguridad de nuestro backend a travesd e los tokens . 
+
 | Endpoint | Description | Method | Call Syntax | Query / Body | Response
 | --- | --- | --- | --- | --- | --- |
 | `/users` | Obtener Todos los Usuarios | GET | `/users` | ` ` |`[{"id": "int","username": "string","password": "string","email": "string","description": "string","cardNumber": "string","bornDate": "string","photo": "string"}]` |
 | `/sign-in` | Iniciar Sesion | POST | `/login` | `{"email":"string","password":"string"}` |`{"accessToken":"string"}` |
 | `/signup` | Registrarse | POST | `/signup` | `[{"username": "string","password": "string","email": "string","description": "string","cardNumber": "string","bornDate": "string","photo": "string"}]` |`{"accessToken":"string"}` |
-
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
 
 
 
@@ -1450,7 +1452,7 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 <div style="display:flex;justify-content:center">
 <img src="assets/Entrevista-MariaTeresa.PNG" alt="Entrevista a Maria teresa" style="width:80%;">
 </div>
-[https://youtu.be/hLfBnWDhMss](https://youtu.be/hLfBnWDhMss)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYGhfFC03atCgH8SOFmZ0osBJiprVi3ZpPlkTIp-a3TYXg?e=i7OtyH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYGhfFC03atCgH8SOFmZ0osBJiprVi3ZpPlkTIp-a3TYXg?e=i7OtyH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 <br>
 Maria Teresa considera que la aplicación NexaLibery es bastante interesante por el contenido que presenta y la forma en que lo ofrece. Encuentra la aplicación intuitiva, didáctica, sencilla de usar y agradable a la vista. Evalúa la navegación entre diferentes vistas como sencilla, dinámica y de fácil acceso para la búsqueda. Opina que las vistas cubren todos los aspectos necesarios para gestionar su experiencia en la página, ya que cada vista ofrece claridad y profundidad. Para Maria Teresa, el principal punto fuerte de la aplicación es el amplio contenido que ofrece, combinado con un diseño llamativo y una navegación fácil. La plataforma podría beneficiarle personalmente debido a su amplio contenido en materias de su interés profesional y laboral. Le ayudaría a usar los accesos a videos tutoriales para aprender y disfrutar de una gran variedad de libros en su tiempo libre. Maria Teresa también cree que la aplicación proporciona toda la información necesaria a través de los distintos botones y opciones, permitiendo encontrar con facilidad lo que busca y ofreciendo un amplio panorama de sugerencias útiles. Finalmente, muestra un alto interés en suscribirse al plan de NexaLibery, especialmente al paquete premium, que ofrece una amplia variedad de usos.
 
@@ -1463,7 +1465,7 @@ Maria Teresa considera que la aplicación NexaLibery es bastante interesante por
 <img src="assets/Entrevista-Andres.PNG" alt="Entrevista a Andres Cieza" style="width:80%;">
 </div>
 
-[https://www.youtube.com/watch?v=lOvUzc5Ftf0](https://www.youtube.com/watch?v=lOvUzc5Ftf0)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EauH4xjiM4VGnqcruEGitt8B_z5CIHbSz8Gmn-oHctAd9A?e=bfUs10&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EauH4xjiM4VGnqcruEGitt8B_z5CIHbSz8Gmn-oHctAd9A?e=aTNR8J&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 <br>
 Andres Cieza considera que la aplicación NexaLibery es muy completa para todas las necesidades que él considera que puede cubrir una aplicación de este estilo. De igual manera, la interfaz le parece muy sencilla y fácil de usar. Por último, nos comenta que no agregaría ninguna función adicional a la que ya tengamos en la misma aplicación.
 
@@ -1476,7 +1478,7 @@ Andres Cieza considera que la aplicación NexaLibery es muy completa para todas 
 <img src="assets/entrevista_alexis.png" alt="Entrevista a Manuel Alexis" style="width:80%;">
 </div>
 
-[https://youtu.be/KRn68HBrB-E](https://youtu.be/KRn68HBrB-E)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETt4WB3ag2dAk43BThVMXi4BAZuPuWY1mIHATRPL5nr6mQ?e=wF5J3Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETt4WB3ag2dAk43BThVMXi4BAZuPuWY1mIHATRPL5nr6mQ?e=wF5J3Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Manuel Alexis Vargas considera suscribirse a la plataforma por el hecho de que sí le ve buen futuro y uso. También recomendó sugerencias de mejoras, aunque también comentó que la interfaz tiene buenos colores que le acomodan bien la vista, al igual que el manejo y recorrido, es sencilla, justo para facilitar para aquellos a quienes se les complica.
 

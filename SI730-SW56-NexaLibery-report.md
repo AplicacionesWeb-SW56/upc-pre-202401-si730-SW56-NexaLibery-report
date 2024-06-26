@@ -1405,9 +1405,33 @@ En este sprint 4 todos los miembros del grupo complementaron satisfactoriamente 
 | `/signup` | Registrarse | POST | `/signup` | `[{"username": "string","password": "string","email": "string","description": "string","cardNumber": "string","bornDate": "string","photo": "string"}]` |`{"accessToken":"string"}` |
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
+1) Para la base de datos no es necesaria mas configuracion de la que ya tenemos, solo añadiremos una nueva 
+database llamada "NexaLibery" desde la consola de aiven.io
 
+![Aiven Console](assets/5.2.4.7-aiven-new-database.png)
 
+2) Para el backend solo se necesitara cambiar en las variables de entorno la base de datos a utilizar
+desde Render
 
+![Render Console](assets/5.2.4.7-backend-environment.png)
+
+* Link: https://nexalibery-backend.onrender.com
+
+3) Para el Frontend solo necesitamos hacer 2 pasos
+
+- Build del proyecto 
+
+    npm run build
+
+![Build Project](assets/5.2.4.7-build-project.png)
+
+- Subir a firebase 
+
+    firebase deploy
+
+![Firebase Deploy](assets/5.2.4.7-firebase-deploy.png)
+
+* Link: https://nexalibery-1ac72.web.app/
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint 
 

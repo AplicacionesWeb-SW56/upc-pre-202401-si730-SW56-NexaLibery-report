@@ -1401,8 +1401,8 @@ En este sprint 4 todos los miembros del grupo complementaron satisfactoriamente 
 | Endpoint | Description | Method | Call Syntax | Query / Body | Response
 | --- | --- | --- | --- | --- | --- |
 | `/users` | Obtener Todos los Usuarios | GET | `/users` | ` ` |`[{"id": "int","username": "string","password": "string","email": "string","description": "string","cardNumber": "string","bornDate": "string","photo": "string"}]` |
-| `/sign-in` | Iniciar Sesion | POST | `/login` | `{"email":"string","password":"string"}` |`{"accessToken":"string"}` |
-| `/signup` | Registrarse | POST | `/signup` | `[{"username": "string","password": "string","email": "string","description": "string","cardNumber": "string","bornDate": "string","photo": "string"}]` |`{"accessToken":"string"}` |
+| `/sign-in` | Iniciar Sesion | POST | `/login` | `{"email":"string","password":"string"}` |`{"id": "int", "email": "string", "username": "string", "token": "string"}` |
+| `/signup` | Registrarse | POST | `/signup` | `[{"username": "string","password": "string","email": "string","description": "string","cardNumber": "string","bornDate": "string","photo": "string"}]` |`{"message":"string"}` |
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
 
 1) Para la base de datos no es necesaria mas configuracion de la que ya tenemos, solo añadiremos una nueva 

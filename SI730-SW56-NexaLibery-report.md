@@ -1416,17 +1416,7 @@ desde Render
 |Javier Murillo, Mathias           | Implementacion User controller |    
 |Leon Rioja Carlos Andres          | Desarrllo y mejoras del informe |
 
-Commits del Reporte:
-<img src="assets/Imgs/Commits-reporte.png" alt="Commit Reporte" style="width:100%;">
-
-Commits del Landing Page:
-<img src="assets/Imgs/Commits-landinpag.png" alt="Commit Landing Page" style="width:100%;">
-
-Commits del backend:
 <img src="assets/Imgs/Commits-backend.png" alt="Commit Backend" style="width:100%;">
-
-Commits del frontend: 
-<img src="assets/Imgs/Commits-frontend.png" alt="Commit Frontend" style="width:100%;">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas

@@ -736,7 +736,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
    
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-<img src="assets/Diagram Class V3.PNG" alt="Diagrama clase" style="width:80%;">
+<img src="assets/Diagram Class VS3.PNG" alt="Diagrama clase" style="width:80%;">
 
 ### 4.7.2. Class Dictionary.
 ## 1. User
@@ -761,8 +761,8 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | subcriptionID      | INT (PK)      | Identificador único de cada suscripción.                |
 | subcriptiontypeID  | INT (FK)      | Clave foránea que enlaza al tipo de suscripción elegido.|
 | userID             | INT (FK)      | Clave foránea que enlaza al usuario suscrito.           |
-| startdate          | DATE          | Fecha de inicio de la suscripción.                      |
-| enddate            | DATE          | Fecha de fin de la suscripción.                         |
+| monthlyprice       | DECIMAL      | Costo mensual de la suscripción.                     |
+| description        | VARCHAR      | Descripción breve de lo que incluye la suscripción.  |
 
 ## 3. subcriptionType
 **Descripción**: Define los diferentes planes o tipos de suscripción que los usuarios pueden adquirir. Esto puede incluir diferentes niveles de acceso a contenidos, precios, y beneficios.
@@ -770,9 +770,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | Atributo           | Tipo de Dato | Descripción                                          |
 |--------------------|--------------|------------------------------------------------------|
 | subcriptiontypeID  | INT (PK)     | Identificador único para cada tipo de suscripción.   |
-| name               | VARCHAR      | Nombre del tipo de suscripción (ej. Básica, Premium).|
-| monthlyprice       | DECIMAL      | Costo mensual de la suscripción.                     |
-| description        | VARCHAR      | Descripción breve de lo que incluye la suscripción.  |
+| subcriptionname               | VARCHAR      | Nombre del tipo de suscripción (ej. Básica, Premium).|
 
 ## 4. multimediaContent
 **Descripción**: Gestiona el contenido multimedia disponible en la plataforma, categorizado por tipo y accesibilidad.
@@ -821,7 +819,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-<img src="assets/DatabaseV2.png" alt="Base de datos" style="width:80%;">
+<img src="assets/DataBaseV2.png" alt="Base de datos" style="width:80%;">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.
@@ -1537,6 +1535,10 @@ Sommerville, I. (2011). Software engineering (9th ed.). Addison-Wesley.https://w
 PrimeVue | Vue UI Component Library. (s. f.). https://primevue.org/introduction/
 
 Back-end: Guia de estudos. (s. f.). https://plataforma.reativa.dev/backend
+
+Pressman, R. S. (2014). Software engineering: A practitioner's approach (8th ed.). McGraw-Hill Education. https://www.researchgate.net/publication/220682582_Software_Engineering_9th_Edition
+
+Gothelf, J., & Seiden, J. (2013). Lean UX: Applying lean principles to improve user experience. O'Reilly Media.https://books.google.es/books?hl=es&lr=&id=wLw6EAAAQBAJ&oi=fnd&pg=PT37&dq=Lean+ux&ots=QuMNDmvouC&sig=36AUu53YuLt_4OXBjwdg9RSLr_4#v=onepage&q=Lean%20ux&f=false
 
 # Anexos
 

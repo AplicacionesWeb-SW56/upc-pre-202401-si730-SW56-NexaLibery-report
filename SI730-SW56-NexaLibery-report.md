@@ -1483,7 +1483,7 @@ Una vez terminada la parte visual de nuestra aplicación (FrontEnd) y conectada 
 **Nombre:** Maria Teresa Ramirez <br>
 **Edad:** 52 años <br>
 **Ocupación:** Administradora de empresas<br>
-
+**Duracion:** 09:54 min
 <div style="display:flex;justify-content:center">
 <img src="assets/Entrevista-MariaTeresa.PNG" alt="Entrevista a Maria teresa" style="width:80%;">
 </div>
@@ -1496,7 +1496,7 @@ Maria Teresa considera que la aplicación NexaLibery es bastante interesante por
 **Nombre:** Andres Cieza<br>
 **Edad:** 25 <br>
 **Ocupación:** Jefe de finanzas <br>
-
+**Duracion:** 03:08 min
 <div style="display:flex;justify-content:center">
 <img src="assets/Entrevista-Andres.PNG" alt="Entrevista a Andres Cieza" style="width:80%;">
 </div>
@@ -1509,11 +1509,10 @@ Andres Cieza considera que la aplicación NexaLibery es muy completa para todas 
 **Nombre:** Manuel Alexis Vargas <br>
 **Edad:** 21 años <br>
 **Ocupación:** Ingeniería de Software <br>
-
+**Duracion:** 12:36 min
 <div style="display:flex;justify-content:center">
 <img src="assets/entrevista_alexis.png" alt="Entrevista a Manuel Alexis" style="width:80%;">
 </div>
-
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETt4WB3ag2dAk43BThVMXi4BAZuPuWY1mIHATRPL5nr6mQ?e=wF5J3Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETt4WB3ag2dAk43BThVMXi4BAZuPuWY1mIHATRPL5nr6mQ?e=wF5J3Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Manuel Alexis Vargas considera suscribirse a la plataforma por el hecho de que sí le ve buen futuro y uso. También recomendó sugerencias de mejoras, aunque también comentó que la interfaz tiene buenos colores que le acomodan bien la vista, al igual que el manejo y recorrido, es sencilla, justo para facilitar para aquellos a quienes se les complica.
@@ -1549,6 +1548,7 @@ Con base en diversas opiniones recogidas durante las entrevistas a clientes empr
 - **Integración de Servicios API:** Asegúrate de integrar servicios API en tu proyecto. Esto es fundamental para conectar el front-end con el back-end, permitiendo la comunicación y el intercambio de datos. Debes saber cómo consumir y manejar APIs RESTful o GraphQL, ya que esto facilitará la creación de aplicaciones web dinámicas y ricas en funcionalidades.
 
 # Video About-the-Team.
+**Duracion:** 04:00 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf)
 <br>
 <img src="assets/about-team.PNG" alt="Video about team" style="width:80%;">
@@ -1561,17 +1561,22 @@ De Quijano, F. D. (2024, 2 abril). La venta de libros digitales creció un 9% en
 
 # Anexos
 
-Video Grbacion TB1:
+Video Grabacion TB1:
+**Duracion:** 30:29 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYXxGwNagKZCvauw2GAnB-UBiCFuxF0Bq0Ln0o6oKrcGxA?e=meG7X1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYXxGwNagKZCvauw2GAnB-UBiCFuxF0Bq0Ln0o6oKrcGxA?e=oes3YM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Video Grbacion TP:
+Video Grabacion TP:
+**Duracion:** 06:30 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EUj0JK-wd9tGgEcBm7_ss4gBnz-8Z5WOsNxxHMBqkrMlDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ccMYpE](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EUj0JK-wd9tGgEcBm7_ss4gBnz-8Z5WOsNxxHMBqkrMlDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ccMYpE)
 
-Video Grbacion TB2:
+Video Grabacion TB2:
+**Duracion:** 12:17 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWuxP6ZvByNLrx47177y1aIB7dFAV_cupzvLIroO-Q4vfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=taXDTa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWuxP6ZvByNLrx47177y1aIB7dFAV_cupzvLIroO-Q4vfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=taXDTa)
 
-Video Grbacion TF:
+Video Grabacion TF:
+**Duracion:** 09:37 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfCGh3nUXABGhBX92H-D6WYBbGIp9id0YFh3yt848nYvAw?e=KBcamt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfCGh3nUXABGhBX92H-D6WYBbGIp9id0YFh3yt848nYvAw?e=KBcamt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Video Grbacion Entrevistas:
+Video Grabacion Entrevistas 2:
+**Duracion:** 25:37 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111451_upc_edu_pe/EdRi8rYe-yxNuZQLYk7OhUcBHfLH61NT3FmFhtoCo81LHQ?e=I6EEqZ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111451_upc_edu_pe/EdRi8rYe-yxNuZQLYk7OhUcBHfLH61NT3FmFhtoCo81LHQ?e=I6EEqZ)

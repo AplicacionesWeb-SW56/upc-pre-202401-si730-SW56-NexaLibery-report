@@ -1521,6 +1521,7 @@ Andres Cieza considera que la aplicación NexaLibery es muy completa para todas 
 <div style="display:flex;justify-content:center">
 <img src="assets/entrevista_alexis.png" alt="Entrevista a Manuel Alexis" style="width:80%;">
 </div>
+
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETt4WB3ag2dAk43BThVMXi4BAZuPuWY1mIHATRPL5nr6mQ?e=wF5J3Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ETt4WB3ag2dAk43BThVMXi4BAZuPuWY1mIHATRPL5nr6mQ?e=wF5J3Y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 Manuel Alexis Vargas considera suscribirse a la plataforma por el hecho de que sí le ve buen futuro y uso. También recomendó sugerencias de mejoras, aunque también comentó que la interfaz tiene buenos colores que le acomodan bien la vista, al igual que el manejo y recorrido, es sencilla, justo para facilitar para aquellos a quienes se les complica.
@@ -1535,7 +1536,7 @@ Con base en diversas opiniones recogidas durante las entrevistas a clientes empr
  - La mayoría de los entrevistados se muestran dispuestos a suscribirse o registrarse en NexaLibery.
 
 ## 5.4. Video About-the-Product
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfD0A1l1rO5Pm-gSYvu3C5EBYLtgmZE1Mo2fL2N5Fk5Aww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uqfazC](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfD0A1l1rO5Pm-gSYvu3C5EBYLtgmZE1Mo2fL2N5Fk5Aww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uqfazC)
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfD0A1l1rO5Pm-gSYvu3C5EBYLtgmZE1Mo2fL2N5Fk5Aww?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uqfazC](https://upcedupemy.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfD0A1l1rO5PmgSYvu3C5EBYLtgmZE1Mo2fL2N5Fk5Awwnav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=uqfazC)
 <br>
 <img src="assets/MEDIAVERSE.jpg" alt="Video about product" style="width:80%;">
 
@@ -1555,8 +1556,8 @@ Con base en diversas opiniones recogidas durante las entrevistas a clientes empr
 - **Conocimientos en Vue.js:** Es importante tener conocimientos en frameworks de JavaScript como Vue.js. Este framework te ayudará a desarrollar interfaces de usuario reactivas y componentes reutilizables, lo que facilita la construcción de aplicaciones web modernas con una estructura clara y mantenible.
 - **Integración de Servicios API:** Asegúrate de integrar servicios API en tu proyecto. Esto es fundamental para conectar el front-end con el back-end, permitiendo la comunicación y el intercambio de datos. Debes saber cómo consumir y manejar APIs RESTful o GraphQL, ya que esto facilitará la creación de aplicaciones web dinámicas y ricas en funcionalidades.
 
-# Video About-the-Team.
-**Duracion:** 04:00 min
+# Video About-the-Team. <br>
+**Duracion:** 04:00 min <br>
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/ESH-ohc-rpFJuqhJKHrT-UQBwVDE892_GnPuHArGQ4s_xg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=YHexBf)
 <br>
 <img src="assets/about-team.PNG" alt="Video about team" style="width:80%;">

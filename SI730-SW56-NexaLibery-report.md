@@ -40,15 +40,18 @@ Repositorio del reporte:
 
 Repositorio del Landing Page:
 [https://github.com/AplicacionesWeb-SW56/NexaLibery-landingPage](https://github.com/AplicacionesWeb-SW56/NexaLibery-landingPage)
+![Collaboration Insights](assets/collaborationInsights/NLLP.PNG) 
 
 Repositorio del db.json en github:
 [https://github.com/MRamirez202210582/NexaLiberyApi](https://github.com/MRamirez202210582/NexaLiberyApi)
 
 Repositorio del Frontend Web Apliccations:
 [https://github.com/AplicacionesWeb-SW56/NexaLibery-Frontend](https://github.com/AplicacionesWeb-SW56/NexaLibery-Frontend)
+![Collaboration Insights](assets/collaborationInsights/NLFE.PNG) 
 
 Repositorio del Backend:
 [https://github.com/AplicacionesWeb-SW56/NexaLibery-Backend](https://github.com/AplicacionesWeb-SW56/NexaLibery-Backend)
+![Collaboration Insights](assets/collaborationInsights/NLBE.PNG) 
 
 # Student Outcome
 | Criterio Específico                                          | Acciones Realizadas | Conclusiones          |

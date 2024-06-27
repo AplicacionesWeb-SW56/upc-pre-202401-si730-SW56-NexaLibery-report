@@ -1416,7 +1416,7 @@ desde Render
 |Javier Murillo, Mathias           | Implementacion User controller |    
 |Leon Rioja Carlos Andres          | Desarrllo y mejoras del informe |
 
-<img src="assets/Imgs/Commits-backend.png" alt="Commit Backend" style="width:100%;">
+<img src="assets/Sprint4TeamCollab.PNG" alt="Commit Backend" style="width:100%;">
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas

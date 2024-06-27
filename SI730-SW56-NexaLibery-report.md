@@ -736,7 +736,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
    
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
-<img src="assets/Diagram Class V2.PNG" alt="Diagrama clase" style="width:80%;">
+<img src="assets/Diagram Class V3.PNG" alt="Diagrama clase" style="width:80%;">
 
 ### 4.7.2. Class Dictionary.
 ## 1. User
@@ -745,11 +745,13 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | Atributo           | Tipo de Dato | Descripción                                          |
 |--------------------|--------------|------------------------------------------------------|
 | userID             | INT (PK)     | Identificador único para cada usuario.               |
-| name               | VARCHAR      | Nombre completo del usuario.                         |
 | email              | VARCHAR      | Dirección de correo electrónico del usuario.         |
 | password           | VARCHAR      | Contraseña de acceso del usuario.                    |
+| name               | VARCHAR      | Nombre completo del usuario.                         |
+| description        | VARCHAR      | Descripción o biografía del usuario.  |
+| cardnumber         | VARCHAR      | Número de tarjeta de crédito del usuario.|
 | bornhDate          | DATE         | Fecha de nacimiento del usuario.                     |
-| registrationDate    | DATETIME     | Fecha en la que el usuario se registró en la plataforma. |
+| photourl            | VARCHAR     | URL de la foto de perfil del usuario.  |
 
 ## 2. subscriptions
 **Descripción**: Gestiona las suscripciones de los usuarios a la plataforma. Cada suscripción está vinculada a un usuario y un tipo de suscripción, y tiene un período de validez.
@@ -772,7 +774,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | monthlyprice       | DECIMAL      | Costo mensual de la suscripción.                     |
 | description        | VARCHAR      | Descripción breve de lo que incluye la suscripción.  |
 
-## 4. MultimediaContent
+## 4. multimediaContent
 **Descripción**: Gestiona el contenido multimedia disponible en la plataforma, categorizado por tipo y accesibilidad.
 
 | Atributo           | Tipo de Dato | Descripción                                          |
@@ -785,16 +787,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | premiun            | BOOLEAN      | Indica si el contenido es exclusivo para suscriptores premium. |
 | URL                | VARCHAR      | Dirección URL donde se encuentra alojado el contenido. |
 
-## 5. Authors
-**Descripción**: Contiene información sobre los autores de los contenidos disponibles en la plataforma.
-
-| Atributo           | Tipo de Dato | Descripción                                   |
-|--------------------|--------------|-----------------------------------------------|
-| authorID           | INT (PK)     | Identificador único de cada autor.            |
-| name               | VARCHAR      | Nombre completo del autor.                    |
-| description        | VARCHAR      | Breve biografía del autor.                    |
-
-## 6. playList
+## 5. playlist
 **Descripción**: Permite a los usuarios crear y gestionar listas personalizadas de contenidos multimedia.
 
 | Atributo           | Tipo de Dato | Descripción                                        |
@@ -805,7 +798,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | description        | VARCHAR      | Descripción breve de la lista.                     |
 | createddate        | DATETIME     | Fecha en que la lista fue creada.                  |
 
-## 7. community
+## 6. community
 **Descripción**: Facilita la creación y gestión de comunidades dentro de la plataforma para fomentar la interacción entre usuarios.
 
 | Atributo           | Tipo de Dato | Descripción                                 |
@@ -815,7 +808,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | description        | VARCHAR      | Descripción breve de la comunidad.          |
 | createdate         | DATETIME     | Fecha en que la comunidad fue creada.       |
 
-## 8. communityMembers
+## 7. communityMembers
 **Descripción**: Gestiona la membresía de usuarios en las comunidades, incluyendo la cantidad de usuarios por comunidad.
 
 | Atributo           | Tipo de Dato | Descripción                                       |
@@ -825,41 +818,10 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | userID             | INT (FK)     | Clave foránea que enlaza al usuario miembro.      |
 | amount             | INT          | Cantidad de usuarios de comunidades.              |
 
-## 9. studentProfile
-**Descripción**: Asocia a los usuarios con sus respectivas instituciones educativas, posibilitando ofertas o contenidos exclusivos para estudiantes.
-
-| Atributo              | Tipo de Dato | Descripción                                            |
-|-----------------------|--------------|--------------------------------------------------------|
-| PerfilEstudianteID    | INT (PK)     | Identificador único del perfil de estudiante.         |
-| userID                | INT (FK)     | Clave foránea que enlaza al usuario con estatus de estudiante. |
-| institute             | VARCHAR      | Nombre de la institución educativa del estudiante.    |
-
-## 10. history
-**Descripción**: Registra cada vez que un usuario accede a un contenido, permitiendo seguimiento de lo que los usuarios ven o escuchan en la plataforma.
-
-| Atributo       | Tipo de Dato | Descripción                                                    |
-|----------------|--------------|----------------------------------------------------------------|
-| historyID      | INT (PK)     | Identificador único del historial de acceso a contenidos.      |
-| userID         | INT (FK)     | Clave foránea que enlaza al usuario.                           |
-| contentID      | INT (FK)     | Clave foránea que enlaza al contenido accedido.                |
-| accessdate     | DATETIME     | Fecha y hora en que el contenido fue accedido.                 |
-
-## 11. valorizations
-**Descripción**: Permite a los usuarios valorar y comentar sobre los contenidos que consumen, ofreciendo feedback y recomendaciones a otros usuarios.
-
-| Atributo         | Tipo de Dato | Descripción                                                     |
-|------------------|--------------|-----------------------------------------------------------------|
-| valorizationID   | INT (PK)     | Identificador único de cada valoración.                         |
-| contentID        | INT (FK)     | Clave foránea que enlaza al contenido valorado.                 |
-| userID           | INT (FK)     | Clave foránea que enlaza al usuario que realiza la valoración.  |
-| score            | INT          | Puntuación otorgada al contenido.                               |
-| comment          | VARCHAR      | Comentario sobre el contenido.                                  |
-| valorizationdate | DATE         | Fecha en que se realizó la valoración.                          |
-
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
-<img src="assets/Database.png" alt="Base de datos" style="width:80%;">
+<img src="assets/DatabaseV2.png" alt="Base de datos" style="width:80%;">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 ## 5.1. Software Configuration Management.

@@ -785,38 +785,6 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 | premiun            | BOOLEAN      | Indica si el contenido es exclusivo para suscriptores premium. |
 | URL                | VARCHAR      | Dirección URL donde se encuentra alojado el contenido. |
 
-## 5. playlist
-**Descripción**: Permite a los usuarios crear y gestionar listas personalizadas de contenidos multimedia.
-
-| Atributo           | Tipo de Dato | Descripción                                        |
-|--------------------|--------------|----------------------------------------------------|
-| listID             | INT (PK)     | Identificador único de cada lista de reproducción. |
-| userID             | INT (FK)     | Clave foránea que enlaza al usuario creador.       |
-| name               | VARCHAR      | Nombre de la lista de reproducción.                |
-| description        | VARCHAR      | Descripción breve de la lista.                     |
-| createddate        | DATETIME     | Fecha en que la lista fue creada.                  |
-
-## 6. community
-**Descripción**: Facilita la creación y gestión de comunidades dentro de la plataforma para fomentar la interacción entre usuarios.
-
-| Atributo           | Tipo de Dato | Descripción                                 |
-|--------------------|--------------|---------------------------------------------|
-| communityID        | INT (PK)     | Identificador único de cada comunidad.      |
-| name               | VARCHAR      | Nombre de la comunidad.                     |
-| description        | VARCHAR      | Descripción breve de la comunidad.          |
-| createdate         | DATETIME     | Fecha en que la comunidad fue creada.       |
-
-## 7. communityMembers
-**Descripción**: Gestiona la membresía de usuarios en las comunidades, incluyendo la cantidad de usuarios por comunidad.
-
-| Atributo           | Tipo de Dato | Descripción                                       |
-|--------------------|--------------|---------------------------------------------------|
-| memberID           | INT (PK)     | Identificador único de cada miembro de comunidad. |
-| communityID        | INT (FK)     | Clave foránea que enlaza a la comunidad.          |
-| userID             | INT (FK)     | Clave foránea que enlaza al usuario miembro.      |
-| amount             | INT          | Cantidad de usuarios de comunidades.              |
-
-
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 <img src="assets/DataBaseV2.png" alt="Base de datos" style="width:80%;">

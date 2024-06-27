@@ -72,11 +72,11 @@ En NexaLibery, somos un equipo de desarrolladores enfocados en revolucionar la e
 #### 1.1.2. Perfiles de integrantes del equipo
 | Miembros del equipo | Código Estudiante | Carrera | Conocimientos / Habilidades |
 |---------------------|-------------------|---------|-----------------------------|
-| Loli Ruiz Renzo, Javier ![Renzo Loli](assets/members-profile/renzoLoli.png) | U20161C993 | Ingeniería de software | C++, Python, Javascript, C# |
-| Ramirez Ramirez, Marcelo Sebastian ![Marcelo Sebastian](assets/members-profile/ramirez.jpeg) | U202210582 | Ingeniería de software | C++, HTML5, JavaScript, SQL,CSS |
-| Quispe Erasmo, Raúl Ronaldo ![Raúl Ronaldo](assets/members-profile/QuispeErasmo.jpeg) | U20211B682 | Ingeniería de software | C++, python, HTML5, CSS3, JavaScript |
-| Javier Murillo, Mathias ![Mathias](assets/members-profile/MathiasJavierMurillo.jpg) | U202022211 | Ingeniería de software | C++, SQL, React, Python, JavaScript |
-| Leon Rioja, Carlos Andres ![Carlos Andres](assets/members-profile/carlos.jpg) | U202111451 | Ingeniería de software | C++, Python, HTML, CSS |
+| Loli Ruiz Renzo, Javier <br> <img src="assets/members-profile/renzoLoli.png" alt="Imagen del compañero" style="width:60%;">  | U20161C993 | Ingeniería de software | C++, Python, Javascript, C# |
+| Ramirez Ramirez, Marcelo Sebastian <br> <img src="assets/members-profile/ramirez.jpeg" alt="Imagen del compañero" style="width:60%;"> | U202210582 | Ingeniería de software | C++, HTML5, JavaScript, SQL,CSS |
+| Quispe Erasmo, Raúl Ronaldo <br> <img src="assets/members-profile/QuispeErasmo.jpeg" alt="Imagen del compañero" style="width:60%;">| U20211B682 | Ingeniería de software | C++, python, HTML5, CSS3, JavaScript |
+| Javier Murillo, Mathias <br> <img src="assets/members-profile/MathiasJavierMurillo.jpg" alt="Imagen del compañero" style="width:60%;"> | U202022211 | Ingeniería de software | C++, SQL, React, Python, JavaScript |
+| Leon Rioja, Carlos Andres <br> <img src="assets/members-profile/carlos.jpg" alt="Imagen del compañero" style="width:60%;">  | U202111451 | Ingeniería de software | C++, Python, HTML, CSS |
 
 
 ## 1.2. Solution Profile

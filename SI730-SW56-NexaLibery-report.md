@@ -1,7 +1,7 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>INGENIERÍA DE SISTEMAS DE SOFTWARE</strong><br>
+    <strong>INGENIERÍA DE SOFTWARE</strong><br>
     <strong> SI730 - Aplicaciones Web SW56</strong><br>
     <strong>Profesor: Efrain Ricardo Bautista Ubillus </strong><br>
     <br>INFORME <br>

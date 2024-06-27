@@ -922,9 +922,9 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 #### 5.2.1.2. Sprint Backlog 1.
 # Sprint 1
-| User Story |  | Work-Item/Task |  |  |  |  |
-|------------|----------------|-------------|--------------------------------|----------------------------------------------|-----------|--------------------------|
-| ID         | Title          | ID          | Title                          | Description                                   | Estimation | Assigned To              | Status |
+| User Story |                | Work-Item/Task |                                |                                              |            |                          |        |
+|------------|----------------|-------------   |--------------------------------|----------------------------------------------|----------- |--------------------------|--------|
+| ID         | Title          | ID             | Title                          | Description                                  | Estimation | Assigned To              | Status(To-do/In-Process/To-Review/Done) |
 | HU16       | Acceso a las suscripciones | W101 | Desarrollo de la sección Suscripciones | "Desarrollo del código base HTML para detallar las diferentes opciones de suscripción disponibles." | 8 horas | Renzo Javier Loli Ruiz | Done   |
 | HU17       | Descubrir servicios | W102 | Desarrollo de la sección Servicios | "Desarrollo del código base HTML para la sección de Servicios, mostrando los servicios ofrecidos por la plataforma." | 8 horas | Ramirez Ramirez Marcelo Sebastian | Done   |
 | HU18       | Conocer autores de la página | W103 | Desarrollo de la sección Equipo | "Mejora del código HTML para incluir información sobre los creadores y el equipo detrás de la plataforma." | 8 horas | Leon Rioja Carlos Andres | Done   |
@@ -1034,10 +1034,10 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 #### 5.2.2.2. Sprint Backlog 2.
 # Sprint 2
-| User Story |  | Work-Item/Task |  |  |  |  |
-|------------|----------------|-------------|--------------------------------|----------------------------------------------|-----------|--------------------------|
-| ID         | Title          | ID          | Title                          | Description                                   | Estimation | Assigned To              | Status |
-| HU05 | Recibir recomendaciones personalizadas | W102 | Desarrollo de motor de recomendación | "Implementación del algoritmo para generar recomendaciones basadas en el historial de consumo del usuario." | 10 horas | Renzo Javier Loli Ruiz | DoNE |
+| User Story |                | Work-Item/Task |                                |                                              |            |                          |        |
+|------------|----------------|-------------   |--------------------------------|----------------------------------------------|----------- |--------------------------|--------|
+| ID         | Title          | ID             | Title                          | Description                                  | Estimation | Assigned To              | Status(To-do/In-Process/To-Review/Done) |
+| HU05 | Recibir recomendaciones personalizadas | W102 | Desarrollo de motor de recomendación | "Implementación del algoritmo para generar recomendaciones basadas en el historial de consumo del usuario." | 10 horas | Renzo Javier Loli Ruiz | Done |
 | HU08 | Beneficios de suscripción para estudiantes | W103 | Integración con sistema de verificación estudiantil | "Integrar un sistema de verificación de estatus estudiantil para otorgar descuentos." | 7 horas | Javier Murillo Mathias | Done |
 | HU09       | Herramientas de estudio integradas | W101 | Desarrollo de la sección Libreria | "Desarrollo del código base HTML para detallar las diferentes libros de estudio y/o interes disponibles." | 8 horas | Javier Murillo Mathias | Done   |
 | HU10       | Acceso a las suscripciones | W104 | Desarrollo de la sección Suscripciones | "Desarrollo del código base HTML para detallar las diferentes opciones de suscripción disponibles." | 8 horas | Renzo Javier Loli Ruiz | Done   |
@@ -1195,9 +1195,9 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 #### 5.2.3.2. Sprint Backlog 3
 
-| User Story |       |  Work-Item/Task  |             |            |             |
-|------------|-------|------------------|-------------|------------|-------------|
-|    ID      | Title |        ID        | Description | Estimation | Assigned To | Status      |
+| User Story |                | Work-Item/Task |                                |                                              |            |                          |        |
+|------------|----------------|-------------   |--------------------------------|----------------------------------------------|----------- |--------------------------|--------|
+| ID         | Title          | ID             | Title                          | Description                                  | Estimation | Assigned To              | Status(To-do/In-Process/To-Review/Done) |
 | HU23       | Registrar nuevo contenido en la biblioteca multimedia | W111 | Desarrollar la funcionalidad para que los administradores puedan registrar nuevo contenido multimedia en la biblioteca de la plataforma. | 8 horas | Renzo Javier Loli Ruiz | Done |
 | HU24       | Obtener datos de la biblioteca multimedia y podcasts | W112 | Desarrollar la funcionalidad para obtener datos de la biblioteca multimedia y podcasts y mostrarlos en la aplicación. | 6 horas | Raúl Ronaldo Quispe Erasmo | Done |
 | HU25       | Configuración inicial del servidor backend | W112 | Realizar la configuración inicial del servidor backend para garantizar un entorno de ejecución estable y seguro para la aplicación web. | 10 horas | Renzo Javier Loli Ruiz | Done |
@@ -1361,12 +1361,12 @@ Dentro del marco de trabajo Scrum, un Sprint representa un período de tiempo de
 
 #### 5.2.4.2. Sprint Backlog 4
 
-| User Story |                                                                            | Work-Item/Task |                                                          |                                                                                                                                                                  |            |                         |
-|------------|----------------------------------------------------------------------------|----------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------|
-| ID         | Title                                                                      | ID             | Title                                                    | Description                                                                                                                                                    | Estimation | Assigned To             | Status |
+| User Story |                | Work-Item/Task |                                |                                              |            |                          |        |
+|------------|----------------|-------------   |--------------------------------|----------------------------------------------|----------- |--------------------------|--------|
+| ID         | Title          | ID             | Title                          | Description                                  | Estimation | Assigned To              | Status(To-do/In-Process/To-Review/Done) |
 | HU28       | Configuración del entorno del frontend para la integración con el backend	| W115           | Configuración del environment del frontend               | Configurar el archivo de environment del frontend para asegurar las solicitudes API  del backend                                 | 8 horas    | Renzo Loli   | Done   |
 | HU29       | Actualización del perfil del usuario con conexión backend-frontend	        | W116           | Actualización de perfil de usuario en frontend y backend | Actualizar la funcionalidad de edición de perfil en el frontend y backend, asegurando sincronización de datos con la base de datos                                | 8 horas    | Mathias Javier Murillo    | Done   |
-| HU30       | Configuración de propiedades de la aplicación en el backend                | W117          | Configurar propiedades de la aplicación en backend       | Configurar las propiedades de la aplicación en el backend implementando los tokens de seguridad | 8 horas    | Marcelo RAMIREZ     | Done   |
+| HU30       | Configuración de propiedades de la aplicación en el backend                | W117          | Configurar propiedades de la aplicación en backend       | Configurar las propiedades de la aplicación en el backend implementando los tokens de seguridad | 8 horas    | Marcelo Ramirez     | Done   |
 | HU31       | Gestión de habilidades de usuario                                          | W118           | Gestión de habilidades de usuario en frontend y backend  | Implementar la funcionalidad obtener todas los registros de usuario en el frontend y backend                                                   | 8 horas    | Raul Quispe | Done   |
 
 

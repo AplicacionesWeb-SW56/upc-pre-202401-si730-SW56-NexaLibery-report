@@ -492,11 +492,18 @@ As Is:
 | **Terms and Definitions** | **Términos y Definiciones** |
 |---------------------------|-----------------------------|
 | Estudiante                | Persona la cual busca nuestra aplicacion por medio de la suscripcion para estudiantes,. |
-| Usuario                   | Cualquier persona o entidad que utiliza la plataforma para solicitar o proveer servicios técnicos. |
+| Usuario                   | Cualquier persona o entidad que utiliza la plataforma s. |
 | Plan de suscripcion       | Modelo de pago que permite a los usuarios acceder a servicios específicos durante un periodo determinado. |
 | Lista de reproduccion     | Lista el cual puede organizar sus preferencias y descubrimientos |
 | Contenido multimedia      | Repertorio de todos los materiales de la plataforma |
 | Premiun                   | Contenido exclusivo de la suscripcion Premiun |
+| Library                   | Contenido de lectura digital, incluyendo libros electrónicos y otros recursos textuales. |
+| Multimedia                | Contenido multimedia, como música, videos y otros formatos audiovisuales. |
+| Podcast                   | Contenido de podcasts, incluyendo episodios de audio sobre diversos temas y programas. |
+| Descripcion               | Explicacion breve y clara del tipo de material que se esta utilizando |
+| Authentication            | Auteticacion de usuario con el que se genera una clave para el uso del backend |
+| Upload                    | Funcion del sistema donde los usuarios pueden subir contenido multimedia a la plataforma |
+| I18n                      | Implementación de soporte multilingüe y adaptación cultural para usuarios de diferentes regiones. |
 ---
 
 # Capítulo III: Requirements Specification
@@ -730,6 +737,7 @@ se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 <img src="assets/Diagram Class V2.PNG" alt="Diagrama clase" style="width:80%;">
+
 ### 4.7.2. Class Dictionary.
 ## 1. User
 **Descripción**: Representa a cada persona que se registra y utiliza la plataforma. Incluye información personal básica, así como detalles de su cuenta como el email y contraseña.

@@ -1569,22 +1569,22 @@ De Quijano, F. D. (2024, 2 abril). La venta de libros digitales creció un 9% en
 
 # Anexos
 
-Video Grabacion TB1:
+Video Grabacion TB1: <br>
 **Duracion:** 30:29 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYXxGwNagKZCvauw2GAnB-UBiCFuxF0Bq0Ln0o6oKrcGxA?e=meG7X1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EYXxGwNagKZCvauw2GAnB-UBiCFuxF0Bq0Ln0o6oKrcGxA?e=oes3YM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Video Grabacion TP:
+Video Grabacion TP: <br>
 **Duracion:** 06:30 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EUj0JK-wd9tGgEcBm7_ss4gBnz-8Z5WOsNxxHMBqkrMlDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ccMYpE](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EUj0JK-wd9tGgEcBm7_ss4gBnz-8Z5WOsNxxHMBqkrMlDA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ccMYpE)
 
-Video Grabacion TB2:
+Video Grabacion TB2: <br>
 **Duracion:** 12:17 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWuxP6ZvByNLrx47177y1aIB7dFAV_cupzvLIroO-Q4vfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=taXDTa](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EWuxP6ZvByNLrx47177y1aIB7dFAV_cupzvLIroO-Q4vfw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=taXDTa)
 
-Video Grabacion TF:
+Video Grabacion TF: <br>
 **Duracion:** 09:37 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfCGh3nUXABGhBX92H-D6WYBbGIp9id0YFh3yt848nYvAw?e=KBcamt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210582_upc_edu_pe/EfCGh3nUXABGhBX92H-D6WYBbGIp9id0YFh3yt848nYvAw?e=KBcamt&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-Video Grabacion Entrevistas 2:
+Video Grabacion Entrevistas 2: <br>
 **Duracion:** 25:37 min
 [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111451_upc_edu_pe/EdRi8rYe-yxNuZQLYk7OhUcBHfLH61NT3FmFhtoCo81LHQ?e=I6EEqZ](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202111451_upc_edu_pe/EdRi8rYe-yxNuZQLYk7OhUcBHfLH61NT3FmFhtoCo81LHQ?e=I6EEqZ)

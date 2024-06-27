@@ -1536,6 +1536,18 @@ Eslava, D. C. (2024, 14 marzo). Las bibliotecas digitales y sus esfuerzos por re
 
 De Quijano, F. D. (2024, 2 abril). La venta de libros digitales creció un 9% en 2023 y se duplicó la destinada a préstamos en bibliotecas. El Español. https://www.elespanol.com/el-cultural/letras/20240402/venta-libros-digitales-crecio-duplico-destinada-prestamos-bibliotecas/844665801_0.html
 
+Teorey, T. J., Lightstone, S. S., & Nadeau, T. (2011). Database modeling and design: Logical design (5th ed.). Morgan Kaufmann. https://eketab2.wordpress.com/wp-content/uploads/2007/09/databasemodelinganddesignlogical-design.pdf
+
+Duckett, J. (2014). HTML and CSS: Design and build websites. John Wiley & Sons. https://wtf.tw/ref/duckett.pdf
+
+Cohn, M. (2004). User stories applied: For agile software development. Addison-Wesley. https://books.google.es/books?hl=es&lr=&id=SvIwuX4SVigC&oi=fnd&pg=PR13&dq=Cohn,+M.+(2004).+User+stories+applied:+For+agile+software+development.+AddisonWesley.&ots=VsSb68rUSO&sig=zVJsoYVopnqITrtBXPAIzePb96w#v=onepage&q=Cohn%2C%20M.%20(2004).%20User%20stories%20applied%3A%20For%20agile%20software%20development.%20Addison-Wesley.&f=false
+
+Sommerville, I. (2011). Software engineering (9th ed.). Addison-Wesley.https://www.researchgate.net/publication/220682582_Software_Engineering_9th_Edition
+
+PrimeVue | Vue UI Component Library. (s. f.). https://primevue.org/introduction/
+
+Back-end: Guia de estudos. (s. f.). https://plataforma.reativa.dev/backend
+
 # Anexos
 
 Video Grabacion TB1: <br>
